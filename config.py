@@ -223,7 +223,6 @@ CATEGORIES = [
     "品牌动态",
     "时装周",
     "小红书",
-    "公众号",
     "博主观点",
 ]
 
@@ -276,12 +275,6 @@ SOURCES = [
     # B站时尚博主
     {"name": "AHALOLO (B站)", "access": "blogger", "url": "https://space.bilibili.com/353368172", "desc": "B站时尚评论/吐槽 · 深度解析"},
     {"name": "午夜飞行鼠 (B站)", "access": "blogger", "url": "https://space.bilibili.com/14359467", "desc": "B站时尚内容创作 · 穿搭测评"},
-    # 微信公众号
-    {"name": "LADYMAX (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "中文时尚商业深度 · 公众号"},
-    {"name": "Numero中文版 (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "Numero大都市中文版 · 公众号"},
-    {"name": "Vogue Business (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "Vogue商业洞察中文版 · 公众号"},
-    {"name": "1stRow (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "秀场前排 · 时装周深度报道"},
-    {"name": "InsideFashion (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "时尚圈内幕 · 产业深度"},
 ]
 
 # 提取纯名称列表（兼容旧代码）
