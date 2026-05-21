@@ -103,35 +103,18 @@ def render_sidebar() -> dict:
 
         st.markdown("<br>", unsafe_allow_html=True)
 
-        # 数据刷新
-        col_refresh, col_xhs, col_status = st.columns([1, 1, 1.5])
+        # ===== 数据刷新 =====
+        st.markdown('<p style="color:#9B9B9B; font-size:10px; margin:12px 0 4px 0; text-transform:uppercase;">▼ 数据刷新</p>', unsafe_allow_html=True)
+
+        col_refresh, col_status = st.columns([1, 1.5])
         with col_refresh:
             if st.button("🔄 更新日报", use_container_width=True, help="从最新日报文件刷新数据"):
-                with st.spinner("正在从最新日报更新..."):
+                with st.spinner("更新中..."):
                     count, fname = refresh_from_brief()
                 if count > 0:
-                    st.success(f"已更新 {count} 篇")
+                    st.success(f"+{count}篇")
                 else:
-                    st.warning("未找到日报文件")
-
-        with col_xhs:
-            xhs_cookie = os.getenv("XHS_COOKIE", "")
-            if st.button("📕 刷新小红书", use_container_width=True, help="爬取小红书时尚热点"):
-                if not xhs_cookie:
-                    st.error("请设置 XHS_COOKIE")
-                else:
-                    with st.spinner("正在爬取小红书时尚热点..."):
-                        try:
-                            from utils.xhs_scraper import scrape_fashion_notes, xhs_note_to_article, merge_into_articles
-                            notes = scrape_fashion_notes(xhs_cookie, notes_per_keyword=3)
-                            if notes:
-                                articles = [xhs_note_to_article(n) for n in notes]
-                                count = merge_into_articles(articles)
-                                st.success(f"新增 {count} 篇小红书")
-                            else:
-                                st.warning("未获取到新笔记")
-                        except Exception as e:
-                            st.error(f"爬取失败: {str(e)[:60]}")
+                    st.warning("无日报")
 
         with col_status:
             meta = get_meta()
@@ -141,10 +124,45 @@ def render_sidebar() -> dict:
                     unsafe_allow_html=True,
                 )
             else:
-                st.markdown(
-                    '<p style="color:#4A4D53; font-size:9px;">点击刷新加载数据</p>',
-                    unsafe_allow_html=True,
-                )
+                st.markdown('<p style="color:#4A4D53; font-size:9px;">点击刷新加载</p>', unsafe_allow_html=True)
+
+        # ===== 小红书一键刷新 =====
+        st.markdown("---")
+        st.markdown('<p style="color:#FF6B81; font-size:10px; margin:0 0 4px 0; text-transform:uppercase;">📕 小红书热点爬虫</p>', unsafe_allow_html=True)
+
+        # Cookie 输入（存 session_state，本次会话有效）
+        if "xhs_cookie" not in st.session_state:
+            st.session_state.xhs_cookie = os.getenv("XHS_COOKIE", "")
+
+        with st.expander("⚙️ 设置 Cookie", expanded=not bool(st.session_state.xhs_cookie)):
+            st.caption("1. 打开 xiaohongshu.com 并登录")
+            st.caption("2. F12 → Application → Cookies → web_session")
+            st.session_state.xhs_cookie = st.text_input(
+                "粘贴 Cookie",
+                value=st.session_state.xhs_cookie,
+                type="password",
+                placeholder="web_session=...",
+                label_visibility="collapsed",
+            )
+
+        if st.button("📕 一键爬取小红书时尚热点", use_container_width=True,
+                     type="primary" if st.session_state.xhs_cookie else "secondary"):
+            if not st.session_state.xhs_cookie:
+                st.error("请先展开上方 ⚙️ 设置 Cookie 并粘贴")
+            else:
+                with st.spinner("🔍 正在搜索时尚热点..."):
+                    try:
+                        from utils.xhs_scraper import scrape_fashion_notes, xhs_note_to_article, merge_into_articles
+                        notes = scrape_fashion_notes(st.session_state.xhs_cookie, notes_per_keyword=3)
+                        if notes:
+                            articles = [xhs_note_to_article(n) for n in notes]
+                            count = merge_into_articles(articles)
+                            st.success(f"✅ 新增 {count} 篇小红书内容")
+                            st.rerun()
+                        else:
+                            st.warning("未获取到新笔记（Cookie可能已过期）")
+                    except Exception as e:
+                        st.error(f"失败: {str(e)[:80]}")
 
         # 底部署名
         st.markdown(
