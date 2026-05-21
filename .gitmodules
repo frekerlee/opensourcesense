@@ -1,3 +1,6 @@
 [submodule "lib/Spider_XHS"]
 	path = lib/Spider_XHS
 	url = https://github.com/cv-cat/Spider_XHS.git
+[submodule "lib/XhsSkills"]
+	path = lib/XhsSkills
+	url = https://github.com/cv-cat/XhsSkills.git
