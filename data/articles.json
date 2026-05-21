@@ -1,5 +1,302 @@
 [
   {
+    "id": "nyt_51773",
+    "title_en": "I have been the fashion director and chief fashion critic of The New York Times since 2014.",
+    "title_cn": "I have been the fashion director and chief fashion critic of The New York Times since 2014.",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2023/05/24/style/casey-desantis-fashion.html",
+    "image_url": "https://picsum.photos/seed/nyt22/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 76,
+    "industry_impact": 83,
+    "content_quality": 89,
+    "trend_velocity": 69,
+    "exclusivity": 88,
+    "fashion_score": 80.5,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 80.5
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "nyt_51773",
+    "title_en": "Journalistic Ethics",
+    "title_cn": "Journalistic Ethics",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2023/05/24/style/casey-desantis-fashion.html",
+    "image_url": "https://picsum.photos/seed/nyt70/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 91,
+    "industry_impact": 93,
+    "content_quality": 97,
+    "trend_velocity": 67,
+    "exclusivity": 65,
+    "fashion_score": 86.5,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 86.5
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "nyt_95105",
+    "title_en": "The Shearing of Sam Bankman-Fried",
+    "title_cn": "The Shearing of Sam Bankman-Fried",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2026/05/18/fashion/athletes-jewelry.html",
+    "image_url": "https://picsum.photos/seed/nyt38/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 90,
+    "industry_impact": 86,
+    "content_quality": 95,
+    "trend_velocity": 61,
+    "exclusivity": 78,
+    "fashion_score": 84.5,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 84.5
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "nyt_33795",
+    "title_en": "Clothes Make the Con Man",
+    "title_cn": "Clothes Make the Con Man",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2026/05/15/style/princess-catherine-italy-fashion.html",
+    "image_url": "https://picsum.photos/seed/nyt61/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 81,
+    "industry_impact": 77,
+    "content_quality": 86,
+    "trend_velocity": 72,
+    "exclusivity": 77,
+    "fashion_score": 79.2,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 79.2
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "nyt_97087",
+    "title_en": "From the Women’s World Cup to Wimbledon, a Victory Everyone Can Share",
+    "title_cn": "From the Women’s World Cup to Wimbledon, a Victory Everyone Can Share",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2026/05/11/fashion/white-pants-see-through-garments.html",
+    "image_url": "https://picsum.photos/seed/nyt86/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 70,
+    "industry_impact": 85,
+    "content_quality": 98,
+    "trend_velocity": 59,
+    "exclusivity": 64,
+    "fashion_score": 77.1,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 77.1
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "nyt_06699",
+    "title_en": "The Strategic Fashioning of Casey DeSantis",
+    "title_cn": "The Strategic Fashioning of Casey DeSantis",
+    "source": "NYT / Vanessa Friedman",
+    "author": "Vanessa Friedman",
+    "url": "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html",
+    "image_url": "https://picsum.photos/seed/nyt61/400/300",
+    "published_date": "2026-05-21",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Luxury",
+      "Fashion Week",
+      "Business"
+    ],
+    "summary_cn": "Vanessa Friedman 最新时尚评论。纽约时报首席时尚评论员的深度分析。",
+    "social_heat": 83,
+    "industry_impact": 78,
+    "content_quality": 95,
+    "trend_velocity": 58,
+    "exclusivity": 65,
+    "fashion_score": 78.6,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 78.6
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【现象切入】当下时尚事件 → 【历史语境】Vanessa的独特历史视野 → 【批判分析】核心论点展开 → 【文化意义】对行业的启示"
+  },
+  {
+    "id": "bof_80162",
+    "title_en": "News &amp; Analysis",
+    "title_cn": "News &amp; Analysis",
+    "source": "Business of Fashion",
+    "author": "BoF Team",
+    "url": "https://www.businessoffashion.com/articles/beauty/elf-beauty-signals-caution-despite-rhode-driven-growth/",
+    "image_url": "https://picsum.photos/seed/bof77/400/300",
+    "published_date": "2026-05-21",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [
+      "Business",
+      "Luxury",
+      "Financial"
+    ],
+    "summary_cn": "Business of Fashion 最新报道。全球时尚产业权威商业分析。",
+    "social_heat": 84,
+    "industry_impact": 89,
+    "content_quality": 94,
+    "trend_velocity": 56,
+    "exclusivity": 85,
+    "fashion_score": 83.2,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 83.2
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【新闻导语】核心事件 → 【数据支撑】行业数据与背景 → 【多方视角】品牌/资本/消费者 → 【商业启示】对行业的启示"
+  },
+  {
+    "id": "bof_90377",
+    "title_en": "Knowledge Report | Building Cultural Relevance on TikTok",
+    "title_cn": "Knowledge Report | Building Cultural Relevance on TikTok",
+    "source": "Business of Fashion",
+    "author": "BoF Team",
+    "url": "https://www.businessoffashion.com/articles/beauty/sol-de-janeiro-founder-quits-sales-stall/",
+    "image_url": "https://picsum.photos/seed/bof61/400/300",
+    "published_date": "2026-05-21",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [
+      "Business",
+      "Luxury",
+      "Financial"
+    ],
+    "summary_cn": "Business of Fashion 最新报道。全球时尚产业权威商业分析。",
+    "social_heat": 66,
+    "industry_impact": 87,
+    "content_quality": 85,
+    "trend_velocity": 66,
+    "exclusivity": 62,
+    "fashion_score": 74.7,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 74.7
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【新闻导语】核心事件 → 【数据支撑】行业数据与背景 → 【多方视角】品牌/资本/消费者 → 【商业启示】对行业的启示"
+  },
+  {
+    "id": "bof_56880",
+    "title_en": "James Murdoch Buys New York Magazine",
+    "title_cn": "James Murdoch Buys New York Magazine",
+    "source": "Business of Fashion",
+    "author": "BoF Team",
+    "url": "https://www.businessoffashion.com/articles/retail/esw-shaping-future-of-cross-border-commerce-for-fashion-brands/",
+    "image_url": "https://picsum.photos/seed/bof38/400/300",
+    "published_date": "2026-05-21",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [
+      "Business",
+      "Luxury",
+      "Financial"
+    ],
+    "summary_cn": "Business of Fashion 最新报道。全球时尚产业权威商业分析。",
+    "social_heat": 80,
+    "industry_impact": 92,
+    "content_quality": 96,
+    "trend_velocity": 80,
+    "exclusivity": 74,
+    "fashion_score": 85.6,
+    "score_history": [
+      {
+        "date": "05-21",
+        "score": 85.6
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up",
+    "structure": "【新闻导语】核心事件 → 【数据支撑】行业数据与背景 → 【多方视角】品牌/资本/消费者 → 【商业启示】对行业的启示"
+  },
+  {
     "id": "xhs_6a074e6c000000000803f5f0",
     "title_en": "又是一年6️⃣1️⃣8️⃣时尚爆品总览！！",
     "title_cn": "又是一年6️⃣1️⃣8️⃣时尚爆品总览！！",

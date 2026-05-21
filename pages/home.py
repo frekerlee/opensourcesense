@@ -2,106 +2,57 @@
 
 import streamlit as st
 from components.article_card import render_article_cards
-from components.sidebar import render_sidebar
-from utils.data_loader import load_articles, filter_articles, sort_articles
+from utils.data_loader import load_articles, filter_articles, sort_articles, get_meta
 
 
-def main():
+def render_home():
     articles = load_articles()
 
-    # 左侧边栏
-    filters = render_sidebar()
-
-    # ===== 来源平台快捷筛选 =====
-    st.markdown('<p style="color:#9B9B9B; font-size:10px; margin:0 0 6px 0;">📌 按来源平台筛选</p>', unsafe_allow_html=True)
-
-    platform_filters = [
-        ("📕 小红书", "source", "小红书时尚博主"),
-        ("🎬 B站视频", "category", "视频解读"),
-        ("📰 WWD", "source", "WWD"),
-        ("🇨🇳 Ladymax", "source", "Ladymax"),
-        ("🌐 FashionNetwork", "source", "FashionNetwork"),
-        ("💬 深度评论", "category", "深度评论"),
-    ]
-
-    if "quick_source" not in st.session_state:
-        st.session_state.quick_source = None
-
-    cols = st.columns(len(platform_filters) + 1)
-    with cols[0]:
-        if st.button("🔄 全部", key="qs_all", use_container_width=True,
-                     type="primary" if st.session_state.quick_source is None else "secondary"):
-            st.session_state.quick_source = None
-            st.rerun()
-
-    for i, (label, filter_type, filter_value) in enumerate(platform_filters):
-        with cols[i + 1]:
-            if st.button(label, key=f"qs_{i}", use_container_width=True,
-                         type="primary" if st.session_state.quick_source == filter_value else "secondary"):
-                st.session_state.quick_source = filter_value
-                st.rerun()
-
-    st.markdown("---")
-
-    # ===== 过滤逻辑 =====
-    if st.session_state.quick_source:
-        qs = st.session_state.quick_source
-        if qs in ("小红书时尚博主", "WWD", "Ladymax", "FashionNetwork"):
-            # 来源筛选
-            filtered = filter_articles(
-                articles,
-                categories=filters["categories"],
-                brands=filters["brands"],
-                sources=[qs],
-                date_range=filters["date_range"],
-                search=filters["search"],
-                trending_only=filters["trending_only"],
-            )
-        else:
-            # 分类筛选（视频解读 / 深度评论）
-            filtered = filter_articles(
-                articles,
-                categories=[qs],
-                brands=filters["brands"],
-                sources=filters["sources"],
-                date_range=filters["date_range"],
-                search=filters["search"],
-                trending_only=filters["trending_only"],
-            )
-    else:
-        filtered = filter_articles(
-            articles,
-            categories=filters["categories"],
-            brands=filters["brands"],
-            sources=filters["sources"],
-            date_range=filters["date_range"],
-            search=filters["search"],
-            trending_only=filters["trending_only"],
-        )
-
-    sorted_articles = sort_articles(filtered, filters["sort_by"])
-
-    # ===== 统计 =====
-    xhs_count = sum(1 for a in sorted_articles if a["source"] == "小红书时尚博主")
-    video_count = sum(1 for a in sorted_articles if a["category"] == "视频解读")
-    wwd_count = sum(1 for a in sorted_articles if a["source"] == "WWD")
-    other_count = len(sorted_articles) - xhs_count - video_count - wwd_count
+    # 简洁的 KPI 行
+    total = len(articles)
+    xhs = sum(1 for a in articles if a["source"] == "小红书时尚博主")
+    videos = sum(1 for a in articles if a["category"] == "视频解读")
+    media = sum(1 for a in articles if a["source"] in
+                ["WWD", "Business of Fashion", "FashionNetwork", "Ladymax", "Miss Tweed", "NYT / Vanessa Friedman"])
+    trending = sum(1 for a in articles if a["is_trending"])
 
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
-        st.metric("总文章", len(sorted_articles))
+        st.metric("📊 总内容", f"{total} 篇")
     with col2:
-        st.metric("📕 小红书", xhs_count)
+        st.metric("📕 小红书", f"{xhs} 篇")
     with col3:
-        st.metric("🎬 B站视频", video_count)
+        st.metric("🎬 B站视频", f"{videos} 篇")
     with col4:
-        st.metric("📰 WWD", wwd_count)
+        st.metric("📰 媒体", f"{media} 篇")
     with col5:
-        st.metric("其他来源", other_count)
+        st.metric("🔥 热门", f"{trending} 篇")
+
+    # 元数据
+    meta = get_meta()
+    if meta.get("last_update"):
+        st.caption(f"📅 上次更新：{meta['last_update']}  |  📄 {meta.get('brief_file', '')}  |  🔗 share.streamlit.io/frekerlee/opensourcesense")
 
     st.markdown("---")
 
+    # 搜索 + 排序（轻量）
+    col_search, col_sort = st.columns([3, 1])
+    with col_search:
+        search = st.text_input("🔍 搜索", placeholder="品牌、关键词...", label_visibility="collapsed")
+    with col_sort:
+        sort_by = st.selectbox("排序", ["综合评分", "最新发布", "社媒热度"], label_visibility="collapsed")
+
+    filtered = articles
+    if search:
+        filtered = filter_articles(articles, search=search)
+    sorted_articles = sort_articles(filtered, sort_by)
+
     render_article_cards(sorted_articles)
+
+
+# Keep for standalone page support
+def main():
+    render_home()
 
 
 if __name__ == "__main__":
