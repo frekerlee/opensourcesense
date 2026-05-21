@@ -1,7 +1,27 @@
-"""文章卡片组件"""
+"""文章卡片组件 — 含结构拆解 + 朗读功能"""
 
 import streamlit as st
+import html
 from utils.scoring import get_score_color, get_trend_icon, get_trend_class
+
+
+def render_tts_button(text: str, btn_id: str):
+    """渲染一个朗读按钮，使用 HTML5 SpeechSynthesis API"""
+    safe_text = html.escape(text).replace("'", "\\'").replace("\n", " ")
+    tts_html = f"""
+    <button onclick="
+        if(window.speechSynthesis.speaking){{window.speechSynthesis.cancel();this.textContent='🔊 朗读';return;}}
+        var u=new SpeechSynthesisUtterance(document.getElementById('tts_{btn_id}').textContent);
+        u.lang='zh-CN';u.rate=0.9;u.pitch=1.1;
+        u.onend=function(){{document.getElementById('btn_{btn_id}').textContent='🔊 朗读';}};
+        this.textContent='⏸ 停止';window.speechSynthesis.speak(u);
+    " id="btn_{btn_id}" style="
+        background:#2A2D33;color:#D4AF37;border:1px solid #3A3D43;border-radius:6px;
+        padding:4px 12px;font-size:11px;cursor:pointer;margin-top:6px;
+    ">🔊 朗读</button>
+    <span id="tts_{btn_id}" style="display:none;">{safe_text}</span>
+    """
+    st.markdown(tts_html, unsafe_allow_html=True)
 
 
 def render_article_card(article: dict):
@@ -23,6 +43,8 @@ def render_article_card(article: dict):
 
     # 评分条宽度百分比
     score_pct = min(100, max(0, score))
+
+    card_id = article.get("id", "0")
 
     card_html = f"""
     <div class="article-card">
@@ -75,18 +97,44 @@ def render_article_cards(articles: list[dict], max_items: int = None):
         return
     for article in items:
         render_article_card(article)
-        # 使用 expander 展示摘要
+
+        # 展开：摘要 + 结构拆解 + 原文链接 + 朗读
         with st.expander(f"📖 {article['title_cn'][:40]}...", expanded=False):
+            # 内容摘要
             st.markdown(
                 f"""
-                <div style="color:#E8E6E3; font-size:13px; line-height:1.8;">
+                <div style="color:#E8E6E3; font-size:13px; line-height:1.8; margin-bottom:12px;">
+                <span style="color:#D4AF37; font-weight:600;">📝 内容摘要</span><br>
                 {article['summary_cn']}
-                </div>
-                <div style="margin-top:12px;">
-                <a href="{article['url']}" target="_blank" style="color:#D4AF37; font-size:12px; text-decoration:none;">
-                → 阅读原文
-                </a>
                 </div>
                 """,
                 unsafe_allow_html=True,
             )
+
+            # 结构拆解
+            structure = article.get("structure", "")
+            if structure:
+                st.markdown(
+                    f"""
+                    <div style="background:#1A1D23; border-left:3px solid #FF4757; padding:10px 14px;
+                                border-radius:0 8px 8px 0; margin-bottom:12px;">
+                        <span style="color:#FF4757; font-weight:600; font-size:11px;">🔬 结构拆解</span><br>
+                        <span style="color:#9B9B9B; font-size:11px; line-height:1.7;">{structure}</span>
+                    </div>
+                    """,
+                    unsafe_allow_html=True,
+                )
+
+            # 原文 + 朗读按钮
+            col_link, col_tts = st.columns([3, 1])
+            with col_link:
+                st.markdown(
+                    f'<a href="{article["url"]}" target="_blank" '
+                    f'style="color:#D4AF37; font-size:12px; text-decoration:none;">'
+                    f'→ 阅读原文</a>',
+                    unsafe_allow_html=True,
+                )
+            with col_tts:
+                # 朗读内容：标题 + 摘要
+                tts_text = f"{article['title_cn']}。{article['summary_cn']}"
+                render_tts_button(tts_text, article.get("id", "0"))

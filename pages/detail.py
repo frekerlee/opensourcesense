@@ -96,6 +96,28 @@ def main():
         unsafe_allow_html=True,
     )
 
+    # === 结构拆解 ===
+    structure = article.get("structure", "")
+    if structure:
+        st.markdown("### 🔬 结构拆解")
+        st.markdown(
+            f"""
+            <div style="background:#1A1D23; border-left:4px solid #FF4757; padding:16px 20px;
+                        border-radius:0 10px 10px 0; margin-bottom:16px;">
+                <span style="color:#9B9B9B; font-size:13px; line-height:2.0;">{structure}</span>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    # === 朗读按钮 ===
+    from components.article_card import render_tts_button
+    tts_full = f"{article['title_cn']}。{article['summary_cn']}。结构拆解：{structure}"
+    col_tts, _ = st.columns([1, 3])
+    with col_tts:
+        render_tts_button(tts_full, article.get("id", "detail"))
+    st.markdown("---")
+
     # === 分类与标签 ===
     col_cat, col_brands, col_tags = st.columns(3)
     with col_cat:

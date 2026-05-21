@@ -5,7 +5,7 @@
     "title_cn": "InsideFashion：LVMH人才危机的真实内幕",
     "source": "InsideFashion (公众号)",
     "author": "InsideFashion",
-    "url": "https://mp.weixin.qq.com/s/xxxxx4",
+    "url": "https://weixin.sogou.com/weixin?type=2&query=InsideFashion：L",
     "image_url": "https://picsum.photos/seed/wx4/400/300",
     "published_date": "2026-05-20",
     "category": "产业新闻",
@@ -62,7 +62,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【导火索】事件起因 → 【多方反应】品牌/资本/媒体如何回应 → 【深层影响】对行业规则的改变"
   },
   {
     "id": "wx_001",
@@ -70,7 +71,7 @@
     "title_cn": "全球奢侈品新秩序：中国在衰退后的角色",
     "source": "LADYMAX (公众号)",
     "author": "Drizzie",
-    "url": "https://mp.weixin.qq.com/s/xxxxx1",
+    "url": "https://weixin.sogou.com/weixin?type=2&query=全球奢侈品新秩序：中国在衰退后",
     "image_url": "https://picsum.photos/seed/wx1/400/300",
     "published_date": "2026-05-20",
     "category": "深度评论",
@@ -127,7 +128,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "bili_001",
@@ -135,7 +137,7 @@
     "title_cn": "为什么Demna的Gucci是创意破产——深度解析",
     "source": "AHALOLO (B站)",
     "author": "AHALOLO",
-    "url": "https://www.bilibili.com/video/BV1xxx/",
+    "url": "https://search.bilibili.com/all?keyword=为什么Demna的G",
     "image_url": "https://picsum.photos/seed/bili1/400/300",
     "published_date": "2026-05-20",
     "category": "深度评论",
@@ -191,7 +193,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "xhs_001",
@@ -199,7 +202,7 @@
     "title_cn": "小红书穿搭趋势：今季'老钱风'席卷中文社交平台",
     "source": "小红书时尚博主",
     "author": "多家博主综合",
-    "url": "https://www.xiaohongshu.com/explore/xxxxx",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=小红书穿搭趋势：今季",
     "image_url": "https://picsum.photos/seed/xhs1/400/300",
     "published_date": "2026-05-20",
     "category": "小红书",
@@ -256,7 +259,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【话题引爆点】最初的内容形态 → 【传播路径】从博主到大众的扩散 → 【穿搭公式】被提炼的核心要素 → 【消费转化】从种草到购买的行为链"
   },
   {
     "id": "real_037",
@@ -312,7 +316,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "real_040",
@@ -371,7 +376,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "real_044",
@@ -432,7 +438,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "wx_003",
@@ -440,7 +447,7 @@
     "title_cn": "1stRow：米兰男装周幕后——真正重要的秀",
     "source": "1stRow (公众号)",
     "author": "1stRow",
-    "url": "https://mp.weixin.qq.com/s/xxxxx3",
+    "url": "https://weixin.sogou.com/weixin?type=2&query=1stRow：米兰男装周幕后—",
     "image_url": "https://picsum.photos/seed/wx3/400/300",
     "published_date": "2026-05-19",
     "category": "时装周",
@@ -497,7 +504,8 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【秀场概述】设计师/主题/场地 → 【核心造型】3-5个关键Look → 【设计语言】面料/廓形/色彩趋势 → 【商业与评论】买家反应与媒体评价"
   },
   {
     "id": "real_019",
@@ -559,7 +567,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【开篇钩子】引人入胜的切入场景 → 【主体论证】层层递进的分析框架 → 【高潮段落】最具冲击力的洞察 → 【收尾余韵】引发思考的开放性结尾"
   },
   {
     "id": "real_036",
@@ -617,7 +626,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【开篇钩子】引人入胜的切入场景 → 【主体论证】层层递进的分析框架 → 【高潮段落】最具冲击力的洞察 → 【收尾余韵】引发思考的开放性结尾"
   },
   {
     "id": "real_035",
@@ -678,7 +688,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
   },
   {
     "id": "bili_002",
@@ -686,7 +697,7 @@
     "title_cn": "开箱实测：Loewe Squeeze包——值不值得买？",
     "source": "午夜飞行鼠 (B站)",
     "author": "午夜飞行鼠",
-    "url": "https://www.bilibili.com/video/BV2xxx/",
+    "url": "https://search.bilibili.com/all?keyword=开箱实测：Loewe",
     "image_url": "https://picsum.photos/seed/bili2/400/300",
     "published_date": "2026-05-19",
     "category": "品牌动态",
@@ -741,7 +752,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_010",
@@ -801,7 +813,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件概述】一句话新闻核心 → 【背景分析】行业环境与因果链 → 【影响评估】对品牌/市场的连锁反应 → 【前瞻判断】未来可能走向"
   },
   {
     "id": "real_039",
@@ -857,7 +870,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "real_041",
@@ -919,7 +933,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "down"
+    "trend_direction": "down",
+    "structure": "【秀场概述】设计师/主题/场地 → 【核心造型】3-5个关键Look → 【设计语言】面料/廓形/色彩趋势 → 【商业与评论】买家反应与媒体评价"
   },
   {
     "id": "real_007",
@@ -978,7 +993,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件】品牌做了什么 → 【动机】为什么在这个时点 → 【策略分析】对品牌定位/业绩的影响 → 【行业信号】对竞争格局的启示"
   },
   {
     "id": "real_013",
@@ -1036,7 +1052,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件概述】一句话新闻核心 → 【背景分析】行业环境与因果链 → 【影响评估】对品牌/市场的连锁反应 → 【前瞻判断】未来可能走向"
   },
   {
     "id": "real_029",
@@ -1096,7 +1113,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件】品牌做了什么 → 【动机】为什么在这个时点 → 【策略分析】对品牌定位/业绩的影响 → 【行业信号】对竞争格局的启示"
   },
   {
     "id": "real_032",
@@ -1156,7 +1174,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件】品牌做了什么 → 【动机】为什么在这个时点 → 【策略分析】对品牌定位/业绩的影响 → 【行业信号】对竞争格局的启示"
   },
   {
     "id": "real_009",
@@ -1216,7 +1235,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【Runway Recap】大秀回顾 → 【Key Looks】重点造型解析 → 【Trend Takeaway】趋势提炼 → 【Market Impact】商业前景"
   },
   {
     "id": "real_042",
@@ -1274,7 +1294,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "real_024",
@@ -1332,7 +1353,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【What】发生了什么事 → 【Why】为什么会发生 → 【Who】涉及的关键人物/品牌 → 【What's Next】接下来会怎样"
   },
   {
     "id": "real_000",
@@ -1393,7 +1415,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【导火索】事件起因 → 【多方反应】品牌/资本/媒体如何回应 → 【深层影响】对行业规则的改变"
   },
   {
     "id": "real_025",
@@ -1451,7 +1474,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【趋势定义】这个趋势是什么 → 【推动因素】谁在推动/为什么现在爆发 → 【案例拆解】3-5个代表性案例 → 【落地建议】品牌如何借力"
   },
   {
     "id": "real_038",
@@ -1509,7 +1533,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
   },
   {
     "id": "real_018",
@@ -1570,7 +1595,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
   },
   {
     "id": "real_027",
@@ -1628,7 +1654,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【Runway Recap】大秀回顾 → 【Key Looks】重点造型解析 → 【Trend Takeaway】趋势提炼 → 【Market Impact】商业前景"
   },
   {
     "id": "real_005",
@@ -1689,7 +1716,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【Executive Summary】报告要点 → 【Methodology】数据来源与方法 → 【Key Charts】核心图表解读 → 【Action Items】可执行的结论"
   },
   {
     "id": "real_020",
@@ -1749,7 +1777,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【靶子】批评/讨论的对象 → 【解剖】问题拆解（3-4个维度） → 【根源】系统性原因 → 【出路】可能的解决方案"
   },
   {
     "id": "real_023",
@@ -1810,7 +1839,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
   },
   {
     "id": "real_003",
@@ -1875,7 +1905,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
   },
   {
     "id": "real_012",
@@ -1937,7 +1968,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_031",
@@ -1999,7 +2031,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
   },
   {
     "id": "real_034",
@@ -2057,7 +2090,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件概述】一句话新闻核心 → 【背景分析】行业环境与因果链 → 【影响评估】对品牌/市场的连锁反应 → 【前瞻判断】未来可能走向"
   },
   {
     "id": "real_043",
@@ -2113,7 +2147,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【What】发生了什么事 → 【Why】为什么会发生 → 【Who】涉及的关键人物/品牌 → 【What's Next】接下来会怎样"
   },
   {
     "id": "real_033",
@@ -2174,7 +2209,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "down"
+    "trend_direction": "down",
+    "structure": "【事件概述】一句话新闻核心 → 【背景分析】行业环境与因果链 → 【影响评估】对品牌/市场的连锁反应 → 【前瞻判断】未来可能走向"
   },
   {
     "id": "real_030",
@@ -2230,7 +2266,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_026",
@@ -2288,7 +2325,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【趋势定义】这个趋势是什么 → 【推动因素】谁在推动/为什么现在爆发 → 【案例拆解】3-5个代表性案例 → 【落地建议】品牌如何借力"
   },
   {
     "id": "real_001",
@@ -2351,7 +2389,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "down"
+    "trend_direction": "down",
+    "structure": "【导火索】事件起因 → 【多方反应】品牌/资本/媒体如何回应 → 【深层影响】对行业规则的改变"
   },
   {
     "id": "real_017",
@@ -2413,7 +2452,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "down"
+    "trend_direction": "down",
+    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_028",
@@ -2472,7 +2512,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【事件】品牌做了什么 → 【动机】为什么在这个时点 → 【策略分析】对品牌定位/业绩的影响 → 【行业信号】对竞争格局的启示"
   },
   {
     "id": "real_002",
@@ -2530,7 +2571,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【导火索】事件起因 → 【多方反应】品牌/资本/媒体如何回应 → 【深层影响】对行业规则的改变"
   },
   {
     "id": "real_011",
@@ -2592,7 +2634,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【趋势定义】这个趋势是什么 → 【推动因素】谁在推动/为什么现在爆发 → 【案例拆解】3-5个代表性案例 → 【落地建议】品牌如何借力"
   },
   {
     "id": "real_022",
@@ -2650,7 +2693,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【开篇钩子】引人入胜的切入场景 → 【主体论证】层层递进的分析框架 → 【高潮段落】最具冲击力的洞察 → 【收尾余韵】引发思考的开放性结尾"
   },
   {
     "id": "real_015",
@@ -2708,7 +2752,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【现象扫描】近期高频出现的信号 → 【数据佐证】搜索量/销量/社媒热度 → 【文化解读】背后的消费者心理变迁 → 【趋势预判】是否会持续/演化方向"
   },
   {
     "id": "real_021",
@@ -2768,7 +2813,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_008",
@@ -2828,7 +2874,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【秀场概述】设计师/主题/场地 → 【核心造型】3-5个关键Look → 【设计语言】面料/廓形/色彩趋势 → 【商业与评论】买家反应与媒体评价"
   },
   {
     "id": "real_004",
@@ -2888,7 +2935,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【Runway Recap】大秀回顾 → 【Key Looks】重点造型解析 → 【Trend Takeaway】趋势提炼 → 【Market Impact】商业前景"
   },
   {
     "id": "real_014",
@@ -2947,7 +2995,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【Runway Recap】大秀回顾 → 【Key Looks】重点造型解析 → 【Trend Takeaway】趋势提炼 → 【Market Impact】商业前景"
   },
   {
     "id": "real_016",
@@ -3008,7 +3057,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【导火索】事件起因 → 【多方反应】品牌/资本/媒体如何回应 → 【深层影响】对行业规则的改变"
   },
   {
     "id": "real_006",
@@ -3067,7 +3117,8 @@
       }
     ],
     "is_trending": false,
-    "trend_direction": "stable"
+    "trend_direction": "stable",
+    "structure": "【现象扫描】近期高频出现的信号 → 【数据佐证】搜索量/销量/社媒热度 → 【文化解读】背后的消费者心理变迁 → 【趋势预判】是否会持续/演化方向"
   },
   {
     "id": "wx_002",
@@ -3075,7 +3126,7 @@
     "title_cn": "Numero中文版：上海时装周 · 中国独立设计师的崛起时刻",
     "source": "Numero中文版 (公众号)",
     "author": "Numero China",
-    "url": "https://mp.weixin.qq.com/s/xxxxx2",
+    "url": "https://weixin.sogou.com/weixin?type=2&query=Numero中文版：上海时装周",
     "image_url": "https://picsum.photos/seed/wx2/400/300",
     "published_date": "2026-05-18",
     "category": "时装周",
@@ -3132,6 +3183,7 @@
       }
     ],
     "is_trending": true,
-    "trend_direction": "up"
+    "trend_direction": "up",
+    "structure": "【秀场概述】设计师/主题/场地 → 【核心造型】3-5个关键Look → 【设计语言】面料/廓形/色彩趋势 → 【商业与评论】买家反应与媒体评价"
   }
 ]
