@@ -1,6 +1,7 @@
 """左侧边栏筛选器"""
 
 import streamlit as st
+import os
 from config import CATEGORIES, BRANDS, SOURCES, SOURCE_NAMES, SITE_NAME, SITE_SUBTITLE
 from utils.data_loader import get_meta, refresh_from_brief
 
@@ -103,15 +104,34 @@ def render_sidebar() -> dict:
         st.markdown("<br>", unsafe_allow_html=True)
 
         # 数据刷新
-        col_refresh, col_status = st.columns([1, 2])
+        col_refresh, col_xhs, col_status = st.columns([1, 1, 1.5])
         with col_refresh:
-            if st.button("🔄 刷新数据", use_container_width=True):
+            if st.button("🔄 更新日报", use_container_width=True, help="从最新日报文件刷新数据"):
                 with st.spinner("正在从最新日报更新..."):
                     count, fname = refresh_from_brief()
                 if count > 0:
                     st.success(f"已更新 {count} 篇")
                 else:
                     st.warning("未找到日报文件")
+
+        with col_xhs:
+            xhs_cookie = os.getenv("XHS_COOKIE", "")
+            if st.button("📕 刷新小红书", use_container_width=True, help="爬取小红书时尚热点"):
+                if not xhs_cookie:
+                    st.error("请设置 XHS_COOKIE")
+                else:
+                    with st.spinner("正在爬取小红书时尚热点..."):
+                        try:
+                            from utils.xhs_scraper import scrape_fashion_notes, xhs_note_to_article, merge_into_articles
+                            notes = scrape_fashion_notes(xhs_cookie, notes_per_keyword=3)
+                            if notes:
+                                articles = [xhs_note_to_article(n) for n in notes]
+                                count = merge_into_articles(articles)
+                                st.success(f"新增 {count} 篇小红书")
+                            else:
+                                st.warning("未获取到新笔记")
+                        except Exception as e:
+                            st.error(f"爬取失败: {str(e)[:60]}")
 
         with col_status:
             meta = get_meta()
