@@ -111,6 +111,23 @@ def render_article_cards(articles: list[dict], max_items: int = None):
                 unsafe_allow_html=True,
             )
 
+            # AI 解读（仅视频内容显示）
+            ai_insight = article.get("ai_insight", [])
+            if ai_insight:
+                insight_html = "".join([f'<li style="margin-bottom:6px;">{ins}</li>' for ins in ai_insight])
+                st.markdown(
+                    f"""
+                    <div style="background:linear-gradient(135deg, #1A1020 0%, #1A1D23 100%);
+                                border:1px solid #8B5CF6; border-radius:10px; padding:14px 16px; margin-bottom:12px;">
+                        <span style="color:#A78BFA; font-weight:700; font-size:12px;">🤖 AI 深度解读 · BibiGPT</span>
+                        <ul style="color:#C4B5FD; font-size:11px; line-height:1.7; margin:8px 0 0 0; padding-left:16px;">
+                            {insight_html}
+                        </ul>
+                    </div>
+                    """,
+                    unsafe_allow_html=True,
+                )
+
             # 结构拆解
             structure = article.get("structure", "")
             if structure:
