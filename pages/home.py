@@ -29,15 +29,17 @@ def main():
 
     cols = st.columns(len(platform_filters) + 1)
     with cols[0]:
-        if st.button("🔄 全部", use_container_width=True,
+        if st.button("🔄 全部", key="qs_all", use_container_width=True,
                      type="primary" if st.session_state.quick_source is None else "secondary"):
             st.session_state.quick_source = None
+            st.rerun()
 
     for i, (label, filter_type, filter_value) in enumerate(platform_filters):
         with cols[i + 1]:
-            if st.button(label, use_container_width=True,
+            if st.button(label, key=f"qs_{i}", use_container_width=True,
                          type="primary" if st.session_state.quick_source == filter_value else "secondary"):
                 st.session_state.quick_source = filter_value
+                st.rerun()
 
     st.markdown("---")
 
