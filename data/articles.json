@@ -1,1233 +1,174 @@
 [
   {
-    "id": "art_001",
-    "title_en": "Miu Miu's Magic Formula: How a 'Little Sister' Brand Conquered Fashion",
-    "title_cn": "Miu Miu的魔法公式：一个「小妹妹」品牌如何征服时尚界",
-    "source": "Vogue Business",
-    "author": "Lauren Indvik",
-    "url": "https://example.com/article/001",
-    "image_url": "https://picsum.photos/seed/fashion1/400/300",
-    "published_date": "2026-05-20",
-    "category": "品牌动态",
-    "brands": [
-      "Miu Miu",
-      "Prada"
-    ],
-    "tags": [
-      "Y2K Revival",
-      "Streetwear"
-    ],
-    "summary_cn": "Miu Miu连续多个季度登顶Lyst热门品牌榜单。本文拆解其产品策略、秀场营销和社群运营，揭示其从Prada副线蜕变为文化现象的商业路径。",
-    "social_heat": 96,
-    "industry_impact": 94,
-    "content_quality": 90,
-    "trend_velocity": 85,
-    "exclusivity": 60,
-    "fashion_score": 89.0,
+    "id": "real_037",
+    "title_en": "EXCLUSIVE: Jessica Simpson Regularly Flies First Class While Her Kids Sit in Coach",
+    "title_cn": "独家：Jessica Simpson坐头等舱，孩子们坐经济舱",
+    "source": "Rob Shuter",
+    "author": "",
+    "url": "https://robshuter.substack.com/p/exclusive-jessica-simpson-regularly",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!sZ7M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d07a947-9157-43b3-a86b-746b42aa386b_1536x1024.png",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [],
+    "summary_cn": "Rob Shuter独家报道Jessica Simpson常在飞机上坐头等舱而让三个孩子坐经济舱，据称这是她教导孩子\"懂得珍惜与感恩\"的方式。这一做法被前夫Nick Lachey在夏威夷航班上无意发现。",
+    "social_heat": 83,
+    "industry_impact": 89,
+    "content_quality": 95,
+    "trend_velocity": 34,
+    "exclusivity": 95,
+    "fashion_score": 80.8,
     "score_history": [
       {
-        "date": "05-20",
-        "score": 56.5
-      },
-      {
-        "date": "05-19",
-        "score": 61.9
-      },
-      {
-        "date": "05-18",
-        "score": 67.8
-      },
-      {
-        "date": "05-17",
-        "score": 69.2
-      },
-      {
-        "date": "05-16",
-        "score": 74.5
-      },
-      {
-        "date": "05-15",
-        "score": 81.4
-      },
-      {
-        "date": "05-14",
-        "score": 85.1
+        "date": "05-12",
+        "score": 73.2
       },
       {
         "date": "05-13",
-        "score": 87.4
+        "score": 72.0
+      },
+      {
+        "date": "05-14",
+        "score": 78.6
+      },
+      {
+        "date": "05-15",
+        "score": 76.3
+      },
+      {
+        "date": "05-16",
+        "score": 79.8
+      },
+      {
+        "date": "05-17",
+        "score": 81.5
+      },
+      {
+        "date": "05-18",
+        "score": 78.0
+      },
+      {
+        "date": "05-19",
+        "score": 83.0
       }
     ],
     "is_trending": true,
     "trend_direction": "up"
   },
   {
-    "id": "art_019",
-    "title_en": "Burberry's Britishness Problem",
-    "title_cn": "Burberry的英伦困境",
-    "source": "Business of Fashion",
-    "author": "Tamison O'Connor",
-    "url": "https://example.com/article/019",
-    "image_url": "https://picsum.photos/seed/fashion19/400/300",
-    "published_date": "2026-05-20",
+    "id": "real_040",
+    "title_en": "EXCLUSIVE: Vanity Fair in Crisis as Traffic Collapses 55%",
+    "title_cn": "独家：Vanity Fair流量暴跌55%，陷入危机",
+    "source": "Rob Shuter",
+    "author": "",
+    "url": "https://robshuter.substack.com/p/exclusive-vanity-fair-in-crisis-as",
+    "image_url": "https://picsum.photos/seed/97/400/300",
+    "published_date": "2026-05-19",
     "category": "深度评论",
-    "brands": [
-      "Burberry"
-    ],
+    "brands": [],
     "tags": [
-      "Heritage",
-      "Menswear"
+      "Sustainability",
+      "Innovation"
     ],
-    "summary_cn": "Burberry在Daniel Lee领导下进行了激进的形象更新，但市场反响平平。BoF深度分析英国脱欧后Burberry面临的多重困境：品牌定位模糊、价格策略混乱和亚洲市场失速。",
-    "social_heat": 73,
-    "industry_impact": 81,
-    "content_quality": 88,
-    "trend_velocity": -15,
-    "exclusivity": 70,
-    "fashion_score": 64.5,
+    "summary_cn": "据内部消息，Vanity Fair网站流量在过去一段时间暴跌55%，杂志正面临严重的数字化转型困境，编辑团队和商业模式的可持续性受到质疑。",
+    "social_heat": 84,
+    "industry_impact": 74,
+    "content_quality": 77,
+    "trend_velocity": 86,
+    "exclusivity": 86,
+    "fashion_score": 80.6,
     "score_history": [
       {
-        "date": "05-20",
-        "score": 68.1
+        "date": "05-12",
+        "score": 62.8
       },
       {
-        "date": "05-19",
-        "score": 71.4
-      },
-      {
-        "date": "05-18",
-        "score": 70.4
-      },
-      {
-        "date": "05-17",
-        "score": 64.9
-      },
-      {
-        "date": "05-16",
-        "score": 65.2
-      },
-      {
-        "date": "05-15",
+        "date": "05-13",
         "score": 67.0
       },
       {
         "date": "05-14",
-        "score": 63.5
-      },
-      {
-        "date": "05-13",
-        "score": 62.3
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "down"
-  },
-  {
-    "id": "art_016",
-    "title_en": "The Sustainability Paradox: Why 'Green' Fashion Is Facing Backlash",
-    "title_cn": "可持续悖论：为什么「绿色」时尚正面临反弹",
-    "source": "Style Zeitgeist",
-    "author": "Eugene Rabkin",
-    "url": "https://example.com/article/016",
-    "image_url": "https://picsum.photos/seed/fashion16/400/300",
-    "published_date": "2026-05-19",
-    "category": "深度评论",
-    "brands": [
-      "Zara",
-      "H&M"
-    ],
-    "tags": [
-      "Sustainability",
-      "Greenwashing"
-    ],
-    "summary_cn": "消费者对时尚品牌的可持续宣称日益不信任。Style Zeitgeist深度分析greenwashing指控频发的根源，以及真正可持续品牌的生存困境。",
-    "social_heat": 71,
-    "industry_impact": 78,
-    "content_quality": 89,
-    "trend_velocity": 58,
-    "exclusivity": 72,
-    "fashion_score": 74.5,
-    "score_history": [
-      {
-        "date": "05-19",
-        "score": 57.1
-      },
-      {
-        "date": "05-18",
-        "score": 57.3
-      },
-      {
-        "date": "05-17",
-        "score": 57.8
-      },
-      {
-        "date": "05-16",
-        "score": 63.9
+        "score": 70.1
       },
       {
         "date": "05-15",
-        "score": 68.5
+        "score": 73.5
       },
       {
-        "date": "05-14",
+        "date": "05-16",
+        "score": 72.8
+      },
+      {
+        "date": "05-17",
+        "score": 73.6
+      },
+      {
+        "date": "05-18",
+        "score": 77.9
+      },
+      {
+        "date": "05-19",
+        "score": 79.7
+      }
+    ],
+    "is_trending": true,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_044",
+    "title_en": "China's Organic Consumer Growth Has Moved Into the 'What-on-Earth-is-That' Niches",
+    "title_cn": "中国消费有机增长进入\"这是什么鬼\"细分领域",
+    "source": "Baiguan News",
+    "author": "",
+    "url": "https://www.baiguan.news/p/china-organic-consumer-growth-niche-antiques-collectibles-bookplates-walnuts-heritage-jewelry-livestream-ecommerce-laopu-gold-happy-collecting-tingquan-shangbao",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!pd-F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02b4953e-a915-43ee-b9f2-40705a6b111d_1772x1027.png",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Retail",
+      "China Market",
+      "Financial",
+      "Innovation"
+    ],
+    "summary_cn": "百观新闻分析中国消费市场的有机增长正转向藏书票、古法金饰、文玩核桃等极度细分的文化消费品类。年轻消费者通过直播电商重新发现传统文化遗产，Happy Collecting和明Sir等品牌将传统中国元素与现代MCN模式结合，实现了超越大盘的增速。",
+    "social_heat": 93,
+    "industry_impact": 88,
+    "content_quality": 72,
+    "trend_velocity": 79,
+    "exclusivity": 35,
+    "fashion_score": 79.6,
+    "score_history": [
+      {
+        "date": "05-12",
         "score": 66.7
       },
       {
         "date": "05-13",
-        "score": 71.8
+        "score": 62.2
       },
       {
-        "date": "05-12",
-        "score": 75.1
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_003",
-    "title_en": "Gucci's New Creative Director: What We Know So Far",
-    "title_cn": "Gucci新创意总监：目前已知的一切",
-    "source": "WWD",
-    "author": "Miles Socha",
-    "url": "https://example.com/article/003",
-    "image_url": "https://picsum.photos/seed/fashion3/400/300",
-    "published_date": "2026-05-18",
-    "category": "产业新闻",
-    "brands": [
-      "Gucci",
-      "Kering"
-    ],
-    "tags": [
-      "Couture"
-    ],
-    "summary_cn": "Gucci创意总监更迭引发行业地震。本文汇总了所有已知信息、候选人名单及内部消息人士的透露，分析此次人事变动对开云集团整体战略的影响。",
-    "social_heat": 95,
-    "industry_impact": 97,
-    "content_quality": 75,
-    "trend_velocity": 92,
-    "exclusivity": 50,
-    "fashion_score": 86.5,
-    "score_history": [
-      {
-        "date": "05-18",
-        "score": 51.9
+        "date": "05-14",
+        "score": 64.0
       },
       {
-        "date": "05-17",
-        "score": 56.5
+        "date": "05-15",
+        "score": 68.6
       },
       {
         "date": "05-16",
-        "score": 65.6
-      },
-      {
-        "date": "05-15",
-        "score": 68.8
-      },
-      {
-        "date": "05-14",
-        "score": 74.6
-      },
-      {
-        "date": "05-13",
-        "score": 78.7
-      },
-      {
-        "date": "05-12",
-        "score": 82.2
-      },
-      {
-        "date": "05-11",
-        "score": 89.4
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_030",
-    "title_en": "Moncler Genius: The Blueprint for Brand Collaboration",
-    "title_cn": "Moncler Genius：品牌联名的蓝图",
-    "source": "Ladymax",
-    "author": "Drizzie",
-    "url": "https://example.com/article/030",
-    "image_url": "https://picsum.photos/seed/fashion30/400/300",
-    "published_date": "2026-05-18",
-    "category": "品牌动态",
-    "brands": [
-      "Moncler"
-    ],
-    "tags": [
-      "Streetwear",
-      "Innovation"
-    ],
-    "summary_cn": "Moncler Genius从一个营销概念演变为持续创造商业价值的联名平台。Ladymax拆解其合作机制、IP运营和如何避免联名疲劳。",
-    "social_heat": 72,
-    "industry_impact": 77,
-    "content_quality": 80,
-    "trend_velocity": 58,
-    "exclusivity": 60,
-    "fashion_score": 71.5,
-    "score_history": [
-      {
-        "date": "05-18",
-        "score": 48.7
-      },
-      {
-        "date": "05-17",
-        "score": 52.4
-      },
-      {
-        "date": "05-16",
-        "score": 55.6
-      },
-      {
-        "date": "05-15",
-        "score": 62.5
-      },
-      {
-        "date": "05-14",
-        "score": 65.1
-      },
-      {
-        "date": "05-13",
-        "score": 68.0
-      },
-      {
-        "date": "05-12",
-        "score": 67.9
-      },
-      {
-        "date": "05-11",
-        "score": 69.5
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_014",
-    "title_en": "The Row's Billion-Dollar Mystery: No Ads, No Social, No Problem",
-    "title_cn": "The Row的十亿美元秘密：无广告、无社媒、毫无问题",
-    "source": "Puck News",
-    "author": "Lauren Sherman",
-    "url": "https://example.com/article/014",
-    "image_url": "https://picsum.photos/seed/fashion14/400/300",
-    "published_date": "2026-05-17",
-    "category": "深度评论",
-    "brands": [
-      "The Row",
-      "Chanel",
-      "Hermès"
-    ],
-    "tags": [
-      "Quiet Luxury",
-      "Minimalism"
-    ],
-    "summary_cn": "Mary-Kate和Ashley Olsen的品牌估值已超10亿美元，却几乎没有社交媒体存在感。Puck独家分析了其稀缺性营销、门店策略和忠实客户群。",
-    "social_heat": 90,
-    "industry_impact": 85,
-    "content_quality": 92,
-    "trend_velocity": 82,
-    "exclusivity": 95,
-    "fashion_score": 88.5,
-    "score_history": [
-      {
-        "date": "05-17",
-        "score": 59.0
-      },
-      {
-        "date": "05-16",
-        "score": 61.8
-      },
-      {
-        "date": "05-15",
-        "score": 70.7
-      },
-      {
-        "date": "05-14",
-        "score": 74.6
-      },
-      {
-        "date": "05-13",
-        "score": 78.7
-      },
-      {
-        "date": "05-12",
-        "score": 80.8
-      },
-      {
-        "date": "05-11",
-        "score": 84.3
-      },
-      {
-        "date": "05-10",
-        "score": 86.1
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_006",
-    "title_en": "China's Luxury Slump: What the Numbers Actually Say",
-    "title_cn": "中国奢侈品寒潮：数据到底在说什么",
-    "source": "Ladymax",
-    "author": "Drizzie",
-    "url": "https://example.com/article/006",
-    "image_url": "https://picsum.photos/seed/fashion6/400/300",
-    "published_date": "2026-05-15",
-    "category": "数据报告",
-    "brands": [
-      "Louis Vuitton",
-      "Hermès",
-      "Gucci"
-    ],
-    "tags": [
-      "Quiet Luxury"
-    ],
-    "summary_cn": "Ladymax深度解析2025年Q1中国奢侈品市场数据：整体增速放缓至3.2%，但Hermès逆势增长12%。文章分析背后消费信心、房地产联动和代购链条的变化。",
-    "social_heat": 82,
-    "industry_impact": 90,
-    "content_quality": 87,
-    "trend_velocity": 75,
-    "exclusivity": 65,
-    "fashion_score": 82.2,
-    "score_history": [
-      {
-        "date": "05-15",
-        "score": 57.0
-      },
-      {
-        "date": "05-14",
-        "score": 61.0
-      },
-      {
-        "date": "05-13",
-        "score": 64.6
-      },
-      {
-        "date": "05-12",
-        "score": 64.7
-      },
-      {
-        "date": "05-11",
-        "score": 71.8
-      },
-      {
-        "date": "05-10",
-        "score": 75.0
-      },
-      {
-        "date": "05-09",
-        "score": 77.0
-      },
-      {
-        "date": "05-08",
-        "score": 82.0
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "down"
-  },
-  {
-    "id": "art_010",
-    "title_en": "Dior's Problems Run Deeper Than One Collection",
-    "title_cn": "Dior的问题不止一季系列",
-    "source": "Miss Tweed",
-    "author": "Astrid Wendlandt",
-    "url": "https://example.com/article/010",
-    "image_url": "https://picsum.photos/seed/fashion10/400/300",
-    "published_date": "2026-05-14",
-    "category": "深度评论",
-    "brands": [
-      "Dior",
-      "LVMH"
-    ],
-    "tags": [
-      "Couture"
-    ],
-    "summary_cn": "Maria Grazia Chiuri的Dior面临创意疲劳的质疑。但Miss Tweed指出，根源不在设计师个人，而在LVMH对Dior过度商业化的战略定位。",
-    "social_heat": 84,
-    "industry_impact": 86,
-    "content_quality": 90,
-    "trend_velocity": 60,
-    "exclusivity": 88,
-    "fashion_score": 82.5,
-    "score_history": [
-      {
-        "date": "05-14",
-        "score": 64.5
-      },
-      {
-        "date": "05-13",
-        "score": 62.3
-      },
-      {
-        "date": "05-12",
-        "score": 67.5
-      },
-      {
-        "date": "05-11",
-        "score": 72.0
-      },
-      {
-        "date": "05-10",
-        "score": 75.7
-      },
-      {
-        "date": "05-09",
-        "score": 74.4
-      },
-      {
-        "date": "05-08",
-        "score": 77.5
-      },
-      {
-        "date": "05-07",
-        "score": 83.6
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "down"
-  },
-  {
-    "id": "art_022",
-    "title_en": "The Rise of 'Invisible' Dressing: When Boring Is Beautiful",
-    "title_cn": "「隐形」穿搭兴起：当无聊变美了",
-    "source": "The Style Title",
-    "author": "Megan Crouse",
-    "url": "https://example.com/article/022",
-    "image_url": "https://picsum.photos/seed/fashion22/400/300",
-    "published_date": "2026-05-14",
-    "category": "趋势分析",
-    "brands": [
-      "The Row",
-      "Khaite",
-      "Bottega Veneta",
-      "Loro Piana"
-    ],
-    "tags": [
-      "Quiet Luxury",
-      "Minimalism"
-    ],
-    "summary_cn": "时装周街拍从孔雀式搭配转向了看似平凡的精致穿搭。本文探讨「Invisible Dressing」作为Quiet Luxury的进化的文化意义。",
-    "social_heat": 77,
-    "industry_impact": 65,
-    "content_quality": 83,
-    "trend_velocity": 80,
-    "exclusivity": 68,
-    "fashion_score": 74.7,
-    "score_history": [
-      {
-        "date": "05-14",
-        "score": 44.9
-      },
-      {
-        "date": "05-13",
-        "score": 51.0
-      },
-      {
-        "date": "05-12",
-        "score": 52.6
-      },
-      {
-        "date": "05-11",
-        "score": 56.9
-      },
-      {
-        "date": "05-10",
-        "score": 62.5
-      },
-      {
-        "date": "05-09",
-        "score": 69.0
-      },
-      {
-        "date": "05-08",
-        "score": 68.2
-      },
-      {
-        "date": "05-07",
-        "score": 76.6
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_007",
-    "title_en": "Balenciaga's Redemption Arc: From Scandal to Creative Renaissance",
-    "title_cn": "Balenciaga的救赎弧线：从丑闻到创意复兴",
-    "source": "Amy Odell / Back Row",
-    "author": "Amy Odell",
-    "url": "https://example.com/article/007",
-    "image_url": "https://picsum.photos/seed/fashion7/400/300",
-    "published_date": "2026-05-13",
-    "category": "深度评论",
-    "brands": [
-      "Balenciaga"
-    ],
-    "tags": [
-      "Couture",
-      "Avant-Garde"
-    ],
-    "summary_cn": "在经历2023年广告丑闻后，Balenciaga以高定系列和低调姿态悄然回归。Amy Odell分析这个品牌如何在不道歉的情况下实现公众认知翻转。",
-    "social_heat": 88,
-    "industry_impact": 76,
-    "content_quality": 91,
-    "trend_velocity": 80,
-    "exclusivity": 82,
-    "fashion_score": 83.8,
-    "score_history": [
-      {
-        "date": "05-13",
-        "score": 58.7
-      },
-      {
-        "date": "05-12",
-        "score": 60.6
-      },
-      {
-        "date": "05-11",
-        "score": 64.1
-      },
-      {
-        "date": "05-10",
-        "score": 68.9
-      },
-      {
-        "date": "05-09",
         "score": 73.9
       },
       {
-        "date": "05-08",
-        "score": 77.5
+        "date": "05-17",
+        "score": 78.5
       },
       {
-        "date": "05-07",
-        "score": 78.2
+        "date": "05-18",
+        "score": 76.4
       },
       {
-        "date": "05-06",
-        "score": 81.0
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_029",
-    "title_en": "Louis Vuitton's Formula: Cruise Shows as Cultural Domination",
-    "title_cn": "Louis Vuitton的公式：早春秀作为一种文化统治",
-    "source": "NYT / Vanessa Friedman",
-    "author": "Vanessa Friedman",
-    "url": "https://example.com/article/029",
-    "image_url": "https://picsum.photos/seed/fashion29/400/300",
-    "published_date": "2026-05-13",
-    "category": "时装周",
-    "brands": [
-      "Louis Vuitton",
-      "Dior",
-      "Chanel",
-      "Gucci"
-    ],
-    "tags": [
-      "Resort"
-    ],
-    "summary_cn": "LV在巴塞罗那的早春秀耗资估计超2000万欧元。Vanessa Friedman质疑这种军备竞赛式的巡游秀模式是否可持续，以及它服务于谁的利益。",
-    "social_heat": 83,
-    "industry_impact": 80,
-    "content_quality": 88,
-    "trend_velocity": 66,
-    "exclusivity": 72,
-    "fashion_score": 79.6,
-    "score_history": [
-      {
-        "date": "05-13",
-        "score": 55.9
-      },
-      {
-        "date": "05-12",
-        "score": 60.8
-      },
-      {
-        "date": "05-11",
-        "score": 61.9
-      },
-      {
-        "date": "05-10",
-        "score": 65.3
-      },
-      {
-        "date": "05-09",
-        "score": 71.2
-      },
-      {
-        "date": "05-08",
-        "score": 70.4
-      },
-      {
-        "date": "05-07",
-        "score": 76.0
-      },
-      {
-        "date": "05-06",
-        "score": 82.6
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_025",
-    "title_en": "How Copenhagen Became the Most Important Fashion Week",
-    "title_cn": "哥本哈根如何成为最重要的时装周",
-    "source": "Vogue Business",
-    "author": "Lauren Indvik",
-    "url": "https://example.com/article/025",
-    "image_url": "https://picsum.photos/seed/fashion25/400/300",
-    "published_date": "2026-05-12",
-    "category": "品牌动态",
-    "brands": [
-      "Moncler",
-      "Ganni",
-      "Stine Goya"
-    ],
-    "tags": [
-      "Sustainability"
-    ],
-    "summary_cn": "哥本哈根时装周凭借严格的可持续标准和小众品牌矩阵，从区域性活动跃升为全球第五大时装周。本文探讨其独特定位对其他时装周的启示。",
-    "social_heat": 69,
-    "industry_impact": 72,
-    "content_quality": 81,
-    "trend_velocity": 62,
-    "exclusivity": 66,
-    "fashion_score": 70.8,
-    "score_history": [
-      {
-        "date": "05-12",
-        "score": 48.6
-      },
-      {
-        "date": "05-11",
-        "score": 54.9
-      },
-      {
-        "date": "05-10",
-        "score": 58.3
-      },
-      {
-        "date": "05-09",
-        "score": 58.7
-      },
-      {
-        "date": "05-08",
-        "score": 62.8
-      },
-      {
-        "date": "05-07",
-        "score": 62.5
-      },
-      {
-        "date": "05-06",
-        "score": 66.5
-      },
-      {
-        "date": "05-05",
-        "score": 73.6
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_008",
-    "title_en": "Prada Group Reports Record Revenue: Breaking Down the Numbers",
-    "title_cn": "Prada集团营收创纪录：数据拆解",
-    "source": "FashionNetwork",
-    "author": "Olivier Guyot",
-    "url": "https://example.com/article/008",
-    "image_url": "https://picsum.photos/seed/fashion8/400/300",
-    "published_date": "2026-05-11",
-    "category": "产业新闻",
-    "brands": [
-      "Prada",
-      "Miu Miu"
-    ],
-    "tags": [],
-    "summary_cn": "Prada集团2025财年Q1营收同比增长18%，Miu Miu增速高达89%。FashionNetwork剖析各品类和各区域市场表现，以及利润率提升背后的运营策略。",
-    "social_heat": 70,
-    "industry_impact": 95,
-    "content_quality": 72,
-    "trend_velocity": 68,
-    "exclusivity": 40,
-    "fashion_score": 73.3,
-    "score_history": [
-      {
-        "date": "05-11",
-        "score": 49.0
-      },
-      {
-        "date": "05-10",
-        "score": 50.3
-      },
-      {
-        "date": "05-09",
-        "score": 58.8
-      },
-      {
-        "date": "05-08",
-        "score": 60.2
-      },
-      {
-        "date": "05-07",
-        "score": 64.5
-      },
-      {
-        "date": "05-06",
-        "score": 64.8
-      },
-      {
-        "date": "05-05",
-        "score": 69.9
-      },
-      {
-        "date": "05-04",
-        "score": 75.7
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_015",
-    "title_en": "Paris Men's Week: The 5 Trends That Actually Matter",
-    "title_cn": "巴黎男装周：真正重要的5个趋势",
-    "source": "GQ",
-    "author": "Rachel Tashjian",
-    "url": "https://example.com/article/015",
-    "image_url": "https://picsum.photos/seed/fashion15/400/300",
-    "published_date": "2026-05-10",
-    "category": "时装周",
-    "brands": [
-      "Louis Vuitton",
-      "Dior",
-      "Rick Owens",
-      "Loewe"
-    ],
-    "tags": [
-      "Menswear",
-      "Streetwear"
-    ],
-    "summary_cn": "GQ从数十场男装秀中提炼出5个具有长期影响力的趋势：超大连帽衫回归、工装裤升级版、粉色入侵男装、可持续面料成为核心叙事、以及运动与正装的边界彻底消融。",
-    "social_heat": 79,
-    "industry_impact": 68,
-    "content_quality": 84,
-    "trend_velocity": 70,
-    "exclusivity": 48,
-    "fashion_score": 72.8,
-    "score_history": [
-      {
-        "date": "05-10",
-        "score": 50.6
-      },
-      {
-        "date": "05-09",
-        "score": 53.8
-      },
-      {
-        "date": "05-08",
-        "score": 54.1
-      },
-      {
-        "date": "05-07",
-        "score": 56.1
-      },
-      {
-        "date": "05-06",
-        "score": 64.6
-      },
-      {
-        "date": "05-05",
-        "score": 68.5
-      },
-      {
-        "date": "05-04",
-        "score": 66.8
-      },
-      {
-        "date": "05-03",
-        "score": 72.7
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_004",
-    "title_en": "Why Department Stores Are Dying — And What's Replacing Them",
-    "title_cn": "百货商店为何消亡——以及什么正在取代它们",
-    "source": "Retail Boss",
-    "author": "Steve Dennis",
-    "url": "https://example.com/article/004",
-    "image_url": "https://picsum.photos/seed/fashion4/400/300",
-    "published_date": "2026-05-09",
-    "category": "数据报告",
-    "brands": [
-      "Nordstrom",
-      "Saks",
-      "Selfridges"
-    ],
-    "tags": [
-      "Resale",
-      "Sustainability"
-    ],
-    "summary_cn": "美国百货商店过去五年关闭超过30%门店。本报告通过大量数据揭示百货业态的衰落根源，并指出品牌DTC、社群零售和二手平台三种替代模式正在填补空缺。",
-    "social_heat": 72,
-    "industry_impact": 80,
-    "content_quality": 85,
-    "trend_velocity": 55,
-    "exclusivity": 75,
-    "fashion_score": 74.3,
-    "score_history": [
-      {
-        "date": "05-09",
-        "score": 52.6
-      },
-      {
-        "date": "05-08",
-        "score": 56.6
-      },
-      {
-        "date": "05-07",
-        "score": 61.4
-      },
-      {
-        "date": "05-06",
-        "score": 65.7
-      },
-      {
-        "date": "05-05",
-        "score": 65.3
-      },
-      {
-        "date": "05-04",
-        "score": 67.0
-      },
-      {
-        "date": "05-03",
-        "score": 69.0
-      },
-      {
-        "date": "05-02",
-        "score": 75.3
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_021",
-    "title_en": "LVMH vs Kering: Two Visions for the Future of Luxury",
-    "title_cn": "LVMH vs 开云：两种奢侈品未来愿景",
-    "source": "NYT / Vanessa Friedman",
-    "author": "Vanessa Friedman",
-    "url": "https://example.com/article/021",
-    "image_url": "https://picsum.photos/seed/fashion21/400/300",
-    "published_date": "2026-05-08",
-    "category": "深度评论",
-    "brands": [
-      "LVMH",
-      "Kering",
-      "Louis Vuitton",
-      "Gucci"
-    ],
-    "tags": [
-      "Business"
-    ],
-    "summary_cn": "两大奢侈品集团在2025年展现出截然不同的战略路线。Vanessa Friedman对比LVMH的多元化和开云的精简聚焦两种模式，预判谁将在下一个五年占据优势。",
-    "social_heat": 81,
-    "industry_impact": 93,
-    "content_quality": 91,
-    "trend_velocity": 64,
-    "exclusivity": 74,
-    "fashion_score": 82.8,
-    "score_history": [
-      {
-        "date": "05-08",
-        "score": 60.2
-      },
-      {
-        "date": "05-07",
-        "score": 64.9
-      },
-      {
-        "date": "05-06",
-        "score": 67.8
-      },
-      {
-        "date": "05-05",
-        "score": 72.9
-      },
-      {
-        "date": "05-04",
-        "score": 70.7
-      },
-      {
-        "date": "05-03",
-        "score": 75.8
-      },
-      {
-        "date": "05-02",
-        "score": 78.6
-      },
-      {
-        "date": "05-01",
-        "score": 84.9
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_024",
-    "title_en": "The $500 Sneaker Bubble: Ready to Pop?",
-    "title_cn": "500美元运动鞋泡沫：即将破裂？",
-    "source": "FashionNetwork",
-    "author": "Olivier Guyot",
-    "url": "https://example.com/article/024",
-    "image_url": "https://picsum.photos/seed/fashion24/400/300",
-    "published_date": "2026-05-06",
-    "category": "数据报告",
-    "brands": [
-      "Balenciaga",
-      "Gucci",
-      "Dior"
-    ],
-    "tags": [
-      "Streetwear",
-      "Sneakers"
-    ],
-    "summary_cn": "奢侈运动鞋市场从2020年峰值下降了18%。本文分析了市场饱和、消费者倦怠和转售市场崩盘三股力量如何挤压这个曾经最赚钱的品类。",
-    "social_heat": 68,
-    "industry_impact": 75,
-    "content_quality": 78,
-    "trend_velocity": -45,
-    "exclusivity": 52,
-    "fashion_score": 53.2,
-    "score_history": [
-      {
-        "date": "05-06",
-        "score": 68.8
-      },
-      {
-        "date": "05-05",
-        "score": 68.9
-      },
-      {
-        "date": "05-04",
-        "score": 66.9
-      },
-      {
-        "date": "05-03",
-        "score": 60.2
-      },
-      {
-        "date": "05-02",
-        "score": 57.0
-      },
-      {
-        "date": "05-01",
-        "score": 57.0
-      },
-      {
-        "date": "04-30",
-        "score": 58.0
-      },
-      {
-        "date": "04-29",
-        "score": 54.9
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "down"
-  },
-  {
-    "id": "art_018",
-    "title_en": "AI Fashion Designers Are Here — Should Creatives Be Worried?",
-    "title_cn": "AI时装设计师来了——创意人该担心吗？",
-    "source": "1 Granary",
-    "author": "Olya Kuryshchuk",
-    "url": "https://example.com/article/018",
-    "image_url": "https://picsum.photos/seed/fashion18/400/300",
-    "published_date": "2026-05-05",
-    "category": "趋势分析",
-    "brands": [],
-    "tags": [
-      "Metaverse Fashion",
-      "Innovation"
-    ],
-    "summary_cn": "AI设计工具正在渗透时装设计流程。1 Granary采访了多位中央圣马丁毕业生和在职设计师，探讨AI对创意过程、就业市场和时尚教育的影响。",
-    "social_heat": 88,
-    "industry_impact": 82,
-    "content_quality": 85,
-    "trend_velocity": 94,
-    "exclusivity": 76,
-    "fashion_score": 85.6,
-    "score_history": [
-      {
-        "date": "05-05",
-        "score": 52.4
-      },
-      {
-        "date": "05-04",
-        "score": 55.9
-      },
-      {
-        "date": "05-03",
-        "score": 59.5
-      },
-      {
-        "date": "05-02",
-        "score": 63.9
-      },
-      {
-        "date": "05-01",
-        "score": 71.8
-      },
-      {
-        "date": "04-30",
-        "score": 76.7
-      },
-      {
-        "date": "04-29",
-        "score": 77.9
-      },
-      {
-        "date": "04-28",
-        "score": 86.8
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_027",
-    "title_en": "Street Style Is Dead. Long Live Street Style.",
-    "title_cn": "街拍已死。街拍万岁。",
-    "source": "Amy Odell / Back Row",
-    "author": "Amy Odell",
-    "url": "https://example.com/article/027",
-    "image_url": "https://picsum.photos/seed/fashion27/400/300",
-    "published_date": "2026-05-05",
-    "category": "趋势分析",
-    "brands": [],
-    "tags": [
-      "Streetwear",
-      "Minimalism"
-    ],
-    "summary_cn": "传统意义上由摄影师抓拍的时装周街拍已让位于精心策划的 influencer 内容。本文思考了街拍民主化与商业化之间的张力。",
-    "social_heat": 75,
-    "industry_impact": 58,
-    "content_quality": 86,
-    "trend_velocity": 48,
-    "exclusivity": 78,
-    "fashion_score": 69.2,
-    "score_history": [
-      {
-        "date": "05-05",
-        "score": 49.9
-      },
-      {
-        "date": "05-04",
-        "score": 52.9
-      },
-      {
-        "date": "05-03",
-        "score": 57.8
-      },
-      {
-        "date": "05-02",
-        "score": 60.7
-      },
-      {
-        "date": "05-01",
-        "score": 60.4
-      },
-      {
-        "date": "04-30",
-        "score": 62.1
-      },
-      {
-        "date": "04-29",
-        "score": 69.1
-      },
-      {
-        "date": "04-28",
-        "score": 67.7
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_002",
-    "title_en": "Inside Jacquemus' Strategy: Building a Luxury Brand Outside Paris",
-    "title_cn": "Jacquemus策略内幕：在巴黎之外建立奢侈品牌",
-    "source": "Miss Tweed",
-    "author": "Astrid Wendlandt",
-    "url": "https://example.com/article/002",
-    "image_url": "https://picsum.photos/seed/fashion2/400/300",
-    "published_date": "2026-05-03",
-    "category": "深度评论",
-    "brands": [
-      "Jacquemus",
-      "Chanel"
-    ],
-    "tags": [
-      "Resort",
-      "Minimalism"
-    ],
-    "summary_cn": "Simon Porte Jacquemus独辟蹊径，坚持在南法而非巴黎建立品牌总部。本文探讨这种地方主义策略如何成为其品牌叙事的核心，以及这对奢侈品地缘格局的启示。",
-    "social_heat": 78,
-    "industry_impact": 82,
-    "content_quality": 88,
-    "trend_velocity": 65,
-    "exclusivity": 85,
-    "fashion_score": 79.8,
-    "score_history": [
-      {
-        "date": "05-03",
-        "score": 55.7
-      },
-      {
-        "date": "05-02",
-        "score": 62.5
-      },
-      {
-        "date": "05-01",
-        "score": 65.1
-      },
-      {
-        "date": "04-30",
-        "score": 64.7
-      },
-      {
-        "date": "04-29",
-        "score": 69.5
-      },
-      {
-        "date": "04-28",
-        "score": 71.9
-      },
-      {
-        "date": "04-27",
-        "score": 74.8
-      },
-      {
-        "date": "04-26",
+        "date": "05-19",
         "score": 81.3
       }
     ],
@@ -1235,684 +176,2510 @@
     "trend_direction": "up"
   },
   {
-    "id": "art_026",
-    "title_en": "Hermès: The Secretive Strategy That Defies All Business Logic",
-    "title_cn": "Hermès：违背所有商业逻辑的秘密策略",
-    "source": "Miss Tweed",
-    "author": "Astrid Wendlandt",
-    "url": "https://example.com/article/026",
-    "image_url": "https://picsum.photos/seed/fashion26/400/300",
-    "published_date": "2026-05-03",
+    "id": "real_019",
+    "title_en": "",
+    "title_cn": "深度 | 奢侈品危机下的中国现实",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/19-39576.html",
+    "image_url": "http://images.ladymax.cn/userup/2605/1910513TC0.jpg",
+    "published_date": "2026-05-19",
     "category": "深度评论",
-    "brands": [
-      "Hermès"
-    ],
-    "tags": [
-      "Craftsmanship",
-      "Quiet Luxury"
-    ],
-    "summary_cn": "不扩产、不降价、不请代言人——Hermès在所有商学院教条反向操作且持续超越业绩预期。Miss Tweed独家分析其稀缺性引擎的运作机制。",
-    "social_heat": 91,
-    "industry_impact": 92,
-    "content_quality": 94,
-    "trend_velocity": 70,
-    "exclusivity": 90,
-    "fashion_score": 88.6,
-    "score_history": [
-      {
-        "date": "05-03",
-        "score": 65.5
-      },
-      {
-        "date": "05-02",
-        "score": 65.0
-      },
-      {
-        "date": "05-01",
-        "score": 70.0
-      },
-      {
-        "date": "04-30",
-        "score": 71.9
-      },
-      {
-        "date": "04-29",
-        "score": 78.0
-      },
-      {
-        "date": "04-28",
-        "score": 84.1
-      },
-      {
-        "date": "04-27",
-        "score": 85.3
-      },
-      {
-        "date": "04-26",
-        "score": 85.9
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "stable"
-  },
-  {
-    "id": "art_011",
-    "title_en": "Secondhand Luxury Is Bigger Than Fast Fashion Now",
-    "title_cn": "二手奢侈品市场已经超过了快时尚",
-    "source": "Vogue Business",
-    "author": "Rachel Cernansky",
-    "url": "https://example.com/article/011",
-    "image_url": "https://picsum.photos/seed/fashion11/400/300",
-    "published_date": "2026-05-02",
-    "category": "数据报告",
     "brands": [
       "Chanel",
-      "Hermès",
-      "The Row"
+      "Loewe"
     ],
     "tags": [
-      "Resale",
-      "Sustainability",
-      "Vintage"
+      "China Market",
+      "Luxury"
     ],
-    "summary_cn": "全球二手奢侈品市场2025年预计达到520亿美元。Vogue Business的数据报告详细拆解这一市场的主力人群、热门品类和价格走势。",
-    "social_heat": 80,
-    "industry_impact": 84,
-    "content_quality": 82,
-    "trend_velocity": 90,
+    "summary_cn": "分析Demna、Jonathan Anderson、Matthieu Blazy三位创意总监在奢侈品危机下的不同价值取向——古驰的\"丑陋美学\"、Loewe的工艺叙事、Chanel的经典主义，指出\"没有一家品牌能够压注单一方向\"。",
+    "social_heat": 94,
+    "industry_impact": 75,
+    "content_quality": 68,
+    "trend_velocity": 54,
     "exclusivity": 55,
-    "fashion_score": 80.4,
+    "fashion_score": 74.2,
     "score_history": [
       {
-        "date": "05-02",
-        "score": 46.3
+        "date": "05-12",
+        "score": 62.9
       },
       {
-        "date": "05-01",
-        "score": 52.7
+        "date": "05-13",
+        "score": 67.3
       },
       {
-        "date": "04-30",
-        "score": 60.9
+        "date": "05-14",
+        "score": 63.4
       },
       {
-        "date": "04-29",
-        "score": 62.6
-      },
-      {
-        "date": "04-28",
-        "score": 69.7
-      },
-      {
-        "date": "04-27",
-        "score": 73.6
-      },
-      {
-        "date": "04-26",
-        "score": 73.0
-      },
-      {
-        "date": "04-25",
-        "score": 81.7
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_028",
-    "title_en": "Fashion Schools Are Failing Students — A Reckoning",
-    "title_cn": "时装学院正在辜负学生——一场清算",
-    "source": "1 Granary",
-    "author": "Olya Kuryshchuk",
-    "url": "https://example.com/article/028",
-    "image_url": "https://picsum.photos/seed/fashion28/400/300",
-    "published_date": "2026-05-02",
-    "category": "深度评论",
-    "brands": [],
-    "tags": [
-      "Education"
-    ],
-    "summary_cn": "中央圣马丁、帕森斯等顶级时装学院的毕业生越来越难以进入行业。1 Granary调查了学费暴涨、课程脱节和行业壁垒三重危机。",
-    "social_heat": 82,
-    "industry_impact": 76,
-    "content_quality": 90,
-    "trend_velocity": 56,
-    "exclusivity": 84,
-    "fashion_score": 78.4,
-    "score_history": [
-      {
-        "date": "05-02",
-        "score": 56.0
-      },
-      {
-        "date": "05-01",
-        "score": 59.1
-      },
-      {
-        "date": "04-30",
-        "score": 65.3
-      },
-      {
-        "date": "04-29",
-        "score": 67.6
-      },
-      {
-        "date": "04-28",
-        "score": 68.9
-      },
-      {
-        "date": "04-27",
+        "date": "05-15",
         "score": 71.4
       },
       {
-        "date": "04-26",
-        "score": 76.6
+        "date": "05-16",
+        "score": 66.0
       },
       {
-        "date": "04-25",
-        "score": 77.3
+        "date": "05-17",
+        "score": 68.4
+      },
+      {
+        "date": "05-18",
+        "score": 73.3
+      },
+      {
+        "date": "05-19",
+        "score": 75.6
       }
     ],
     "is_trending": false,
     "trend_direction": "up"
   },
   {
-    "id": "art_000",
-    "title_en": "The Quiet Luxury Reckoning: Why Logos Are Losing Their Power",
-    "title_cn": "静奢清算：为什么大Logo正在失去力量",
-    "source": "Business of Fashion",
-    "author": "Imran Amed",
-    "url": "https://example.com/article/000",
-    "image_url": "https://picsum.photos/seed/fashion0/400/300",
-    "published_date": "2026-05-01",
-    "category": "趋势分析",
-    "brands": [
-      "Loro Piana",
-      "The Row",
-      "Bottega Veneta",
-      "Khaite"
-    ],
+    "id": "real_036",
+    "title_en": "EXCLUSIVE: Jacob Elordi's Team Worried Kendall Jenner Romance Could Derail Bond Hopes",
+    "title_cn": "独家：Jacob Elordi团队担忧与Kendall Jenner恋情影响007选角",
+    "source": "Rob Shuter",
+    "author": "",
+    "url": "https://robshuter.substack.com/p/exclusive-jacob-elordis-team-worried",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!_YnV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0779dfb-2d36-4f74-8cda-bd215e94efe8_1536x1024.png",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
     "tags": [
-      "Quiet Luxury",
-      "Minimalism",
-      "Craftsmanship"
+      "Innovation"
     ],
-    "summary_cn": "从Loro Piana到The Row，静奢品牌正在重新定义奢侈品市场。本文深度分析无Logo时代的消费心理转变，以及品牌如何在没有显眼标识的情况下建立辨识度。",
-    "social_heat": 92,
-    "industry_impact": 88,
-    "content_quality": 95,
-    "trend_velocity": 78,
-    "exclusivity": 70,
-    "fashion_score": 87.3,
+    "summary_cn": "消息人士透露Jacob Elordi团队私下担忧他与Kendall Jenner的恋情可能成为职业生涯的负资产，尤其在他被列入007选角名单的关键时刻。内部人士担心\"Kardashian机器\"会转移公众对其演技的关注。",
+    "social_heat": 69,
+    "industry_impact": 64,
+    "content_quality": 76,
+    "trend_velocity": 82,
+    "exclusivity": 93,
+    "fashion_score": 73.5,
     "score_history": [
       {
-        "date": "05-01",
-        "score": 57.7
+        "date": "05-12",
+        "score": 56.0
       },
       {
-        "date": "04-30",
-        "score": 65.3
+        "date": "05-13",
+        "score": 59.2
       },
       {
-        "date": "04-29",
-        "score": 66.3
+        "date": "05-14",
+        "score": 64.5
       },
       {
-        "date": "04-28",
-        "score": 69.5
+        "date": "05-15",
+        "score": 60.6
       },
       {
-        "date": "04-27",
-        "score": 73.2
+        "date": "05-16",
+        "score": 63.2
       },
       {
-        "date": "04-26",
-        "score": 80.9
+        "date": "05-17",
+        "score": 68.3
       },
       {
-        "date": "04-25",
-        "score": 83.7
+        "date": "05-18",
+        "score": 71.3
       },
       {
-        "date": "04-24",
-        "score": 87.8
+        "date": "05-19",
+        "score": 74.0
       }
     ],
-    "is_trending": true,
+    "is_trending": false,
     "trend_direction": "up"
   },
   {
-    "id": "art_009",
-    "title_en": "The Gorpocalypse: Is Gorpcore Finally Over?",
-    "title_cn": "Gorpcore末日：户外风终于结束了吗？",
-    "source": "GQ",
-    "author": "Samuel Hine",
-    "url": "https://example.com/article/009",
-    "image_url": "https://picsum.photos/seed/fashion9/400/300",
-    "published_date": "2026-05-01",
-    "category": "趋势分析",
-    "brands": [
-      "Moncler",
-      "Burberry"
-    ],
+    "id": "real_035",
+    "title_en": "LuxExperience Reports Progress in Q3, Mytheresa Remains the Star Performer",
+    "title_cn": "LuxExperience Q3业绩好转，Mytheresa继续领跑",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Luxexperience-reports-progress-in-q3-mytheresa-remains-the-star-performer,1833213.html",
+    "image_url": "https://picsum.photos/seed/7785/400/300",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [],
     "tags": [
-      "Gorpcore",
-      "Streetwear",
-      "Athleisure"
+      "Sustainability",
+      "Financial",
+      "Luxury",
+      "Innovation"
     ],
-    "summary_cn": "从Arc'teryx到Salomon，Gorpcore统治男装三年。GQ通过谷歌搜索数据、二手平台交易量和买手店反馈，判断这一趋势是否已触顶回落。",
-    "social_heat": 76,
-    "industry_impact": 62,
-    "content_quality": 80,
-    "trend_velocity": -30,
-    "exclusivity": 72,
-    "fashion_score": 57.0,
+    "summary_cn": "LuxExperience集团Q3财报显示转型进展，旗下Mytheresa继续保持明星业务地位。奢侈品电商在整合浪潮中寻找可持续盈利模式。",
+    "social_heat": 94,
+    "industry_impact": 66,
+    "content_quality": 63,
+    "trend_velocity": 60,
+    "exclusivity": 61,
+    "fashion_score": 72.4,
     "score_history": [
       {
-        "date": "05-01",
-        "score": 67.3
+        "date": "05-12",
+        "score": 57.4
       },
       {
-        "date": "04-30",
-        "score": 64.6
+        "date": "05-13",
+        "score": 63.2
       },
       {
-        "date": "04-29",
-        "score": 63.0
-      },
-      {
-        "date": "04-28",
+        "date": "05-14",
         "score": 63.4
       },
       {
-        "date": "04-27",
-        "score": 60.1
+        "date": "05-15",
+        "score": 63.2
       },
       {
-        "date": "04-26",
-        "score": 60.5
+        "date": "05-16",
+        "score": 68.2
       },
       {
-        "date": "04-25",
-        "score": 60.9
+        "date": "05-17",
+        "score": 64.8
       },
       {
-        "date": "04-24",
-        "score": 56.4
+        "date": "05-18",
+        "score": 72.6
+      },
+      {
+        "date": "05-19",
+        "score": 74.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_010",
+    "title_en": "At Kering's Women in Motion Dinner, Julianne Moore and More Shine in Cannes",
+    "title_cn": "Kering戛纳\"Women in Motion\"晚宴，Julianne Moore领衔亮相",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/eye/parties/julianne-moore-kering-women-in-motion-dinner-cannes-1238970411/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/kering-cannes-2026-SF-39.jpg",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [
+      "Kering"
+    ],
+    "tags": [
+      "Cannes"
+    ],
+    "summary_cn": "Kering集团在戛纳电影节期间举办年度\"Women in Motion\"晚宴，Julianne Moore等影星出席，持续推动电影行业女性赋权议题。",
+    "social_heat": 79,
+    "industry_impact": 66,
+    "content_quality": 59,
+    "trend_velocity": 87,
+    "exclusivity": 65,
+    "fashion_score": 71.5,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 53.3
+      },
+      {
+        "date": "05-13",
+        "score": 53.4
+      },
+      {
+        "date": "05-14",
+        "score": 57.4
+      },
+      {
+        "date": "05-15",
+        "score": 58.4
+      },
+      {
+        "date": "05-16",
+        "score": 67.3
+      },
+      {
+        "date": "05-17",
+        "score": 69.7
+      },
+      {
+        "date": "05-18",
+        "score": 72.2
+      },
+      {
+        "date": "05-19",
+        "score": 72.3
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_039",
+    "title_en": "EXCLUSIVE: Meghan Markle Didn't Want Prince Harry to Attend Geneva Charity Event",
+    "title_cn": "独家：Meghan Markle不希望Prince Harry出席日内瓦慈善活动",
+    "source": "Rob Shuter",
+    "author": "",
+    "url": "https://robshuter.substack.com/p/exclusive-meghan-markle-didnt-want",
+    "image_url": "https://picsum.photos/seed/6798/400/300",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [],
+    "summary_cn": "消息人士称Meghan Markle不希望哈里王子出席日内瓦某慈善活动，据传与她对哈里公众形象的策略性规划有关，希望他减少\"单飞\"式公开露面。",
+    "social_heat": 88,
+    "industry_impact": 84,
+    "content_quality": 64,
+    "trend_velocity": 33,
+    "exclusivity": 63,
+    "fashion_score": 71.5,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 62.2
+      },
+      {
+        "date": "05-13",
+        "score": 64.9
+      },
+      {
+        "date": "05-14",
+        "score": 69.8
+      },
+      {
+        "date": "05-15",
+        "score": 68.2
+      },
+      {
+        "date": "05-16",
+        "score": 70.1
+      },
+      {
+        "date": "05-17",
+        "score": 72.4
+      },
+      {
+        "date": "05-18",
+        "score": 72.6
+      },
+      {
+        "date": "05-19",
+        "score": 70.5
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_041",
+    "title_en": "Cruise Collections",
+    "title_cn": "早春度假系列点评：Gucci、Dior与Chanel",
+    "source": "Brenda Hashtag",
+    "author": "",
+    "url": "https://brendahashtag.substack.com/p/cruise-collections",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!peW8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fead487-f6a5-4e4c-b540-a0f44fc45254_5016x5016.jpeg",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [
+      "Gucci",
+      "Dior",
+      "Chanel"
+    ],
+    "tags": [
+      "Resort"
+    ],
+    "summary_cn": "Brenda Hashtag点评近期Gucci、Dior和Chanel三大品牌的早春度假系列。她批评Demna的Gucci陷入\"创意破产\"、过度依赖LA名人文化；称赞Jonathan Anderson为Dior构建的植物美学世界；认为Chanel在单一系列中堆砌\"20种不同图案和材质\"虽有趣但令人眼花缭乱。",
+    "social_heat": 87,
+    "industry_impact": 85,
+    "content_quality": 95,
+    "trend_velocity": -17,
+    "exclusivity": 50,
+    "fashion_score": 71.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 75.6
+      },
+      {
+        "date": "05-13",
+        "score": 75.7
+      },
+      {
+        "date": "05-14",
+        "score": 70.5
+      },
+      {
+        "date": "05-15",
+        "score": 72.8
+      },
+      {
+        "date": "05-16",
+        "score": 75.8
+      },
+      {
+        "date": "05-17",
+        "score": 69.8
+      },
+      {
+        "date": "05-18",
+        "score": 69.9
+      },
+      {
+        "date": "05-19",
+        "score": 69.9
       }
     ],
     "is_trending": false,
     "trend_direction": "down"
   },
   {
-    "id": "art_012",
-    "title_en": "How Loewe Became the Thinking Person's Luxury Brand",
-    "title_cn": "Loewe如何成为智识阶层的奢侈品牌",
-    "source": "The Style Title",
-    "author": "Megan Crouse",
-    "url": "https://example.com/article/012",
-    "image_url": "https://picsum.photos/seed/fashion12/400/300",
-    "published_date": "2026-04-30",
+    "id": "real_007",
+    "title_en": "EXCLUSIVE: Meshki Returns to Swimwear After Six-year Break",
+    "title_cn": "Meshki时隔六年重返泳装市场",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/meshki-swimwear-collection-resort-2026-1238970297/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/meshki_0096.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
     "category": "品牌动态",
-    "brands": [
-      "Loewe",
-      "LVMH"
-    ],
+    "brands": [],
     "tags": [
-      "Craftsmanship",
-      "Avant-Garde"
+      "Resort",
+      "Social Media"
     ],
-    "summary_cn": "Jonathan Anderson将Loewe从西班牙皮具品牌转型为当代艺术与时尚的交汇点。本文分析其手工艺叙事和美术馆式零售如何吸引高知消费者。",
-    "social_heat": 74,
-    "industry_impact": 70,
-    "content_quality": 93,
-    "trend_velocity": 72,
-    "exclusivity": 80,
-    "fashion_score": 77.1,
+    "summary_cn": "澳大利亚时尚品牌Meshki在离开泳装品类六年后，以Resort 2026系列正式回归。品牌以社交媒体驱动的DTC模式闻名，此次重启泳装线被视为拓展品类的关键一步。",
+    "social_heat": 77,
+    "industry_impact": 65,
+    "content_quality": 73,
+    "trend_velocity": 51,
+    "exclusivity": 94,
+    "fashion_score": 71.0,
     "score_history": [
       {
-        "date": "04-30",
-        "score": 54.2
+        "date": "05-12",
+        "score": 58.4
       },
       {
-        "date": "04-29",
-        "score": 57.0
+        "date": "05-13",
+        "score": 62.5
       },
       {
-        "date": "04-28",
-        "score": 60.7
+        "date": "05-14",
+        "score": 66.5
       },
       {
-        "date": "04-27",
-        "score": 61.7
+        "date": "05-15",
+        "score": 64.1
       },
       {
-        "date": "04-26",
-        "score": 65.1
+        "date": "05-16",
+        "score": 64.2
       },
       {
-        "date": "04-25",
-        "score": 67.8
+        "date": "05-17",
+        "score": 71.9
       },
       {
-        "date": "04-24",
-        "score": 70.5
+        "date": "05-18",
+        "score": 69.5
       },
       {
-        "date": "04-23",
-        "score": 78.4
+        "date": "05-19",
+        "score": 67.7
       }
     ],
     "is_trending": false,
     "trend_direction": "up"
   },
   {
-    "id": "art_013",
-    "title_en": "Fashion Week Calendar Chaos: New York vs London vs Milan",
-    "title_cn": "时装周日程混乱：纽约vs伦敦vs米兰",
+    "id": "real_013",
+    "title_en": "Demi Moore Reflects on Her First Cannes: 'I Was Just Bruce Willis' Wife'",
+    "title_cn": "Demi Moore回顾首次戛纳之旅：\"我当时只是Bruce Willis的妻子\"",
     "source": "WWD",
-    "author": "Lisa Lockwood",
-    "url": "https://example.com/article/013",
-    "image_url": "https://picsum.photos/seed/fashion13/400/300",
-    "published_date": "2026-04-28",
+    "author": "",
+    "url": "https://wwd.com/eye/parties/demi-moore-cannes-ami-paris-critics-week-lunch-highlights-1238957988/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/QS4A9827.jpg?crop=0px%2C399px%2C4800px%2C2690px&resize=1000%2C563",
+    "published_date": "2026-05-19",
     "category": "产业新闻",
     "brands": [],
     "tags": [
-      "Couture",
-      "Resort"
+      "Cannes"
     ],
-    "summary_cn": "2026春夏时装周日程再次撞车。WWD梳理三大时装城市的日程冲突、品牌出走和各城应对话语权流失的策略。",
-    "social_heat": 65,
-    "industry_impact": 88,
-    "content_quality": 70,
-    "trend_velocity": 40,
-    "exclusivity": 45,
-    "fashion_score": 66.0,
+    "summary_cn": "Demi Moore在戛纳Ami Paris影评人周午宴上回顾1997年首次参加戛纳的经历，坦言当时仅被视为Bruce Willis的伴侣，如今则以独立女性与演员身份重返红毯。",
+    "social_heat": 78,
+    "industry_impact": 78,
+    "content_quality": 78,
+    "trend_velocity": 46,
+    "exclusivity": 53,
+    "fashion_score": 70.7,
     "score_history": [
       {
-        "date": "04-28",
-        "score": 50.6
+        "date": "05-12",
+        "score": 58.0
       },
       {
-        "date": "04-27",
-        "score": 54.0
+        "date": "05-13",
+        "score": 60.2
       },
       {
-        "date": "04-26",
-        "score": 54.1
+        "date": "05-14",
+        "score": 62.5
       },
       {
-        "date": "04-25",
-        "score": 60.5
+        "date": "05-15",
+        "score": 65.9
       },
       {
-        "date": "04-24",
-        "score": 62.2
+        "date": "05-16",
+        "score": 64.4
       },
       {
-        "date": "04-23",
-        "score": 60.8
+        "date": "05-17",
+        "score": 65.7
       },
       {
-        "date": "04-22",
+        "date": "05-18",
+        "score": 65.9
+      },
+      {
+        "date": "05-19",
+        "score": 71.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_029",
+    "title_en": "Hugo Boss Brings Hugo to India With New Delhi Flagship Opening",
+    "title_cn": "Hugo Boss将Hugo品牌引入印度，新德里旗舰店开幕",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Hugo-boss-brings-hugo-to-india-with-new-delhi-flagship-opening,1833258.html",
+    "image_url": "https://picsum.photos/seed/3165/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [
+      "Hugo Boss"
+    ],
+    "tags": [
+      "Luxury"
+    ],
+    "summary_cn": "Hugo Boss在印度新德里开设Hugo品牌旗舰店，标志着集团对印度这一新兴奢侈品消费市场的战略性布局加速。",
+    "social_heat": 80,
+    "industry_impact": 71,
+    "content_quality": 58,
+    "trend_velocity": 90,
+    "exclusivity": 29,
+    "fashion_score": 69.8,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 54.6
+      },
+      {
+        "date": "05-13",
+        "score": 51.8
+      },
+      {
+        "date": "05-14",
+        "score": 57.4
+      },
+      {
+        "date": "05-15",
+        "score": 58.2
+      },
+      {
+        "date": "05-16",
+        "score": 65.5
+      },
+      {
+        "date": "05-17",
+        "score": 64.7
+      },
+      {
+        "date": "05-18",
+        "score": 70.6
+      },
+      {
+        "date": "05-19",
+        "score": 66.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_032",
+    "title_en": "Coach Owner Tapestry Targets International Markets for 70% of Growth",
+    "title_cn": "Coach母公司Tapestry：70%的增长将来自国际市场",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Coach-owner-tapestry-targets-international-markets-for-70-of-growth,1833143.html",
+    "image_url": "https://picsum.photos/seed/2042/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [
+      "Tapestry"
+    ],
+    "tags": [
+      "Financial"
+    ],
+    "summary_cn": "Tapestry集团明确表示未来70%的增长将来自北美以外市场，特别是亚洲和欧洲地区，Coach和Kate Spade的国际扩张将成为集团战略核心。",
+    "social_heat": 74,
+    "industry_impact": 82,
+    "content_quality": 59,
+    "trend_velocity": 65,
+    "exclusivity": 51,
+    "fashion_score": 69.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 54.3
+      },
+      {
+        "date": "05-13",
+        "score": 59.2
+      },
+      {
+        "date": "05-14",
+        "score": 60.0
+      },
+      {
+        "date": "05-15",
+        "score": 59.0
+      },
+      {
+        "date": "05-16",
         "score": 64.8
       },
       {
-        "date": "04-21",
+        "date": "05-17",
+        "score": 64.4
+      },
+      {
+        "date": "05-18",
+        "score": 69.3
+      },
+      {
+        "date": "05-19",
         "score": 66.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_009",
+    "title_en": "Australian Fashion Week Marks 30 Years, Goes Viral",
+    "title_cn": "澳大利亚时装周迎来30周年，社交媒体热度飙升",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/fashion-news/designer-luxury/australian-fashion-week-turns-30-goes-viral-1238957454/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/Commas-936-1.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [],
+    "tags": [
+      "Social Media",
+      "Fashion Week",
+      "Luxury"
+    ],
+    "summary_cn": "澳大利亚时装周庆祝30周年里程碑，本季凭借Commas等品牌的大秀在社交媒体上获得前所未有的传播热度，标志着澳洲时尚在全球话语体系中地位的提升。",
+    "social_heat": 62,
+    "industry_impact": 93,
+    "content_quality": 78,
+    "trend_velocity": 48,
+    "exclusivity": 42,
+    "fashion_score": 68.8,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 60.9
+      },
+      {
+        "date": "05-13",
+        "score": 58.9
+      },
+      {
+        "date": "05-14",
+        "score": 59.9
+      },
+      {
+        "date": "05-15",
+        "score": 60.3
+      },
+      {
+        "date": "05-16",
+        "score": 60.5
+      },
+      {
+        "date": "05-17",
+        "score": 67.7
+      },
+      {
+        "date": "05-18",
+        "score": 69.1
+      },
+      {
+        "date": "05-19",
+        "score": 72.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_042",
+    "title_en": "On Everything #140: Demna and Fashion's Golden Age of the Grotesque",
+    "title_cn": "评Demna与时尚的\"怪诞黄金时代\"",
+    "source": "Style Zeitgeist",
+    "author": "",
+    "url": "https://stylezeitgeist.substack.com/p/on-everything-140-demna-and-fashions",
+    "image_url": "https://picsum.photos/seed/7450/400/300",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [
+      "Gucci"
+    ],
+    "tags": [],
+    "summary_cn": "Eugene Rabkin撰文批判Demna在纽约发布的Gucci秀体现了时尚的\"怪诞黄金时代\"，认为其作品不是真正的文化批判而是\"对粗俗的冰冷庆祝\"。文章引用托克维尔名言，指出当\"酷不再是价值\"而金钱成为唯一驱动力时，时尚文化的深层危机已然显现。",
+    "social_heat": 85,
+    "industry_impact": 81,
+    "content_quality": 91,
+    "trend_velocity": 12,
+    "exclusivity": 30,
+    "fashion_score": 68.8,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 66.0
+      },
+      {
+        "date": "05-13",
+        "score": 68.6
+      },
+      {
+        "date": "05-14",
+        "score": 63.4
+      },
+      {
+        "date": "05-15",
+        "score": 71.0
+      },
+      {
+        "date": "05-16",
+        "score": 65.5
+      },
+      {
+        "date": "05-17",
+        "score": 64.6
+      },
+      {
+        "date": "05-18",
+        "score": 72.1
+      },
+      {
+        "date": "05-19",
+        "score": 65.1
       }
     ],
     "is_trending": false,
     "trend_direction": "stable"
   },
   {
-    "id": "art_005",
-    "title_en": "The TikTok Couturier: How Social Media Is Reshaping Designer Discovery",
-    "title_cn": "TikTok上的高定师：社交媒体如何重塑设计师发掘路径",
-    "source": "i-D",
-    "author": "Osman Ahmed",
-    "url": "https://example.com/article/005",
-    "image_url": "https://picsum.photos/seed/fashion5/400/300",
-    "published_date": "2026-04-27",
-    "category": "趋势分析",
-    "brands": [
-      "Schiaparelli",
-      "Rick Owens",
-      "Maison Margiela"
-    ],
+    "id": "real_024",
+    "title_en": "After Strong Start, Global Uncertainty Takes Its Toll on UK SME Clothing/Fashion Manufacturers — Report",
+    "title_cn": "全球不确定性冲击英国中小服装制造商",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/After-strong-start-global-uncertainty-takes-its-toll-on-uk-sme-clothing-fashion-manufacturers-report,1833304.html",
+    "image_url": "https://picsum.photos/seed/3336/400/300",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [],
     "tags": [
-      "Avant-Garde",
-      "Metaverse Fashion"
+      "Innovation"
     ],
-    "summary_cn": "年轻设计师不再依赖传统时装周渠道，而是通过TikTok和Instagram直接建立受众。i-D探讨了这条新路径如何改变时尚界的权力结构。",
-    "social_heat": 85,
-    "industry_impact": 72,
-    "content_quality": 82,
-    "trend_velocity": 88,
-    "exclusivity": 78,
-    "fashion_score": 80.9,
+    "summary_cn": "最新报告显示，尽管年初开局强劲，全球贸易不确定性正在对英国中小型服装制造商造成显著影响，订单放缓和成本上升成为主要挑战。",
+    "social_heat": 95,
+    "industry_impact": 66,
+    "content_quality": 66,
+    "trend_velocity": 42,
+    "exclusivity": 41,
+    "fashion_score": 68.6,
     "score_history": [
       {
-        "date": "04-27",
-        "score": 48.8
+        "date": "05-12",
+        "score": 63.0
       },
       {
-        "date": "04-26",
-        "score": 52.0
+        "date": "05-13",
+        "score": 63.8
       },
       {
-        "date": "04-25",
-        "score": 57.3
+        "date": "05-14",
+        "score": 59.0
       },
       {
-        "date": "04-24",
-        "score": 60.9
+        "date": "05-15",
+        "score": 62.9
       },
       {
-        "date": "04-23",
-        "score": 66.4
+        "date": "05-16",
+        "score": 63.0
       },
       {
-        "date": "04-22",
-        "score": 72.9
-      },
-      {
-        "date": "04-21",
-        "score": 75.7
-      },
-      {
-        "date": "04-20",
-        "score": 80.1
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_023",
-    "title_en": "Valentino After Piccioli: A House in Transition",
-    "title_cn": "Piccioli之后的Valentino：转型中的品牌",
-    "source": "WWD",
-    "author": "Luisa Zargani",
-    "url": "https://example.com/article/023",
-    "image_url": "https://picsum.photos/seed/fashion23/400/300",
-    "published_date": "2026-04-24",
-    "category": "品牌动态",
-    "brands": [
-      "Valentino",
-      "Mayhoola"
-    ],
-    "tags": [
-      "Couture"
-    ],
-    "summary_cn": "Pierpaolo Piccioli离任后，Valentino进入转型期。新创意总监Alessandro Michele的首秀引发两极评价，本文深度报道品牌内部的战略博弈。",
-    "social_heat": 87,
-    "industry_impact": 83,
-    "content_quality": 78,
-    "trend_velocity": 90,
-    "exclusivity": 62,
-    "fashion_score": 82.1,
-    "score_history": [
-      {
-        "date": "04-24",
-        "score": 51.0
-      },
-      {
-        "date": "04-23",
-        "score": 52.5
-      },
-      {
-        "date": "04-22",
-        "score": 62.6
-      },
-      {
-        "date": "04-21",
-        "score": 66.2
-      },
-      {
-        "date": "04-20",
-        "score": 71.5
-      },
-      {
-        "date": "04-19",
-        "score": 75.7
-      },
-      {
-        "date": "04-18",
-        "score": 79.7
-      },
-      {
-        "date": "04-17",
-        "score": 80.1
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_020",
-    "title_en": "K-Pop's Fashion Industrial Complex",
-    "title_cn": "K-Pop的时尚工业复合体",
-    "source": "i-D",
-    "author": "Sara Delgado",
-    "url": "https://example.com/article/020",
-    "image_url": "https://picsum.photos/seed/fashion20/400/300",
-    "published_date": "2026-04-22",
-    "category": "趋势分析",
-    "brands": [
-      "Gucci",
-      "Chanel",
-      "Dior",
-      "Saint Laurent"
-    ],
-    "tags": [
-      "Streetwear",
-      "Genderless"
-    ],
-    "summary_cn": "从Blackpink到NewJeans，K-Pop明星已成为奢侈品牌最核心的流量入口。i-D调查了K-Pop与时尚的共生关系，以及品牌大使策略的投入产出比。",
-    "social_heat": 94,
-    "industry_impact": 78,
-    "content_quality": 76,
-    "trend_velocity": 86,
-    "exclusivity": 58,
-    "fashion_score": 81.6,
-    "score_history": [
-      {
-        "date": "04-22",
-        "score": 53.8
-      },
-      {
-        "date": "04-21",
-        "score": 56.3
-      },
-      {
-        "date": "04-20",
-        "score": 58.6
-      },
-      {
-        "date": "04-19",
-        "score": 64.2
-      },
-      {
-        "date": "04-18",
-        "score": 68.1
-      },
-      {
-        "date": "04-17",
-        "score": 70.6
-      },
-      {
-        "date": "04-16",
-        "score": 78.3
-      },
-      {
-        "date": "04-15",
-        "score": 80.7
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up"
-  },
-  {
-    "id": "art_017",
-    "title_en": "Schiaparelli's Surrealist Strategy Is Working",
-    "title_cn": "Schiaparelli的超现实主义策略正在奏效",
-    "source": "Vogue",
-    "author": "Nicole Phelps",
-    "url": "https://example.com/article/017",
-    "image_url": "https://picsum.photos/seed/fashion17/400/300",
-    "published_date": "2026-04-21",
-    "category": "品牌动态",
-    "brands": [
-      "Schiaparelli"
-    ],
-    "tags": [
-      "Couture",
-      "Avant-Garde"
-    ],
-    "summary_cn": "Daniel Roseberry为Schiaparelli设计的超现实作品成为红毯常客。本文分析这个百年品牌的复兴路径及其在Tod's集团中的战略定位。",
-    "social_heat": 86,
-    "industry_impact": 74,
-    "content_quality": 86,
-    "trend_velocity": 76,
-    "exclusivity": 68,
-    "fashion_score": 79.7,
-    "score_history": [
-      {
-        "date": "04-21",
-        "score": 51.4
-      },
-      {
-        "date": "04-20",
-        "score": 57.1
-      },
-      {
-        "date": "04-19",
+        "date": "05-17",
         "score": 62.1
       },
       {
-        "date": "04-18",
+        "date": "05-18",
+        "score": 69.5
+      },
+      {
+        "date": "05-19",
+        "score": 69.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_000",
+    "title_en": "PVH Revamps Leadership as Americas CEO Donald Kohler Steps Down",
+    "title_cn": "PVH高层重组，美洲区CEO Donald Kohler离职",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/human-resources/pvh-leadership-changes-donald-kohler-steps-down-1238972400/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/PVH_AdelynCheong.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [
+      "PVH"
+    ],
+    "tags": [
+      "Retail",
+      "Executive Moves"
+    ],
+    "summary_cn": "PVH集团宣布美洲区CEO Donald Kohler卸任，公司正在对管理层架构进行调整以应对当前零售环境挑战。Kohler此前在PVH任职多年，此次离职引发业界对集团下一步战略的关注。",
+    "social_heat": 95,
+    "industry_impact": 57,
+    "content_quality": 50,
+    "trend_velocity": 74,
+    "exclusivity": 42,
+    "fashion_score": 68.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 50.4
+      },
+      {
+        "date": "05-13",
+        "score": 51.8
+      },
+      {
+        "date": "05-14",
+        "score": 53.7
+      },
+      {
+        "date": "05-15",
+        "score": 61.0
+      },
+      {
+        "date": "05-16",
+        "score": 61.7
+      },
+      {
+        "date": "05-17",
+        "score": 64.3
+      },
+      {
+        "date": "05-18",
+        "score": 62.0
+      },
+      {
+        "date": "05-19",
+        "score": 64.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_025",
+    "title_en": "JD Sports Says Adidas Samba Jane Searches Jump as Spring Ballet Trend Continues in UK",
+    "title_cn": "JD Sports：Adidas Samba Jane搜索量激增，英伦芭蕾风持续走红",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Jd-sports-says-adidas-samba-jane-searches-jump-as-spring-ballet-trend-continues-in-uk,1833303.html",
+    "image_url": "https://picsum.photos/seed/4292/400/300",
+    "published_date": "2026-05-19",
+    "category": "趋势分析",
+    "brands": [],
+    "tags": [
+      "Athleisure"
+    ],
+    "summary_cn": "JD Sports数据显示Adidas Samba Jane鞋款在英国搜索量大幅增长，芭蕾平底风格在春季持续升温，成为运动时尚领域最强劲的趋势之一。",
+    "social_heat": 65,
+    "industry_impact": 91,
+    "content_quality": 72,
+    "trend_velocity": 34,
+    "exclusivity": 60,
+    "fashion_score": 67.8,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 56.7
+      },
+      {
+        "date": "05-13",
+        "score": 58.3
+      },
+      {
+        "date": "05-14",
+        "score": 65.8
+      },
+      {
+        "date": "05-15",
+        "score": 67.0
+      },
+      {
+        "date": "05-16",
+        "score": 65.1
+      },
+      {
+        "date": "05-17",
+        "score": 68.4
+      },
+      {
+        "date": "05-18",
+        "score": 67.4
+      },
+      {
+        "date": "05-19",
+        "score": 65.0
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_038",
+    "title_en": "EXCLUSIVE: Tiger Woods Left Rehab Early to Attend Kai Trump's Prom",
+    "title_cn": "独家：Tiger Woods提前离开康复中心参加Kai Trump毕业舞会",
+    "source": "Rob Shuter",
+    "author": "",
+    "url": "https://robshuter.substack.com/p/exclusive-tiger-woods-left-rehab",
+    "image_url": "https://picsum.photos/seed/7940/400/300",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Innovation"
+    ],
+    "summary_cn": "据报道Tiger Woods提前离开康复治疗设施，专程参加Kai Trump（特朗普孙女）的高中毕业舞会，此举引发外界对其康复进展和社交圈层的猜测。",
+    "social_heat": 100,
+    "industry_impact": 67,
+    "content_quality": 64,
+    "trend_velocity": -11,
+    "exclusivity": 78,
+    "fashion_score": 67.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 67.5
+      },
+      {
+        "date": "05-13",
+        "score": 68.0
+      },
+      {
+        "date": "05-14",
+        "score": 72.1
+      },
+      {
+        "date": "05-15",
+        "score": 65.3
+      },
+      {
+        "date": "05-16",
+        "score": 65.5
+      },
+      {
+        "date": "05-17",
+        "score": 67.0
+      },
+      {
+        "date": "05-18",
+        "score": 64.9
+      },
+      {
+        "date": "05-19",
+        "score": 65.0
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_018",
+    "title_en": "",
+    "title_cn": "lululemon的新对手",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/19-39577.html",
+    "image_url": "http://images.ladymax.cn/userup/2605/1914360I624.jpg",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [
+      "lululemon"
+    ],
+    "tags": [
+      "China Market",
+      "Financial"
+    ],
+    "summary_cn": "lululemon正面临创始人与董事会的代理权争夺战，2025财年营收增长放缓至5%，盈利承压。中国市场成为唯一强劲增长区域，但新兴竞品正在蚕食其市场份额。",
+    "social_heat": 79,
+    "industry_impact": 78,
+    "content_quality": 59,
+    "trend_velocity": 34,
+    "exclusivity": 69,
+    "fashion_score": 67.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 63.5
+      },
+      {
+        "date": "05-13",
+        "score": 64.8
+      },
+      {
+        "date": "05-14",
+        "score": 62.3
+      },
+      {
+        "date": "05-15",
+        "score": 64.7
+      },
+      {
+        "date": "05-16",
+        "score": 61.2
+      },
+      {
+        "date": "05-17",
+        "score": 63.3
+      },
+      {
+        "date": "05-18",
+        "score": 69.7
+      },
+      {
+        "date": "05-19",
+        "score": 67.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_027",
+    "title_en": "Smythson Celebrates Beatrix Potter 160th Anniversary With Peter Rabbit & Friends Range",
+    "title_cn": "Smythson推出Beatrix Potter 160周年彼得兔系列",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Smythson-celebrates-beatrix-potter-160th-anniversary-with-peter-rabbit-friends-range,1833296.html",
+    "image_url": "https://picsum.photos/seed/2533/400/300",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [
+      "Smythson"
+    ],
+    "tags": [],
+    "summary_cn": "英国奢侈文具品牌Smythson为纪念Beatrix Potter诞辰160周年，推出彼得兔主题皮具与文具系列，将英伦经典IP与高端工艺相结合。",
+    "social_heat": 70,
+    "industry_impact": 60,
+    "content_quality": 75,
+    "trend_velocity": 83,
+    "exclusivity": 36,
+    "fashion_score": 67.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 52.6
+      },
+      {
+        "date": "05-13",
+        "score": 48.3
+      },
+      {
+        "date": "05-14",
+        "score": 56.4
+      },
+      {
+        "date": "05-15",
+        "score": 55.7
+      },
+      {
+        "date": "05-16",
+        "score": 63.0
+      },
+      {
+        "date": "05-17",
+        "score": 64.4
+      },
+      {
+        "date": "05-18",
+        "score": 67.4
+      },
+      {
+        "date": "05-19",
+        "score": 69.5
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_005",
+    "title_en": "Fiscal Q3 Results at LuxExperience Underscore Turnaround Progress",
+    "title_cn": "LuxExperience第三财季业绩显示转型取得进展",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/retail/fiscal-q3-results-at-luxexperience-turnaround-progress-1238971054/",
+    "image_url": "https://picsum.photos/seed/9981/400/300",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [],
+    "tags": [
+      "Retail",
+      "Financial",
+      "Luxury",
+      "Innovation"
+    ],
+    "summary_cn": "LuxExperience集团（Mytheresa母公司）Q3业绩显示转型计划正在见效，Mytheresa继续作为集团明星业务表现突出，但整体奢侈品电商环境依然严峻。",
+    "social_heat": 95,
+    "industry_impact": 73,
+    "content_quality": 73,
+    "trend_velocity": 11,
+    "exclusivity": 35,
+    "fashion_score": 66.5,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 63.9
+      },
+      {
+        "date": "05-13",
         "score": 62.7
       },
       {
-        "date": "04-17",
-        "score": 67.2
+        "date": "05-14",
+        "score": 68.3
       },
       {
-        "date": "04-16",
-        "score": 75.1
+        "date": "05-15",
+        "score": 66.7
       },
       {
-        "date": "04-15",
-        "score": 76.8
+        "date": "05-16",
+        "score": 63.3
       },
       {
-        "date": "04-14",
-        "score": 79.3
+        "date": "05-17",
+        "score": 64.4
+      },
+      {
+        "date": "05-18",
+        "score": 68.3
+      },
+      {
+        "date": "05-19",
+        "score": 62.9
       }
     ],
-    "is_trending": true,
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_020",
+    "title_en": "",
+    "title_cn": "传统奢侈品牌的解围之路",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/18-39575.html",
+    "image_url": "https://picsum.photos/seed/3854/400/300",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [
+      "Burberry"
+    ],
+    "tags": [
+      "Luxury"
+    ],
+    "summary_cn": "探讨Burberry等传统奢侈品牌在当前市场环境下的战略转型路径，分析品牌如何在保持传统基因的同时适应新一代消费者需求。",
+    "social_heat": 80,
+    "industry_impact": 57,
+    "content_quality": 80,
+    "trend_velocity": 52,
+    "exclusivity": 40,
+    "fashion_score": 66.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 55.7
+      },
+      {
+        "date": "05-13",
+        "score": 53.0
+      },
+      {
+        "date": "05-14",
+        "score": 54.9
+      },
+      {
+        "date": "05-15",
+        "score": 61.0
+      },
+      {
+        "date": "05-16",
+        "score": 61.8
+      },
+      {
+        "date": "05-17",
+        "score": 61.4
+      },
+      {
+        "date": "05-18",
+        "score": 62.5
+      },
+      {
+        "date": "05-19",
+        "score": 67.4
+      }
+    ],
+    "is_trending": false,
     "trend_direction": "up"
+  },
+  {
+    "id": "real_023",
+    "title_en": "",
+    "title_cn": "要闻 | 加拿大鹅全年营收15亿加元，中国市场成为关键引擎",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/18-39572.html",
+    "image_url": "https://picsum.photos/seed/8667/400/300",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [
+      "Canada Goose"
+    ],
+    "tags": [
+      "China Market",
+      "Financial"
+    ],
+    "summary_cn": "Canada Goose发布全年财报，营收达15亿加元，中国市场表现强劲成为增长关键引擎。品牌在中国市场的DTC渠道扩张战略初见成效。",
+    "social_heat": 55,
+    "industry_impact": 100,
+    "content_quality": 59,
+    "trend_velocity": 64,
+    "exclusivity": 31,
+    "fashion_score": 66.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 56.1
+      },
+      {
+        "date": "05-13",
+        "score": 51.6
+      },
+      {
+        "date": "05-14",
+        "score": 53.3
+      },
+      {
+        "date": "05-15",
+        "score": 55.2
+      },
+      {
+        "date": "05-16",
+        "score": 60.7
+      },
+      {
+        "date": "05-17",
+        "score": 60.3
+      },
+      {
+        "date": "05-18",
+        "score": 64.9
+      },
+      {
+        "date": "05-19",
+        "score": 67.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_003",
+    "title_en": "Arc'teryx, Salomon Parent Raises Full-year Guidance After Q1 Beat",
+    "title_cn": "Arc'teryx与Salomon母公司上调全年指引，Q1业绩超预期",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/amer-sports-as-q1-2026-earnings-arcteryx-salomon-1238972387/",
+    "image_url": "https://wwd.com/wp-content/uploads/2025/08/SALOMON-BUCKTOWN-FINAL-2png.png?w=900&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [
+      "Arc'teryx",
+      "Salomon",
+      "Amer Sports"
+    ],
+    "tags": [
+      "Gorpcore",
+      "China Market",
+      "Financial",
+      "Innovation"
+    ],
+    "summary_cn": "Amer Sports一季度业绩超预期，Salomon销售强劲带动整体增长，公司因此上调全年财务指引。Arc'teryx和Salomon在中国及全球市场的强劲表现成为核心驱动力。",
+    "social_heat": 89,
+    "industry_impact": 68,
+    "content_quality": 52,
+    "trend_velocity": 50,
+    "exclusivity": 43,
+    "fashion_score": 65.9,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 58.0
+      },
+      {
+        "date": "05-13",
+        "score": 57.8
+      },
+      {
+        "date": "05-14",
+        "score": 61.3
+      },
+      {
+        "date": "05-15",
+        "score": 60.5
+      },
+      {
+        "date": "05-16",
+        "score": 63.0
+      },
+      {
+        "date": "05-17",
+        "score": 59.3
+      },
+      {
+        "date": "05-18",
+        "score": 62.2
+      },
+      {
+        "date": "05-19",
+        "score": 64.2
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_012",
+    "title_en": "DKNY Opens First China Store in Shanghai",
+    "title_cn": "DKNY在上海开设中国首店",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/retail/dkny-first-china-store-shanghai-1238961529/",
+    "image_url": "https://picsum.photos/seed/2061/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [
+      "DKNY"
+    ],
+    "tags": [
+      "Retail",
+      "China Market",
+      "Innovation"
+    ],
+    "summary_cn": "DKNY在上海开设品牌在中国的第一家门店，标志着这个纽约时尚品牌正式进入中国零售市场，选址上海也反映出中国市场的战略优先级。",
+    "social_heat": 63,
+    "industry_impact": 92,
+    "content_quality": 65,
+    "trend_velocity": 50,
+    "exclusivity": 35,
+    "fashion_score": 65.9,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 53.5
+      },
+      {
+        "date": "05-13",
+        "score": 59.9
+      },
+      {
+        "date": "05-14",
+        "score": 57.8
+      },
+      {
+        "date": "05-15",
+        "score": 57.6
+      },
+      {
+        "date": "05-16",
+        "score": 61.7
+      },
+      {
+        "date": "05-17",
+        "score": 64.7
+      },
+      {
+        "date": "05-18",
+        "score": 62.0
+      },
+      {
+        "date": "05-19",
+        "score": 64.4
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_031",
+    "title_en": "Amer Sports Shares Climb as Salomon Sales Spur Outlook Boost",
+    "title_cn": "Amer Sports股价上涨，Salomon销售强劲驱动业绩展望上调",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Amer-sports-shares-climb-as-salomon-sales-spur-outlook-boost,1833220.html",
+    "image_url": "https://picsum.photos/seed/4174/400/300",
+    "published_date": "2026-05-19",
+    "category": "数据报告",
+    "brands": [
+      "Salomon",
+      "Amer Sports"
+    ],
+    "tags": [
+      "Gorpcore",
+      "Financial"
+    ],
+    "summary_cn": "Amer Sports股价在Q1业绩超预期后攀升，Salomon品牌的强劲销售表现成为主要增长引擎，尤其在户外与生活方式品类交叉领域表现突出。",
+    "social_heat": 57,
+    "industry_impact": 100,
+    "content_quality": 50,
+    "trend_velocity": 46,
+    "exclusivity": 59,
+    "fashion_score": 64.9,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 56.7
+      },
+      {
+        "date": "05-13",
+        "score": 60.1
+      },
+      {
+        "date": "05-14",
+        "score": 59.9
+      },
+      {
+        "date": "05-15",
+        "score": 57.0
+      },
+      {
+        "date": "05-16",
+        "score": 60.2
+      },
+      {
+        "date": "05-17",
+        "score": 65.7
+      },
+      {
+        "date": "05-18",
+        "score": 66.9
+      },
+      {
+        "date": "05-19",
+        "score": 65.9
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_034",
+    "title_en": "Jonathan Andic Arrested Over the Death of His Father, Mango Founder Isak Andic",
+    "title_cn": "Mango创始人Isak Andic之子Jonathan Andic被逮捕",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Jonathan-andic-arrested-over-the-death-of-his-father-mango-founder-isak-andic,1833127.html",
+    "image_url": "https://picsum.photos/seed/2781/400/300",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [
+      "Mango"
+    ],
+    "tags": [],
+    "summary_cn": "Mango创始人Isak Andic之子Jonathan Andic因父亲死亡事件被逮捕，此案在西班牙时尚界引起巨大震动，Mango品牌未来走向受到密切关注。",
+    "social_heat": 60,
+    "industry_impact": 68,
+    "content_quality": 66,
+    "trend_velocity": 64,
+    "exclusivity": 65,
+    "fashion_score": 64.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 51.8
+      },
+      {
+        "date": "05-13",
+        "score": 49.5
+      },
+      {
+        "date": "05-14",
+        "score": 58.3
+      },
+      {
+        "date": "05-15",
+        "score": 54.5
+      },
+      {
+        "date": "05-16",
+        "score": 57.0
+      },
+      {
+        "date": "05-17",
+        "score": 62.9
+      },
+      {
+        "date": "05-18",
+        "score": 59.6
+      },
+      {
+        "date": "05-19",
+        "score": 60.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_043",
+    "title_en": "Isabel Marant: How I Built a Brand That Didn't Burn Out",
+    "title_cn": "Isabel Marant：如何打造一个不\"燃尽\"的品牌",
+    "source": "1 Granary",
+    "author": "",
+    "url": "https://1granary.substack.com/p/isabel-marant-az-academy",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!9rmm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61e6ead4-f993-4cba-9af6-fa6b7fec9232_1080x584.jpeg",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [],
+    "summary_cn": "Isabel Marant在AZ Academy访谈中回顾了三十年品牌经营之道——坚持自筹资金、缓慢扩张，在准备好之前绝不登上T台。她坦言后悔没有先为其他设计师工作再创业，建议年轻设计师\"让增长速度保持在可控范围内\"，在创意与商业之间找到平衡。",
+    "social_heat": 56,
+    "industry_impact": 65,
+    "content_quality": 77,
+    "trend_velocity": 87,
+    "exclusivity": 26,
+    "fashion_score": 64.1,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 46.8
+      },
+      {
+        "date": "05-13",
+        "score": 46.3
+      },
+      {
+        "date": "05-14",
+        "score": 50.8
+      },
+      {
+        "date": "05-15",
+        "score": 50.6
+      },
+      {
+        "date": "05-16",
+        "score": 59.9
+      },
+      {
+        "date": "05-17",
+        "score": 58.6
+      },
+      {
+        "date": "05-18",
+        "score": 59.5
+      },
+      {
+        "date": "05-19",
+        "score": 63.1
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_033",
+    "title_en": "Shein Reportedly Buying Apparel Brand Everlane",
+    "title_cn": "传闻：Shein将收购可持续品牌Everlane",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Shein-reportedly-buying-apparel-brand-everlane,1832697.html",
+    "image_url": "https://picsum.photos/seed/9325/400/300",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [
+      "Shein",
+      "Everlane"
+    ],
+    "tags": [
+      "Sustainability"
+    ],
+    "summary_cn": "据传Shein正在收购美国可持续时尚品牌Everlane，成交价约1亿美元。这一潜在交易引发了对快时尚与可持续时尚商业模式融合的广泛讨论。",
+    "social_heat": 74,
+    "industry_impact": 88,
+    "content_quality": 76,
+    "trend_velocity": -20,
+    "exclusivity": 44,
+    "fashion_score": 63.8,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 66.3
+      },
+      {
+        "date": "05-13",
+        "score": 66.8
+      },
+      {
+        "date": "05-14",
+        "score": 67.4
+      },
+      {
+        "date": "05-15",
+        "score": 67.4
+      },
+      {
+        "date": "05-16",
+        "score": 65.3
+      },
+      {
+        "date": "05-17",
+        "score": 64.5
+      },
+      {
+        "date": "05-18",
+        "score": 62.1
+      },
+      {
+        "date": "05-19",
+        "score": 63.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "down"
+  },
+  {
+    "id": "real_030",
+    "title_en": "Fashion Giant Loved by Hollywood Stars Azzas 2154 Crashes in Brazil Markets",
+    "title_cn": "好莱坞明星钟爱的巴西时尚巨头Azzas 2154股价暴跌",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Fashion-giant-loved-by-hollywood-stars-azzas-2154-crashes-in-brazil-markets,1833234.html",
+    "image_url": "https://picsum.photos/seed/4280/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [],
+    "tags": [],
+    "summary_cn": "巴西时尚集团Azzas 2154在资本市场遭遇重挫，这家深受好莱坞明星喜爱的公司面临严重的市场和财务挑战，引发对新兴市场时尚企业估值的重新审视。",
+    "social_heat": 66,
+    "industry_impact": 87,
+    "content_quality": 80,
+    "trend_velocity": 13,
+    "exclusivity": 27,
+    "fashion_score": 62.2,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 56.3
+      },
+      {
+        "date": "05-13",
+        "score": 59.3
+      },
+      {
+        "date": "05-14",
+        "score": 62.1
+      },
+      {
+        "date": "05-15",
+        "score": 59.1
+      },
+      {
+        "date": "05-16",
+        "score": 61.9
+      },
+      {
+        "date": "05-17",
+        "score": 61.5
+      },
+      {
+        "date": "05-18",
+        "score": 60.9
+      },
+      {
+        "date": "05-19",
+        "score": 62.8
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_026",
+    "title_en": "Kay Barron, Alice Casely-Hayford to Launch Video-First Fashion Podcast in June",
+    "title_cn": "Kay Barron与Alice Casely-Hayford将推出视频优先时尚播客",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Kay-barron-alice-casely-hayford-to-launch-video-first-fashion-podcast-in-june,1833300.html",
+    "image_url": "https://picsum.photos/seed/2089/400/300",
+    "published_date": "2026-05-19",
+    "category": "趋势分析",
+    "brands": [],
+    "tags": [
+      "Social Media"
+    ],
+    "summary_cn": "英国时尚编辑Kay Barron与Alice Casely-Hayford宣布将于6月推出以视频为主要载体的时尚播客，反映时尚媒体内容消费向视频化转型的趋势。",
+    "social_heat": 57,
+    "industry_impact": 69,
+    "content_quality": 61,
+    "trend_velocity": 81,
+    "exclusivity": 27,
+    "fashion_score": 61.4,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 47.6
+      },
+      {
+        "date": "05-13",
+        "score": 44.5
+      },
+      {
+        "date": "05-14",
+        "score": 47.2
+      },
+      {
+        "date": "05-15",
+        "score": 48.5
+      },
+      {
+        "date": "05-16",
+        "score": 56.4
+      },
+      {
+        "date": "05-17",
+        "score": 59.6
+      },
+      {
+        "date": "05-18",
+        "score": 58.2
+      },
+      {
+        "date": "05-19",
+        "score": 62.4
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_001",
+    "title_en": "Banana Republic Taps PVH's Donald Kohler as CEO and President",
+    "title_cn": "Banana Republic任命PVH前高管Donald Kohler为CEO兼总裁",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/retail/banana-republic-donald-kohler-becomes-ceo-and-president-1238970642/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/GapInc_BR_DonaldKohler_1920x1080_2.jpg",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [
+      "Banana Republic",
+      "PVH"
+    ],
+    "tags": [
+      "Retail",
+      "Executive Moves",
+      "Innovation"
+    ],
+    "summary_cn": "Gap集团旗下Banana Republic宣布Donald Kohler将出任品牌CEO兼总裁，接掌这个正在经历转型的美国经典品牌。Kohler从PVH离任后的快速就位引发行业关注。",
+    "social_heat": 69,
+    "industry_impact": 82,
+    "content_quality": 69,
+    "trend_velocity": -17,
+    "exclusivity": 60,
+    "fashion_score": 61.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 62.2
+      },
+      {
+        "date": "05-13",
+        "score": 65.3
+      },
+      {
+        "date": "05-14",
+        "score": 63.9
+      },
+      {
+        "date": "05-15",
+        "score": 60.8
+      },
+      {
+        "date": "05-16",
+        "score": 63.2
+      },
+      {
+        "date": "05-17",
+        "score": 64.5
+      },
+      {
+        "date": "05-18",
+        "score": 57.6
+      },
+      {
+        "date": "05-19",
+        "score": 63.4
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "down"
+  },
+  {
+    "id": "real_017",
+    "title_en": "",
+    "title_cn": "突破 | 加拿大鹅进军中国市场，可持续品牌Everlane被收购",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/19-39578.html",
+    "image_url": "http://images.ladymax.cn/userup/2605/19143Ka2K.jpg",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [
+      "Shein",
+      "Everlane"
+    ],
+    "tags": [
+      "Sustainability",
+      "China Market"
+    ],
+    "summary_cn": "Shein正洽谈以约1亿美元收购可持续时尚品牌Everlane，成交价较其高峰期估值大幅缩水。同时加拿大鹅持续加码中国市场布局。",
+    "social_heat": 58,
+    "industry_impact": 100,
+    "content_quality": 76,
+    "trend_velocity": -19,
+    "exclusivity": 30,
+    "fashion_score": 60.6,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 68.0
+      },
+      {
+        "date": "05-13",
+        "score": 66.8
+      },
+      {
+        "date": "05-14",
+        "score": 60.8
+      },
+      {
+        "date": "05-15",
+        "score": 62.8
+      },
+      {
+        "date": "05-16",
+        "score": 60.0
+      },
+      {
+        "date": "05-17",
+        "score": 60.9
+      },
+      {
+        "date": "05-18",
+        "score": 57.6
+      },
+      {
+        "date": "05-19",
+        "score": 59.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "down"
+  },
+  {
+    "id": "real_028",
+    "title_en": "Carnaby Street to Be Football-Themed Destination for World Cup With Fanatics Pop-up Store",
+    "title_cn": "伦敦Carnaby Street变身世界杯足球主题街区，Fanatics开设快闪店",
+    "source": "FashionNetwork",
+    "author": "",
+    "url": "https://ww.fashionnetwork.com/news/Carnaby-street-to-be-football-themed-destination-for-world-cup-with-fanatics-pop-up-store,1833295.html",
+    "image_url": "https://picsum.photos/seed/4372/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [],
+    "tags": [
+      "Collaboration",
+      "Retail"
+    ],
+    "summary_cn": "伦敦标志性购物街Carnaby Street将与Fanatics合作打造足球主题快闪体验空间，借2026世界杯热度吸引全球游客和消费者。",
+    "social_heat": 65,
+    "industry_impact": 94,
+    "content_quality": 53,
+    "trend_velocity": 28,
+    "exclusivity": 27,
+    "fashion_score": 60.5,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 57.5
+      },
+      {
+        "date": "05-13",
+        "score": 53.2
+      },
+      {
+        "date": "05-14",
+        "score": 58.8
+      },
+      {
+        "date": "05-15",
+        "score": 56.8
+      },
+      {
+        "date": "05-16",
+        "score": 56.4
+      },
+      {
+        "date": "05-17",
+        "score": 61.2
+      },
+      {
+        "date": "05-18",
+        "score": 57.5
+      },
+      {
+        "date": "05-19",
+        "score": 56.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_002",
+    "title_en": "Consumers Still Spending, but a Lot More Discerning in Where and What They're Buying: Report",
+    "title_cn": "消费者仍在消费，但对购买渠道和品类更加挑剔",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/business-features/consumers-still-spending-but-more-discerning-where-what-theyre-buying-report-1238971734/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/Ulta-2018-LM.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [
+      "Retail"
+    ],
+    "summary_cn": "最新报告显示美国消费者支出并未缩减，但正变得更加审慎和挑剔——在渠道选择和产品类型上出现明显分化，这对品牌和零售商的精准定位提出更高要求。",
+    "social_heat": 82,
+    "industry_impact": 71,
+    "content_quality": 58,
+    "trend_velocity": -1,
+    "exclusivity": 38,
+    "fashion_score": 57.7,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 61.6
+      },
+      {
+        "date": "05-13",
+        "score": 56.6
+      },
+      {
+        "date": "05-14",
+        "score": 54.6
+      },
+      {
+        "date": "05-15",
+        "score": 54.6
+      },
+      {
+        "date": "05-16",
+        "score": 60.6
+      },
+      {
+        "date": "05-17",
+        "score": 58.6
+      },
+      {
+        "date": "05-18",
+        "score": 60.2
+      },
+      {
+        "date": "05-19",
+        "score": 59.5
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_011",
+    "title_en": "Issey Miyake Opens Largest China Store in Shanghai",
+    "title_cn": "Issey Miyake在上海开设中国最大旗舰店",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/retail/issey-miyake-shanghai-flagship-westbund-1238961375/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/issey-miyake_20260518193106_29_947.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "趋势分析",
+    "brands": [
+      "Issey Miyake"
+    ],
+    "tags": [
+      "Retail",
+      "China Market",
+      "Innovation"
+    ],
+    "summary_cn": "日本设计师品牌Issey Miyake在上海西岸开设中国最大旗舰店，体现出品牌对中国市场的持续加注，也呼应了日系设计师品牌在华扩张的行业趋势。",
+    "social_heat": 86,
+    "industry_impact": 51,
+    "content_quality": 53,
+    "trend_velocity": 26,
+    "exclusivity": 44,
+    "fashion_score": 57.4,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 49.9
+      },
+      {
+        "date": "05-13",
+        "score": 50.6
+      },
+      {
+        "date": "05-14",
+        "score": 54.0
+      },
+      {
+        "date": "05-15",
+        "score": 50.9
+      },
+      {
+        "date": "05-16",
+        "score": 56.9
+      },
+      {
+        "date": "05-17",
+        "score": 58.4
+      },
+      {
+        "date": "05-18",
+        "score": 60.4
+      },
+      {
+        "date": "05-19",
+        "score": 57.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_022",
+    "title_en": "",
+    "title_cn": "深度 | 高端百货为何越来越像大卖场？",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/18-39573.html",
+    "image_url": "https://picsum.photos/seed/8809/400/300",
+    "published_date": "2026-05-19",
+    "category": "深度评论",
+    "brands": [],
+    "tags": [
+      "Retail"
+    ],
+    "summary_cn": "分析高端百货在当前零售环境下的困境——品类泛化、体验降级、折扣常态化等问题正在侵蚀高端百货的品牌价值和消费者心智。",
+    "social_heat": 68,
+    "industry_impact": 82,
+    "content_quality": 58,
+    "trend_velocity": -4,
+    "exclusivity": 47,
+    "fashion_score": 57.2,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 61.1
+      },
+      {
+        "date": "05-13",
+        "score": 61.0
+      },
+      {
+        "date": "05-14",
+        "score": 56.8
+      },
+      {
+        "date": "05-15",
+        "score": 54.9
+      },
+      {
+        "date": "05-16",
+        "score": 60.2
+      },
+      {
+        "date": "05-17",
+        "score": 59.1
+      },
+      {
+        "date": "05-18",
+        "score": 58.2
+      },
+      {
+        "date": "05-19",
+        "score": 61.1
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_015",
+    "title_en": "The Rise of Longevity as Lifestyle",
+    "title_cn": "\"长寿生活方式\"的崛起：从健康趋势到生活哲学",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/beauty-industry-news/wellness/longevity-wellness-optimization-routines-los-angeles-1238955849/",
+    "image_url": "https://picsum.photos/seed/7750/400/300",
+    "published_date": "2026-05-19",
+    "category": "趋势分析",
+    "brands": [],
+    "tags": [
+      "Beauty"
+    ],
+    "summary_cn": "洛杉矶正在引领\"长寿即生活方式\"的新风潮，从生物黑客到高端养生会所，健康优化已从小众极客行为演变为主流高端消费文化。",
+    "social_heat": 81,
+    "industry_impact": 62,
+    "content_quality": 53,
+    "trend_velocity": -8,
+    "exclusivity": 67,
+    "fashion_score": 57.1,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 58.2
+      },
+      {
+        "date": "05-13",
+        "score": 57.9
+      },
+      {
+        "date": "05-14",
+        "score": 58.0
+      },
+      {
+        "date": "05-15",
+        "score": 59.9
+      },
+      {
+        "date": "05-16",
+        "score": 59.2
+      },
+      {
+        "date": "05-17",
+        "score": 61.5
+      },
+      {
+        "date": "05-18",
+        "score": 54.1
+      },
+      {
+        "date": "05-19",
+        "score": 56.3
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_021",
+    "title_en": "",
+    "title_cn": "Coach的变革与奢侈品行业最危险的时代",
+    "source": "Ladymax",
+    "author": "",
+    "url": "http://news.ladymax.cn/202605/18-39574.html",
+    "image_url": "https://picsum.photos/seed/5148/400/300",
+    "published_date": "2026-05-19",
+    "category": "品牌动态",
+    "brands": [
+      "Tapestry"
+    ],
+    "tags": [
+      "Luxury"
+    ],
+    "summary_cn": "Coach母公司Tapestry正在经历深刻变革，国际市场中70%的增长目标显示出集团对北美以外市场的战略重心转移，Coach品牌自身的升级策略也值得关注。",
+    "social_heat": 70,
+    "industry_impact": 66,
+    "content_quality": 62,
+    "trend_velocity": -4,
+    "exclusivity": 67,
+    "fashion_score": 56.6,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 58.6
+      },
+      {
+        "date": "05-13",
+        "score": 57.0
+      },
+      {
+        "date": "05-14",
+        "score": 60.6
+      },
+      {
+        "date": "05-15",
+        "score": 60.6
+      },
+      {
+        "date": "05-16",
+        "score": 53.0
+      },
+      {
+        "date": "05-17",
+        "score": 57.8
+      },
+      {
+        "date": "05-18",
+        "score": 57.2
+      },
+      {
+        "date": "05-19",
+        "score": 53.4
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_008",
+    "title_en": "Kacey Musgraves, Lee Collaborate on New Apparel Line for Walmart",
+    "title_cn": "Kacey Musgraves与Lee合作推出Walmart独家服饰系列",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/business-news/retail/kacey-musgraves-lee-apparel-line-walmar-kacey-lee-1238970923/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/Walmart-x-Kacey-Lee-_-PR-Photography-1-1.jpg",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [],
+    "tags": [
+      "Collaboration",
+      "Retail",
+      "Innovation"
+    ],
+    "summary_cn": "格莱美获奖歌手Kacey Musgraves与牛仔品牌Lee携手为Walmart打造独家联名服饰系列，延续了Walmart近年通过明星合作提升时尚属性的策略。",
+    "social_heat": 63,
+    "industry_impact": 59,
+    "content_quality": 70,
+    "trend_velocity": 0,
+    "exclusivity": 87,
+    "fashion_score": 56.4,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 57.2
+      },
+      {
+        "date": "05-13",
+        "score": 55.5
+      },
+      {
+        "date": "05-14",
+        "score": 57.2
+      },
+      {
+        "date": "05-15",
+        "score": 56.1
+      },
+      {
+        "date": "05-16",
+        "score": 54.4
+      },
+      {
+        "date": "05-17",
+        "score": 56.8
+      },
+      {
+        "date": "05-18",
+        "score": 59.9
+      },
+      {
+        "date": "05-19",
+        "score": 57.8
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_004",
+    "title_en": "Smythson Taps Peter Rabbit for Beatrix Potter Anniversary Collaboration",
+    "title_cn": "Smythson携手彼得兔推出Beatrix Potter 160周年联名系列",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/smythson-peter-rabbit-beatrix-potter-collaboration-1238972381/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/LANDSCAPE-_-STACK-SHOT_CLOSED.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [
+      "Smythson"
+    ],
+    "tags": [
+      "Collaboration"
+    ],
+    "summary_cn": "英国奢侈皮具品牌Smythson为纪念Beatrix Potter诞辰160周年，推出彼得兔主题联名系列，将经典文学形象融入高端文具与皮具设计。",
+    "social_heat": 60,
+    "industry_impact": 64,
+    "content_quality": 77,
+    "trend_velocity": -8,
+    "exclusivity": 49,
+    "fashion_score": 54.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 54.2
+      },
+      {
+        "date": "05-13",
+        "score": 56.8
+      },
+      {
+        "date": "05-14",
+        "score": 54.4
+      },
+      {
+        "date": "05-15",
+        "score": 54.2
+      },
+      {
+        "date": "05-16",
+        "score": 52.7
+      },
+      {
+        "date": "05-17",
+        "score": 52.9
+      },
+      {
+        "date": "05-18",
+        "score": 58.0
+      },
+      {
+        "date": "05-19",
+        "score": 55.5
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_014",
+    "title_en": "Chloe Fineman and Her Mother, Ellen Gunn Team Up With House of Frank & Eileen",
+    "title_cn": "SNL明星Chloe Fineman与母亲携手Frank & Eileen推出联名系列",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/fashion-news/sportswear/chloe-fineman-ellen-gunn-house-of-frank-and-eileen-collaboration-1238970554/",
+    "image_url": "https://picsum.photos/seed/3751/400/300",
+    "published_date": "2026-05-19",
+    "category": "时装周",
+    "brands": [],
+    "tags": [
+      "Athleisure",
+      "Collaboration"
+    ],
+    "summary_cn": "《周六夜现场》演员Chloe Fineman与母亲Ellen Gunn共同与加州品牌House of Frank & Eileen合作推出胶囊系列，主打母女情感与加州休闲风格。",
+    "social_heat": 59,
+    "industry_impact": 52,
+    "content_quality": 77,
+    "trend_velocity": 22,
+    "exclusivity": 29,
+    "fashion_score": 52.3,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 47.8
+      },
+      {
+        "date": "05-13",
+        "score": 46.6
+      },
+      {
+        "date": "05-14",
+        "score": 48.9
+      },
+      {
+        "date": "05-15",
+        "score": 50.0
+      },
+      {
+        "date": "05-16",
+        "score": 52.1
+      },
+      {
+        "date": "05-17",
+        "score": 54.0
+      },
+      {
+        "date": "05-18",
+        "score": 52.2
+      },
+      {
+        "date": "05-19",
+        "score": 50.2
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "up"
+  },
+  {
+    "id": "real_016",
+    "title_en": "Everyone's Buying Hair Growth Products on TikTok Shop",
+    "title_cn": "TikTok Shop上防脱发产品卖疯了",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/beauty-industry-news/hair/hair-growth-products-tiktok-shop-dr-groot-monat-1238956364/",
+    "image_url": "https://picsum.photos/seed/5560/400/300",
+    "published_date": "2026-05-19",
+    "category": "产业新闻",
+    "brands": [],
+    "tags": [
+      "Social Media",
+      "Financial",
+      "Beauty",
+      "Innovation"
+    ],
+    "summary_cn": "TikTok Shop成为美发增长品类的爆发渠道，Dr. Groot、Monat等防脱发和头发生长产品在平台上销量激增，社交电商正在重塑美妆个护的渠道格局。",
+    "social_heat": 61,
+    "industry_impact": 65,
+    "content_quality": 56,
+    "trend_velocity": 4,
+    "exclusivity": 59,
+    "fashion_score": 52.2,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 50.9
+      },
+      {
+        "date": "05-13",
+        "score": 50.9
+      },
+      {
+        "date": "05-14",
+        "score": 49.8
+      },
+      {
+        "date": "05-15",
+        "score": 49.7
+      },
+      {
+        "date": "05-16",
+        "score": 55.2
+      },
+      {
+        "date": "05-17",
+        "score": 51.5
+      },
+      {
+        "date": "05-18",
+        "score": 55.0
+      },
+      {
+        "date": "05-19",
+        "score": 52.6
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
+  },
+  {
+    "id": "real_006",
+    "title_en": "The Latest Beauty Executive Moves at Bath & Body Works, Stila Cosmetics and More",
+    "title_cn": "Bath & Body Works、Stila等品牌最新美妆高管变动",
+    "source": "WWD",
+    "author": "",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/bath-body-works-stila-beauty-executive-leader-moves-1238955154/",
+    "image_url": "https://wwd.com/wp-content/uploads/2026/05/Untitled-design5.jpg?w=1000&h=563&crop=1",
+    "published_date": "2026-05-19",
+    "category": "趋势分析",
+    "brands": [],
+    "tags": [
+      "Executive Moves",
+      "Beauty"
+    ],
+    "summary_cn": "美妆行业迎来新一轮高管洗牌，Bath & Body Works、Stila Cosmetics等品牌均有重要人事变动，反映出美妆领域在渠道变革和市场竞争下的组织调整趋势。",
+    "social_heat": 57,
+    "industry_impact": 70,
+    "content_quality": 62,
+    "trend_velocity": 14,
+    "exclusivity": 29,
+    "fashion_score": 52.0,
+    "score_history": [
+      {
+        "date": "05-12",
+        "score": 46.7
+      },
+      {
+        "date": "05-13",
+        "score": 53.0
+      },
+      {
+        "date": "05-14",
+        "score": 52.9
+      },
+      {
+        "date": "05-15",
+        "score": 48.8
+      },
+      {
+        "date": "05-16",
+        "score": 52.0
+      },
+      {
+        "date": "05-17",
+        "score": 50.3
+      },
+      {
+        "date": "05-18",
+        "score": 54.9
+      },
+      {
+        "date": "05-19",
+        "score": 51.7
+      }
+    ],
+    "is_trending": false,
+    "trend_direction": "stable"
   }
 ]
