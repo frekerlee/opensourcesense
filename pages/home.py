@@ -10,7 +10,7 @@ def render_home():
 
     # 简洁的 KPI 行
     total = len(articles)
-    xhs = sum(1 for a in articles if a["source"] == "小红书时尚博主")
+    xhs = sum(1 for a in articles if a["source"] == "小红书关注")
     videos = sum(1 for a in articles if a["category"] == "视频解读")
     media = sum(1 for a in articles if a["source"] in
                 ["WWD", "Business of Fashion", "FashionNetwork", "Ladymax", "Miss Tweed", "NYT / Vanessa Friedman"])

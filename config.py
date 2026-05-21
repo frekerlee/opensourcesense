@@ -272,7 +272,7 @@ SOURCES = [
     {"name": "Vogue Business", "access": "paywall", "url": "https://www.voguebusiness.com/", "desc": "时尚商业数据"},
     {"name": "GQ", "access": "paywall", "url": "https://www.gq.com/", "desc": "男装/文化"},
     # 博主 / 平台内容
-    {"name": "小红书时尚博主", "access": "blogger", "url": "https://www.xiaohongshu.com/", "desc": "小红书平台时尚内容"},
+    {"name": "小红书关注", "access": "blogger", "url": "https://www.xiaohongshu.com/", "desc": "你的小红书关注流·实时更新"},
     # B站时尚博主
     {"name": "AHALOLO (B站)", "access": "blogger", "url": "https://space.bilibili.com/353368172", "desc": "B站时尚评论/吐槽 · 深度解析"},
     {"name": "午夜飞行鼠 (B站)", "access": "blogger", "url": "https://space.bilibili.com/14359467", "desc": "B站时尚内容创作 · 穿搭测评"},

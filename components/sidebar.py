@@ -90,7 +90,7 @@ def render_sidebar() -> dict:
                                     "id": aid,
                                     "title_en": title[:120],
                                     "title_cn": title[:120],
-                                    "source": "小红书时尚博主",
+                                    "source": "小红书关注",
                                     "author": nc.get("user", {}).get("nickname", ""),
                                     "url": f"https://www.xiaohongshu.com/explore/{note_id}",
                                     "image_url": (nc.get("image_list", [{}])[0].get("url_default", "")) if nc.get("image_list") else "",

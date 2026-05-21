@@ -47,7 +47,7 @@ with tabs[0]:
     render_home()
 
 with tabs[1]:
-    xhs = [a for a in load_articles() if a["source"] == "小红书时尚博主"]
+    xhs = [a for a in load_articles() if a["source"] == "小红书关注"]
     xhs = sorted(xhs, key=lambda x: x["social_heat"], reverse=True)
 
     col_h1, col_h2 = st.columns([3, 1])
