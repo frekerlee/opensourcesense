@@ -1,7 +1,8 @@
 """左侧边栏筛选器"""
 
 import streamlit as st
-from config import CATEGORIES, BRANDS, SOURCES, SITE_NAME, SITE_SUBTITLE
+from config import CATEGORIES, BRANDS, SOURCES, SOURCE_NAMES, SITE_NAME, SITE_SUBTITLE
+from utils.data_loader import get_meta, refresh_from_brief
 
 
 def render_sidebar() -> dict:
@@ -66,10 +67,10 @@ def render_sidebar() -> dict:
         st.markdown('<p style="color:#9B9B9B; font-size:10px; margin:12px 0 4px 0; text-transform:uppercase;">▼ 来源</p>', unsafe_allow_html=True)
         sources = st.multiselect(
             "选择来源",
-            options=SOURCES,
+            options=SOURCE_NAMES,
             default=[],
             label_visibility="collapsed",
-            placeholder="全部来源",
+            placeholder=f"全部 {len(SOURCE_NAMES)} 个来源",
         )
 
         st.markdown("---")
@@ -101,9 +102,33 @@ def render_sidebar() -> dict:
 
         st.markdown("<br>", unsafe_allow_html=True)
 
+        # 数据刷新
+        col_refresh, col_status = st.columns([1, 2])
+        with col_refresh:
+            if st.button("🔄 刷新数据", use_container_width=True):
+                with st.spinner("正在从最新日报更新..."):
+                    count, fname = refresh_from_brief()
+                if count > 0:
+                    st.success(f"已更新 {count} 篇")
+                else:
+                    st.warning("未找到日报文件")
+
+        with col_status:
+            meta = get_meta()
+            if meta.get("last_update"):
+                st.markdown(
+                    f'<p style="color:#4A4D53; font-size:9px; margin:0;">📅 {meta["last_update"]}<br>📄 {meta.get("brief_file", "")}</p>',
+                    unsafe_allow_html=True,
+                )
+            else:
+                st.markdown(
+                    '<p style="color:#4A4D53; font-size:9px;">点击刷新加载数据</p>',
+                    unsafe_allow_html=True,
+                )
+
         # 底部署名
         st.markdown(
-            '<p style="color:#4A4D53; font-size:9px; text-align:center;">OPEN SOURCESENSE v1.0<br>Powered by Streamlit</p>',
+            '<p style="color:#4A4D53; font-size:9px; text-align:center; margin-top:12px;">OPEN SOURCESENSE v1.0<br>Powered by Streamlit</p>',
             unsafe_allow_html=True,
         )
 

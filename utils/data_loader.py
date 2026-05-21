@@ -1,6 +1,7 @@
 """数据加载与处理"""
 
 import json
+import os
 from pathlib import Path
 from datetime import datetime, timedelta
 import pandas as pd
@@ -8,17 +9,72 @@ import streamlit as st
 
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "articles.json"
+META_FILE = Path(__file__).parent.parent / "data" / ".meta.json"
+BRIEF_DIR = Path(os.path.expanduser("~/Desktop/时尚日报"))
+
+
+def get_latest_brief() -> Path | None:
+    """扫描日报目录，返回最新的 .md 文件路径"""
+    if not BRIEF_DIR.exists():
+        return None
+    md_files = sorted(BRIEF_DIR.glob("*.md"), reverse=True)
+    return md_files[0] if md_files else None
+
+
+def get_meta() -> dict:
+    """读取元数据（上次更新时间等）"""
+    if META_FILE.exists():
+        with open(META_FILE, "r") as f:
+            return json.load(f)
+    return {"last_update": None, "total_articles": 0, "brief_file": None}
+
+
+def save_meta(meta: dict):
+    with open(META_FILE, "w") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+
+def refresh_from_brief() -> tuple[int, str]:
+    """从最新日报刷新数据，返回 (文章数, 日报文件名)"""
+    latest = get_latest_brief()
+    if not latest:
+        return 0, ""
+
+    from data.parse_daily_brief import parse_brief
+    articles = parse_brief(latest)
+
+    # Fix source names
+    import re
+    for a in articles:
+        a["source"] = re.sub(r'\s*（[^）]+）', '', a["source"]).strip()
+
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(articles, f, ensure_ascii=False, indent=2)
+
+    meta = {
+        "last_update": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "total_articles": len(articles),
+        "brief_file": latest.name,
+    }
+    save_meta(meta)
+
+    # Clear Streamlit cache
+    load_articles.clear()
+    return len(articles), latest.name
 
 
 @st.cache_data(ttl=3600)
 def load_articles(path: str = None) -> list[dict]:
-    """加载文章数据（带缓存）"""
+    """加载文章数据（带缓存）。优先从 JSON 加载，否则尝试最新日报，最后回退 mock"""
     if path is None:
         path = DATA_FILE
-    # 如果 JSON 文件不存在，自动生成 mock 数据
     if not Path(path).exists():
-        from data.mock_data import save_articles
-        save_articles(path)
+        latest = get_latest_brief()
+        if latest:
+            refresh_from_brief()
+        else:
+            from data.mock_data import save_articles
+            save_articles(path)
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 

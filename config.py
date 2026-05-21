@@ -222,6 +222,9 @@ CATEGORIES = [
     "数据报告",
     "品牌动态",
     "时装周",
+    "小红书",
+    "公众号",
+    "博主观点",
 ]
 
 # ============ 品牌列表 ============
@@ -241,16 +244,48 @@ STYLE_TAGS = [
     "Athleisure", "Craftsmanship", "Resale",
 ]
 
-# ============ 来源清单 ============
+# ============ 来源清单（22个 + 博主平台）============
+# access: "open" = 可直接抓取, "paywall" = 付费墙, "blogger" = 博主内容
 SOURCES = [
-    "WWD", "Business of Fashion", "Vogue Business", "Ladymax",
-    "Miss Tweed", "FashionNetwork", "Amy Odell / Back Row",
-    "Style Zeitgeist", "1 Granary", "i-D", "GQ", "Vogue",
-    "The Style Title", "Brenda Hashtag", "Retail Boss",
-    "Puck News", "NYT / Vanessa Friedman", "Glitz Paris",
-    "Baiguan News", "Rob Shuter", "Why You Should Care",
-    "My Clothing Archive",
+    # 可直接访问（16个）
+    {"name": "WWD", "access": "open", "url": "https://wwd.com/", "desc": "时尚产业综合"},
+    {"name": "Miss Tweed", "access": "open", "url": "https://misstweed.com/", "desc": "奢侈品深度"},
+    {"name": "Ladymax", "access": "open", "url": "https://www.ladymax.cn/", "desc": "中文时尚商业"},
+    {"name": "FashionNetwork", "access": "open", "url": "https://ww.fashionnetwork.com/", "desc": "时尚产业新闻"},
+    {"name": "Rob Shuter", "access": "open", "url": "https://robshuter.substack.com/", "desc": "名人娱乐"},
+    {"name": "The Style Title", "access": "open", "url": "https://thestyletitle.substack.com/", "desc": "时尚文化批评"},
+    {"name": "Why You Should Care", "access": "open", "url": "https://whyyoushouldcare.substack.com/", "desc": "时尚/奢侈品牌分析"},
+    {"name": "Baiguan News", "access": "open", "url": "https://www.baiguan.news/", "desc": "中国市场数据"},
+    {"name": "Amy Odell / Back Row", "access": "open", "url": "https://amyodell.substack.com/", "desc": "时尚产业评论"},
+    {"name": "i-D", "access": "open", "url": "https://substack.i-d.co/", "desc": "青年文化/时尚"},
+    {"name": "Retail Boss", "access": "open", "url": "https://retailboss.substack.com/", "desc": "零售产业"},
+    {"name": "Style Zeitgeist", "access": "open", "url": "https://stylezeitgeist.substack.com/", "desc": "时尚文化评论"},
+    {"name": "Brenda Hashtag", "access": "open", "url": "https://brendahashtag.substack.com/", "desc": "时尚生活方式"},
+    {"name": "My Clothing Archive", "access": "open", "url": "https://myclothingarchive.substack.com/", "desc": "时尚档案/历史"},
+    {"name": "Climax Books", "access": "open", "url": "https://climaxbooks.substack.com/", "desc": "时尚书籍/文化"},
+    {"name": "1 Granary", "access": "open", "url": "https://1granary.substack.com/", "desc": "时装教育/新锐"},
+    # 付费墙 / 受限（6个）
+    {"name": "Puck News", "access": "paywall", "url": "https://puck.news/", "desc": "时尚/媒体 insider"},
+    {"name": "NYT / Vanessa Friedman", "access": "paywall", "url": "https://www.nytimes.com/", "desc": "时尚评论"},
+    {"name": "Business of Fashion", "access": "paywall", "url": "https://www.businessoffashion.com/", "desc": "时尚商业权威"},
+    {"name": "Glitz Paris", "access": "paywall", "url": "https://glitz.paris/", "desc": "巴黎时尚"},
+    {"name": "Vogue Business", "access": "paywall", "url": "https://www.voguebusiness.com/", "desc": "时尚商业数据"},
+    {"name": "GQ", "access": "paywall", "url": "https://www.gq.com/", "desc": "男装/文化"},
+    # 博主 / 平台内容
+    {"name": "小红书时尚博主", "access": "blogger", "url": "https://www.xiaohongshu.com/", "desc": "小红书平台时尚内容"},
+    # B站时尚博主
+    {"name": "AHALOLO (B站)", "access": "blogger", "url": "https://space.bilibili.com/353368172", "desc": "B站时尚评论/吐槽 · 深度解析"},
+    {"name": "午夜飞行鼠 (B站)", "access": "blogger", "url": "https://space.bilibili.com/14359467", "desc": "B站时尚内容创作 · 穿搭测评"},
+    # 微信公众号
+    {"name": "LADYMAX (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "中文时尚商业深度 · 公众号"},
+    {"name": "Numero中文版 (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "Numero大都市中文版 · 公众号"},
+    {"name": "Vogue Business (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "Vogue商业洞察中文版 · 公众号"},
+    {"name": "1stRow (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "秀场前排 · 时装周深度报道"},
+    {"name": "InsideFashion (公众号)", "access": "blogger", "url": "https://mp.weixin.qq.com/", "desc": "时尚圈内幕 · 产业深度"},
 ]
+
+# 提取纯名称列表（兼容旧代码）
+SOURCE_NAMES = [s["name"] for s in SOURCES]
 
 # ============ 评分权重 ============
 SCORE_WEIGHTS = {
