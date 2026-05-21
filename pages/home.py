@@ -9,39 +9,63 @@ from utils.data_loader import load_articles, filter_articles, sort_articles
 def main():
     articles = load_articles()
 
-    # 渲染左侧边栏并获取筛选参数
+    # 左侧边栏
     filters = render_sidebar()
 
-    # 顶部快速筛选按钮
-    st.markdown('<p style="color:#9B9B9B; font-size:10px; margin:0 0 4px 0;">快速筛选</p>', unsafe_allow_html=True)
-    quick_cols = st.columns([1, 1, 1, 1, 1, 1, 2])
-    quick_filters = ["全部", "🎬 视频解读", "📰 产业新闻", "📊 趋势分析", "💬 深度评论", "👗 时装周"]
+    # ===== 来源平台快捷筛选 =====
+    st.markdown('<p style="color:#9B9B9B; font-size:10px; margin:0 0 6px 0;">📌 按来源平台筛选</p>', unsafe_allow_html=True)
 
-    # 用 session state 记住快捷筛选
-    if "quick_filter" not in st.session_state:
-        st.session_state.quick_filter = "全部"
+    platform_filters = [
+        ("📕 小红书", "source", "小红书时尚博主"),
+        ("🎬 B站视频", "category", "视频解读"),
+        ("📰 WWD", "source", "WWD"),
+        ("🇨🇳 Ladymax", "source", "Ladymax"),
+        ("🌐 FashionNetwork", "source", "FashionNetwork"),
+        ("💬 深度评论", "category", "深度评论"),
+    ]
 
-    for i, qf in enumerate(quick_filters):
-        with quick_cols[i]:
-            label = qf.replace("🎬 ", "").replace("📰 ", "").replace("📊 ", "").replace("💬 ", "").replace("👗 ", "")
-            if st.button(qf, key=f"qf_{i}", use_container_width=True,
-                         type="primary" if st.session_state.quick_filter == label else "secondary"):
-                st.session_state.quick_filter = label
+    if "quick_source" not in st.session_state:
+        st.session_state.quick_source = None
+
+    cols = st.columns(len(platform_filters) + 1)
+    with cols[0]:
+        if st.button("🔄 全部", use_container_width=True,
+                     type="primary" if st.session_state.quick_source is None else "secondary"):
+            st.session_state.quick_source = None
+
+    for i, (label, filter_type, filter_value) in enumerate(platform_filters):
+        with cols[i + 1]:
+            if st.button(label, use_container_width=True,
+                         type="primary" if st.session_state.quick_source == filter_value else "secondary"):
+                st.session_state.quick_source = filter_value
 
     st.markdown("---")
 
-    # 合并侧边栏筛选 + 快捷筛选
-    if st.session_state.quick_filter != "全部":
-        # 快捷筛选覆盖侧边栏的 category 筛选
-        filtered = filter_articles(
-            articles,
-            categories=[st.session_state.quick_filter],
-            brands=filters["brands"],
-            sources=filters["sources"],
-            date_range=filters["date_range"],
-            search=filters["search"],
-            trending_only=filters["trending_only"],
-        )
+    # ===== 过滤逻辑 =====
+    if st.session_state.quick_source:
+        qs = st.session_state.quick_source
+        if qs in ("小红书时尚博主", "WWD", "Ladymax", "FashionNetwork"):
+            # 来源筛选
+            filtered = filter_articles(
+                articles,
+                categories=filters["categories"],
+                brands=filters["brands"],
+                sources=[qs],
+                date_range=filters["date_range"],
+                search=filters["search"],
+                trending_only=filters["trending_only"],
+            )
+        else:
+            # 分类筛选（视频解读 / 深度评论）
+            filtered = filter_articles(
+                articles,
+                categories=[qs],
+                brands=filters["brands"],
+                sources=filters["sources"],
+                date_range=filters["date_range"],
+                search=filters["search"],
+                trending_only=filters["trending_only"],
+            )
     else:
         filtered = filter_articles(
             articles,
@@ -55,19 +79,23 @@ def main():
 
     sorted_articles = sort_articles(filtered, filters["sort_by"])
 
-    # 统计信息行
-    col1, col2, col3, col4 = st.columns(4)
+    # ===== 统计 =====
+    xhs_count = sum(1 for a in sorted_articles if a["source"] == "小红书时尚博主")
+    video_count = sum(1 for a in sorted_articles if a["category"] == "视频解读")
+    wwd_count = sum(1 for a in sorted_articles if a["source"] == "WWD")
+    other_count = len(sorted_articles) - xhs_count - video_count - wwd_count
+
+    col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
-        st.metric("当前文章", len(sorted_articles))
+        st.metric("总文章", len(sorted_articles))
     with col2:
-        avg_score = sum(a["fashion_score"] for a in sorted_articles) / max(1, len(sorted_articles))
-        st.metric("平均评分", f"{avg_score:.1f}")
+        st.metric("📕 小红书", xhs_count)
     with col3:
-        trending_count = sum(1 for a in sorted_articles if a["is_trending"])
-        st.metric("热门", trending_count)
+        st.metric("🎬 B站视频", video_count)
     with col4:
-        video_count = sum(1 for a in sorted_articles if a.get("category") == "视频解读")
-        st.metric("视频", video_count)
+        st.metric("📰 WWD", wwd_count)
+    with col5:
+        st.metric("其他来源", other_count)
 
     st.markdown("---")
 
