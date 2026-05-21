@@ -63,9 +63,9 @@ def refresh_from_brief() -> tuple[int, str]:
     return len(articles), latest.name
 
 
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=300)
 def load_articles(path: str = None) -> list[dict]:
-    """加载文章数据（带缓存）。优先从 JSON 加载，否则尝试最新日报，最后回退 mock"""
+    """加载文章数据（带缓存，5分钟过期）。优先从 JSON 加载，否则尝试最新日报，最后回退 mock"""
     if path is None:
         path = DATA_FILE
     if not Path(path).exists():
