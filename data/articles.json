@@ -1,70 +1,5 @@
 [
   {
-    "id": "bili_001",
-    "title_en": "Why Demna's Gucci Is a Creative Bankruptcy — A Deep Dive",
-    "title_cn": "为什么Demna的Gucci是创意破产——深度解析",
-    "source": "AHALOLO (B站)",
-    "author": "AHALOLO",
-    "url": "https://search.bilibili.com/all?keyword=为什么Demna的G",
-    "image_url": "https://picsum.photos/seed/bili1/400/300",
-    "published_date": "2026-05-20",
-    "category": "深度评论",
-    "brands": [
-      "Gucci",
-      "Balenciaga",
-      "Kering"
-    ],
-    "tags": [
-      "Luxury",
-      "Avant-Garde",
-      "Fashion Week"
-    ],
-    "summary_cn": "AHALOLO最新视频炮轰Demna在Gucci的首秀，从设计语言、秀场叙事到商业逻辑三个维度拆解为什么这是一场'创意破产'。视频指出Demna将Balenciaga的街头公式直接移植到Gucci，暴露了开云集团在创意人才战略上的深层危机。弹幕和评论区掀起激烈讨论。",
-    "social_heat": 94,
-    "industry_impact": 82,
-    "content_quality": 90,
-    "trend_velocity": 88,
-    "exclusivity": 72,
-    "fashion_score": 86.2,
-    "score_history": [
-      {
-        "date": "05-12",
-        "score": 74.2
-      },
-      {
-        "date": "05-13",
-        "score": 77.2
-      },
-      {
-        "date": "05-14",
-        "score": 78.7
-      },
-      {
-        "date": "05-15",
-        "score": 81.6
-      },
-      {
-        "date": "05-16",
-        "score": 80.1
-      },
-      {
-        "date": "05-17",
-        "score": 82.1
-      },
-      {
-        "date": "05-18",
-        "score": 85.1
-      },
-      {
-        "date": "05-19",
-        "score": 86.4
-      }
-    ],
-    "is_trending": true,
-    "trend_direction": "up",
-    "structure": "【立论】核心观点一句话 → 【论据A】正反案例对比 → 【论据B】数据与行业逻辑 → 【升华】对行业的启示与反思"
-  },
-  {
     "id": "xhs_001",
     "title_en": "Xiaohongshu Fashion: This Season's 'Old Money' Aesthetic Is Taking Over Chinese Social Media",
     "title_cn": "小红书穿搭趋势：今季'老钱风'席卷中文社交平台",
@@ -492,70 +427,6 @@
     "is_trending": false,
     "trend_direction": "up",
     "structure": "【核心发现】最重要的3个数字 → 【数据拆解】分地区/分品类/分时段 → 【对比分析】同比/环比/竞品对比 → 【商业启示】数据背后的行动建议"
-  },
-  {
-    "id": "bili_002",
-    "title_en": "Unboxing & Review: Loewe Squeeze Bag — Worth the Hype?",
-    "title_cn": "开箱实测：Loewe Squeeze包——值不值得买？",
-    "source": "午夜飞行鼠 (B站)",
-    "author": "午夜飞行鼠",
-    "url": "https://search.bilibili.com/all?keyword=开箱实测：Loewe",
-    "image_url": "https://picsum.photos/seed/bili2/400/300",
-    "published_date": "2026-05-19",
-    "category": "品牌动态",
-    "brands": [
-      "Loewe",
-      "LVMH"
-    ],
-    "tags": [
-      "Luxury",
-      "Craftsmanship",
-      "Collaboration"
-    ],
-    "summary_cn": "午夜飞行鼠带来Loewe Squeeze手袋的深度开箱测评，从皮质、五金、容量到穿搭兼容性逐一实测。视频对比了同价位Bottega Veneta和The Row的竞品，最终给出'设计满分但性价比存疑'的结论，引发粉丝对手袋定价的热议。",
-    "social_heat": 88,
-    "industry_impact": 55,
-    "content_quality": 78,
-    "trend_velocity": 72,
-    "exclusivity": 45,
-    "fashion_score": 71.8,
-    "score_history": [
-      {
-        "date": "05-12",
-        "score": 67.3
-      },
-      {
-        "date": "05-13",
-        "score": 67.2
-      },
-      {
-        "date": "05-14",
-        "score": 68.7
-      },
-      {
-        "date": "05-15",
-        "score": 69.7
-      },
-      {
-        "date": "05-16",
-        "score": 70.4
-      },
-      {
-        "date": "05-17",
-        "score": 70.5
-      },
-      {
-        "date": "05-18",
-        "score": 70.0
-      },
-      {
-        "date": "05-19",
-        "score": 72.3
-      }
-    ],
-    "is_trending": false,
-    "trend_direction": "up",
-    "structure": "【新品/新店/新合作】What's New → 【品牌逻辑】Brand Logic → 【市场反应】Market Response → 【长期影响】Long-term Impact"
   },
   {
     "id": "real_010",
@@ -2921,5 +2792,1033 @@
     "is_trending": false,
     "trend_direction": "stable",
     "structure": "【现象扫描】近期高频出现的信号 → 【数据佐证】搜索量/销量/社媒热度 → 【文化解读】背后的消费者心理变迁 → 【趋势预判】是否会持续/演化方向"
+  },
+  {
+    "id": "ahalo_001",
+    "title_en": "Deep Dive: How Asian Stars Conquered the Red Carpet — And Is Met Gala Surviving on Amazon?",
+    "title_cn": "万字解析 | 亚洲明星抢占顶级红毯，MET GALA靠亚马逊输血？",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1Sa5p6SEqx",
+    "image_url": "https://picsum.photos/seed/ahalo1/400/300",
+    "published_date": "2026-05-08",
+    "category": "深度评论",
+    "brands": [
+      "Gucci",
+      "Louis Vuitton",
+      "Prada",
+      "Schiaparelli"
+    ],
+    "tags": [
+      "Fashion Week",
+      "Cannes",
+      "Luxury"
+    ],
+    "summary_cn": "AHALOLO万字长文拆解MET GALA 2026的红毯权力版图。从Lisa、王嘉尔到Blackpink成员，亚洲面孔正在重新定义顶级红毯的话语权。深度分析MET GALA的商业化困境——Amazon赞助背后的品位降级危机，以及Anna Wintour如何在新旧势力之间维持平衡。",
+    "structure": "【现象切入】MET GALA亚洲面孔激增的数据可视化 → 【权力分析】从被邀请到拥有话语权：亚洲明星的十年进阶路 → 【商业解剖】Amazon赞助对MET GALA品牌价值的双向影响 → 【文化评论】当红毯从时尚界闭门派对变成全球流量生意——谁赢了？",
+    "social_heat": 95,
+    "industry_impact": 88,
+    "content_quality": 93,
+    "trend_velocity": 85,
+    "exclusivity": 80,
+    "fashion_score": 89.3,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 72.3
+      },
+      {
+        "date": "05-12",
+        "score": 71.2
+      },
+      {
+        "date": "05-13",
+        "score": 75.2
+      },
+      {
+        "date": "05-14",
+        "score": 77.4
+      },
+      {
+        "date": "05-15",
+        "score": 83.1
+      },
+      {
+        "date": "05-16",
+        "score": 85.3
+      },
+      {
+        "date": "05-17",
+        "score": 89.1
+      },
+      {
+        "date": "05-18",
+        "score": 86.8
+      }
+    ]
+  },
+  {
+    "id": "ahalo_002",
+    "title_en": "Louis Vuitton's Flagship: Just Browsing Now?",
+    "title_cn": "也是好起来了！LV随便逛？",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV17koEBdE21",
+    "image_url": "https://picsum.photos/seed/ahalo2/400/300",
+    "published_date": "2026-05-04",
+    "category": "品牌动态",
+    "brands": [
+      "Louis Vuitton",
+      "LVMH"
+    ],
+    "tags": [
+      "Luxury",
+      "Retail",
+      "China Market"
+    ],
+    "summary_cn": "AHALOLO实地探访LV旗舰店，从进店体验到产品陈列全方位测评。视频以轻松调侃的方式揭示了奢侈品门店服务的微妙变化——SA（销售顾问）从高冷到热情的转变背后，是中国奢侈品消费降级与品牌应对策略的缩影。将'随便逛'的个人体验升华为奢侈品零售变革的行业观察。",
+    "structure": "【Vlog开场】LV探店第一视角 → 【体验拆解】从进店、看包到试穿的全流程体验 → 【行业洞察】SA态度变化的背后：中国奢侈品消费结构转型 → 【结尾反转】看似吐槽实则深度——LV在'去奢侈化'还是'新奢侈化'？",
+    "social_heat": 82,
+    "industry_impact": 72,
+    "content_quality": 85,
+    "trend_velocity": 78,
+    "exclusivity": 60,
+    "fashion_score": 77.5,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 60.7
+      },
+      {
+        "date": "05-12",
+        "score": 60.6
+      },
+      {
+        "date": "05-13",
+        "score": 64.1
+      },
+      {
+        "date": "05-14",
+        "score": 68.2
+      },
+      {
+        "date": "05-15",
+        "score": 67.6
+      },
+      {
+        "date": "05-16",
+        "score": 71.0
+      },
+      {
+        "date": "05-17",
+        "score": 76.1
+      },
+      {
+        "date": "05-18",
+        "score": 77.8
+      }
+    ]
+  },
+  {
+    "id": "ahalo_003",
+    "title_en": "New Ring + Old Wedding Dress?! How Hollywood's Red Carpet Queen Dominates in Rags",
+    "title_cn": "新婚戒+旧婚纱？！好莱坞红毯一姐靠破裙子大杀四方？",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1V3o8B2EuB",
+    "image_url": "https://picsum.photos/seed/ahalo3/400/300",
+    "published_date": "2026-05-02",
+    "category": "深度评论",
+    "brands": [
+      "Gucci",
+      "Dior",
+      "Valentino"
+    ],
+    "tags": [
+      "Cannes",
+      "Red Carpet",
+      "Celebrity Style"
+    ],
+    "summary_cn": "AHALOLO以Zendaya的红毯造型为切入点，解构好莱坞红毯的游戏规则。从'旧裙子二次穿着'到'婚戒+高定的混搭哲学'，揭示了顶级造型师如何用'破'来'立'——看似不完美的选择反而是最高级的红毯策略。分析了Zendaya与Law Roach这对黄金组合如何重新定义红毯叙事。",
+    "structure": "【悬念开场】'破裙子'为什么赢了红毯？ → 【案例拆解】Zendaya的5个红毯造型逐帧分析 → 【造型哲学】Law Roach的'不完美美学'理论框架 → 【行业启示】红毯已从选美变成叙事艺术——中国明星差在哪？",
+    "social_heat": 90,
+    "industry_impact": 75,
+    "content_quality": 89,
+    "trend_velocity": 82,
+    "exclusivity": 72,
+    "fashion_score": 83.6,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 64.7
+      },
+      {
+        "date": "05-12",
+        "score": 69.4
+      },
+      {
+        "date": "05-13",
+        "score": 73.2
+      },
+      {
+        "date": "05-14",
+        "score": 70.8
+      },
+      {
+        "date": "05-15",
+        "score": 78.1
+      },
+      {
+        "date": "05-16",
+        "score": 79.9
+      },
+      {
+        "date": "05-17",
+        "score": 80.2
+      },
+      {
+        "date": "05-18",
+        "score": 81.5
+      }
+    ]
+  },
+  {
+    "id": "ahalo_004",
+    "title_en": "I Understand Now! How to See the Fundamental Logic of Aesthetics Through One Piece of Jewelry",
+    "title_cn": "我悟了！如何从一枚珠宝看懂美学的根本逻辑？",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1WGdsB2ELq",
+    "image_url": "https://picsum.photos/seed/ahalo4/400/300",
+    "published_date": "2026-04-29",
+    "category": "深度评论",
+    "brands": [
+      "Cartier",
+      "Tiffany",
+      "Bulgari",
+      "Van Cleef & Arpels"
+    ],
+    "tags": [
+      "Craftsmanship",
+      "Luxury",
+      "Design Theory"
+    ],
+    "summary_cn": "AHALOLO从一枚高级珠宝出发，展开了一场关于美学底层逻辑的思想实验。从卡地亚的几何主义到Van Cleef的自然主义，从Tiffany的浪漫主义到宝格丽的色彩哲学——视频构建了一个理解美学的四象限框架。将看似玄学的美学判断转化为可分析的结构性思维，是AHALOLO内容深度的代表作。",
+    "structure": "【具体到抽象】一枚珠宝 → 一种风格 → 一套美学体系 → 【四象限框架】几何/自然、理性/感性矩阵 → 【案例论证】四大珠宝品牌分别占据一个象限 → 【升华】从珠宝到服装到建筑——美学的底层逻辑是相通的",
+    "social_heat": 78,
+    "industry_impact": 65,
+    "content_quality": 95,
+    "trend_velocity": 60,
+    "exclusivity": 90,
+    "fashion_score": 79.0,
+    "is_trending": false,
+    "trend_direction": "stable",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 69.1
+      },
+      {
+        "date": "05-12",
+        "score": 67.2
+      },
+      {
+        "date": "05-13",
+        "score": 67.6
+      },
+      {
+        "date": "05-14",
+        "score": 69.4
+      },
+      {
+        "date": "05-15",
+        "score": 75.7
+      },
+      {
+        "date": "05-16",
+        "score": 76.0
+      },
+      {
+        "date": "05-17",
+        "score": 79.0
+      },
+      {
+        "date": "05-18",
+        "score": 80.4
+      }
+    ]
+  },
+  {
+    "id": "ahalo_005",
+    "title_en": "Three Luxury Conglomerates Invite Me to Paris! Fashion Week Through a K-pop Lens",
+    "title_cn": "三大奢侈品集团邀请去巴黎！如果UP主用爱豆的方式打开时装周！",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1XSD3BLEXw",
+    "image_url": "https://picsum.photos/seed/ahalo5/400/300",
+    "published_date": "2026-04-24",
+    "category": "时装周",
+    "brands": [
+      "LVMH",
+      "Kering",
+      "Chanel",
+      "Dior",
+      "Gucci"
+    ],
+    "tags": [
+      "Fashion Week",
+      "K-pop",
+      "Celebrity Style"
+    ],
+    "summary_cn": "AHALOLO受邀参加巴黎时装周，获得LVMH、Kering、Chanel三大阵营的秀场邀请。视频以'爱豆打歌'的叙事框架重新想象时装周体验——每个品牌秀场是一场'舞台'，设计师是'制作人'，前排明星是'门面担当'。这种破圈的叙事方式让时装周文化触达了更广泛的年轻受众。",
+    "structure": "【叙事框架】用K-pop打歌模式类比时装周 → 【秀场测评】LVMH vs Kering vs Chanel三大阵营的Show体验 → 【文化跨界】为什么用爱豆逻辑解读时装周能破圈？ → 【结尾彩蛋】UP主在巴黎的幕后花絮",
+    "social_heat": 88,
+    "industry_impact": 70,
+    "content_quality": 82,
+    "trend_velocity": 90,
+    "exclusivity": 85,
+    "fashion_score": 82.7,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 64.0
+      },
+      {
+        "date": "05-12",
+        "score": 69.3
+      },
+      {
+        "date": "05-13",
+        "score": 68.5
+      },
+      {
+        "date": "05-14",
+        "score": 72.2
+      },
+      {
+        "date": "05-15",
+        "score": 76.6
+      },
+      {
+        "date": "05-16",
+        "score": 78.0
+      },
+      {
+        "date": "05-17",
+        "score": 82.2
+      },
+      {
+        "date": "05-18",
+        "score": 83.2
+      }
+    ]
+  },
+  {
+    "id": "ahalo_006",
+    "title_en": "Who Defines Womenswear? Female Designers' Vision of Fashion — Tory Burch FW26 Deep Dive",
+    "title_cn": "女装时尚由谁定义？女性设计师眼中的时尚是什么样的？深度解析 Tory Burch 26秋冬秀场",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1Y9XNBKEeh",
+    "image_url": "https://picsum.photos/seed/ahalo6/400/300",
+    "published_date": "2026-04-21",
+    "category": "时装周",
+    "brands": [
+      "Tory Burch"
+    ],
+    "tags": [
+      "Fashion Week",
+      "Menswear",
+      "Design Theory"
+    ],
+    "summary_cn": "AHALOLO以Tory Burch 2026秋冬系列为样本，深度探讨女性设计师如何定义女装——不是为男性凝视而设计，而是为女性自身的身体感受和生活方式而设计。从面料触感到廓形逻辑，从秀场casting到品牌叙事，视频构建了一套'女性视角时尚评判体系'，是AHALOLO最具学术深度的内容之一。",
+    "structure": "【核心设问】女装时尚由谁定义？ → 【秀场逐帧分析】Tory Burch FW26的10个关键Look → 【理论构建】男性凝视 vs 女性体验：两种设计哲学的对立 → 【行业追问】为什么女性设计师占比不到20%，却创造了最多的商业成功？",
+    "social_heat": 80,
+    "industry_impact": 78,
+    "content_quality": 94,
+    "trend_velocity": 72,
+    "exclusivity": 82,
+    "fashion_score": 82.1,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 68.2
+      },
+      {
+        "date": "05-12",
+        "score": 66.4
+      },
+      {
+        "date": "05-13",
+        "score": 69.7
+      },
+      {
+        "date": "05-14",
+        "score": 72.2
+      },
+      {
+        "date": "05-15",
+        "score": 73.1
+      },
+      {
+        "date": "05-16",
+        "score": 76.2
+      },
+      {
+        "date": "05-17",
+        "score": 77.5
+      },
+      {
+        "date": "05-18",
+        "score": 80.8
+      }
+    ]
+  },
+  {
+    "id": "ahalo_007",
+    "title_en": "Controversial? Avant-garde? Understanding Chanel's New Creative Director Matthieu Blazy's Design Universe",
+    "title_cn": "争议？先锋？一期看懂香奈儿新创意总监马修的设计宇宙",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1FjQrB5EeK",
+    "image_url": "https://picsum.photos/seed/ahalo7/400/300",
+    "published_date": "2026-04-18",
+    "category": "深度评论",
+    "brands": [
+      "Chanel",
+      "Bottega Veneta"
+    ],
+    "tags": [
+      "Luxury",
+      "Avant-Garde",
+      "Executive Moves"
+    ],
+    "summary_cn": "AHALOLO系统梳理了Chanel新任创意总监Matthieu Blazy的设计履历和美学体系。从他在Bottega Veneta的极简工艺革命，到在Maison Margiela的先锋训练，再到他为Chanel设计的首个系列——视频解释了为什么Blazy是'最不Chanel的Chanel创意总监'，以及这恰恰是Chanel需要的变革。",
+    "structure": "【悬念钩子】为什么Chanel选了一个'不够Chanel'的人？→ 【设计履历梳理】Blazy的三段职业生涯美学轨迹 → 【对比分析】Bottega Veneta时代 vs Chanel时代的延续与断裂 → 【前瞻判断】Chanel的'不舒适期'可能是最好的投资期",
+    "social_heat": 91,
+    "industry_impact": 90,
+    "content_quality": 92,
+    "trend_velocity": 88,
+    "exclusivity": 75,
+    "fashion_score": 88.5,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 70.8
+      },
+      {
+        "date": "05-12",
+        "score": 71.8
+      },
+      {
+        "date": "05-13",
+        "score": 74.5
+      },
+      {
+        "date": "05-14",
+        "score": 76.2
+      },
+      {
+        "date": "05-15",
+        "score": 79.2
+      },
+      {
+        "date": "05-16",
+        "score": 85.8
+      },
+      {
+        "date": "05-17",
+        "score": 86.7
+      },
+      {
+        "date": "05-18",
+        "score": 89.2
+      }
+    ]
+  },
+  {
+    "id": "ahalo_008",
+    "title_en": "Oscars Fashion Downgrade: Hollywood Stars Can't Compete Anymore?",
+    "title_cn": "奥斯卡审美降级，好莱坞明星也卷不动了？",
+    "source": "AHALOLO (B站)",
+    "author": "AHALOLO",
+    "url": "https://www.bilibili.com/video/BV1YLwkzFE2E",
+    "image_url": "https://picsum.photos/seed/ahalo8/400/300",
+    "published_date": "2026-04-15",
+    "category": "深度评论",
+    "brands": [
+      "Dior",
+      "Chanel",
+      "Louis Vuitton",
+      "Versace"
+    ],
+    "tags": [
+      "Red Carpet",
+      "Celebrity Style",
+      "Luxury"
+    ],
+    "summary_cn": "AHALOLO犀利点评2026奥斯卡红毯的集体'审美摆烂'。从安全牌泛滥到造型师固化，从品牌合约绑架到明星个性消失——视频层层剥开好莱坞红毯审美降级的系统性原因。最后将矛头指向'流量安全主义'：当每个选择都被数据团队计算过风险，红毯失去了时尚最重要的东西——冒险精神。",
+    "structure": "【冲击力开场】2026奥斯卡红毯最差造型榜单 → 【现象诊断】从5个维度分析审美降级的症状 → 【系统归因】品牌合约/造型师垄断/社交媒体的三重枷锁 → 【价值升华】时尚的本质是冒险——红毯死于过度安全",
+    "social_heat": 94,
+    "industry_impact": 82,
+    "content_quality": 91,
+    "trend_velocity": 86,
+    "exclusivity": 78,
+    "fashion_score": 88.1,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "05-11",
+        "score": 68.1
+      },
+      {
+        "date": "05-12",
+        "score": 74.0
+      },
+      {
+        "date": "05-13",
+        "score": 73.2
+      },
+      {
+        "date": "05-14",
+        "score": 77.1
+      },
+      {
+        "date": "05-15",
+        "score": 83.3
+      },
+      {
+        "date": "05-16",
+        "score": 83.8
+      },
+      {
+        "date": "05-17",
+        "score": 85.9
+      },
+      {
+        "date": "05-18",
+        "score": 89.2
+      }
+    ]
+  },
+  {
+    "id": "shuye_001",
+    "title_en": "[Flying Mouse Classroom] Fashion · Couture · Art History Book Recommendations",
+    "title_cn": "【飞行鼠课堂】时尚 · 时装 · 艺术史书单推荐",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1FoDWBFE6t",
+    "image_url": "https://picsum.photos/seed/shuye1/400/300",
+    "published_date": "2026-04-09",
+    "category": "博主观点",
+    "brands": [],
+    "tags": [
+      "Craftsmanship",
+      "Education",
+      "Design Theory"
+    ],
+    "summary_cn": "午夜飞行鼠系统性推荐时尚史、时装设计和艺术史领域的核心书单。从《The Fashion System》到《About Looking》，构建了一条从入门到精深的阅读路径。书单涵盖理论经典、设计师传记、品牌档案和视觉文化研究四个维度，展现了博主扎实的学术功底和独特的选书品味。",
+    "structure": "【阅读方法论】如何系统学习时尚史？→ 【四大维度】理论/传记/品牌/视觉文化的书单架构 → 【每本书解读】核心观点 + 适合什么人读 + 阅读顺序建议 → 【延伸推荐】小众但值得收藏的时尚出版物",
+    "social_heat": 42,
+    "industry_impact": 38,
+    "content_quality": 92,
+    "trend_velocity": 30,
+    "exclusivity": 88,
+    "fashion_score": 57.5,
+    "is_trending": false,
+    "trend_direction": "stable",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 51.8
+      },
+      {
+        "date": "03-22",
+        "score": 53.9
+      },
+      {
+        "date": "03-23",
+        "score": 54.5
+      },
+      {
+        "date": "03-24",
+        "score": 56.5
+      },
+      {
+        "date": "03-25",
+        "score": 54.1
+      },
+      {
+        "date": "03-26",
+        "score": 55.2
+      },
+      {
+        "date": "03-27",
+        "score": 57.3
+      },
+      {
+        "date": "03-28",
+        "score": 57.7
+      }
+    ]
+  },
+  {
+    "id": "shuye_002",
+    "title_en": "[Flying Mouse Classroom] Karl Lagerfeld's Alchemy: CHANEL · Symbols · Runway and Reality",
+    "title_cn": "【飞行鼠课堂】Karl Lagerfeld 的炼金术：CHANEL · 符号 · 秀场与现实",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1dFSUBnEBg",
+    "image_url": "https://picsum.photos/seed/shuye2/400/300",
+    "published_date": "2026-04-05",
+    "category": "深度评论",
+    "brands": [
+      "Chanel",
+      "Fendi"
+    ],
+    "tags": [
+      "Couture",
+      "Luxury",
+      "Design Theory"
+    ],
+    "summary_cn": "午夜飞行鼠以符号学视角重读Karl Lagerfeld的Chanel时代。从双C标志到山茶花，从粗花呢到珍珠链，解析Lagerfeld如何将Chanel的视觉符号系统化为一套'炼金术'——将历史遗产转化为当代欲望的密码。视频触及符号消费、品牌传承与创意自由之间的根本张力。",
+    "structure": "【符号学框架】索绪尔符号学 → 时尚如何通过符号运作 → 【Chanel符号系统拆解】双C/山茶花/斜纹软呢/链条——每个符号的起源与演变 → 【炼金术比喻】Lagerfeld如何将历史符号'炼金'为当代欲望 → 【学术升华】品牌传承的本质是符号的再生产",
+    "social_heat": 48,
+    "industry_impact": 55,
+    "content_quality": 94,
+    "trend_velocity": 35,
+    "exclusivity": 90,
+    "fashion_score": 63.3,
+    "is_trending": false,
+    "trend_direction": "stable",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 59.5
+      },
+      {
+        "date": "03-22",
+        "score": 59.3
+      },
+      {
+        "date": "03-23",
+        "score": 60.7
+      },
+      {
+        "date": "03-24",
+        "score": 61.6
+      },
+      {
+        "date": "03-25",
+        "score": 62.2
+      },
+      {
+        "date": "03-26",
+        "score": 62.2
+      },
+      {
+        "date": "03-27",
+        "score": 61.6
+      },
+      {
+        "date": "03-28",
+        "score": 63.8
+      }
+    ]
+  },
+  {
+    "id": "shuye_003",
+    "title_en": "[Flying Mouse Classroom] John Galliano: A Genius' Self-Destruction, or Abandoned by the Times?",
+    "title_cn": "【飞行鼠课堂】John Galliano：一个天才的自我失控，还是被时代抛弃？",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1iYXMB7EyB",
+    "image_url": "https://picsum.photos/seed/shuye3/400/300",
+    "published_date": "2026-03-27",
+    "category": "深度评论",
+    "brands": [
+      "Dior",
+      "Maison Margiela"
+    ],
+    "tags": [
+      "Avant-Garde",
+      "Couture",
+      "Design History"
+    ],
+    "summary_cn": "午夜飞行鼠以历史学视角重审John Galliano的职业生涯——不止于2011年的丑闻与坠落。视频将Galliano放置在后冷战全球化与'时尚民主化'的宏大背景中，探讨一个本质问题：当Galliano式的极致浪漫主义不再匹配时代情绪时，这是天才的个人悲剧还是整个时尚文化的转向？论点深刻，资料翔实。",
+    "structure": "【人物弧光】Galliano四十年职业生涯三个阶段 → 【创作分析】Dior高定时代的代表作美学拆解 → 【历史语境】后冷战全球化如何催生Galliano式的奇观时尚 → 【终极追问】当时代不再需要浪漫主义——Galliano的坠落是个人问题还是系统性问题？",
+    "social_heat": 55,
+    "industry_impact": 62,
+    "content_quality": 95,
+    "trend_velocity": 42,
+    "exclusivity": 85,
+    "fashion_score": 67.2,
+    "is_trending": false,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 59.8
+      },
+      {
+        "date": "03-22",
+        "score": 63.4
+      },
+      {
+        "date": "03-23",
+        "score": 62.8
+      },
+      {
+        "date": "03-24",
+        "score": 65.1
+      },
+      {
+        "date": "03-25",
+        "score": 65.4
+      },
+      {
+        "date": "03-26",
+        "score": 66.2
+      },
+      {
+        "date": "03-27",
+        "score": 65.2
+      },
+      {
+        "date": "03-28",
+        "score": 66.2
+      }
+    ]
+  },
+  {
+    "id": "shuye_004",
+    "title_en": "[Flying Mouse Classroom] LANVIN: A Century of Beauty (The Only Deep Dive in Chinese Internet)",
+    "title_cn": "【飞行鼠课堂】LANVIN：跨越世纪之美（简中网唯一深度解读）",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV17HAwzoEHd",
+    "image_url": "https://picsum.photos/seed/shuye4/400/300",
+    "published_date": "2026-03-21",
+    "category": "深度评论",
+    "brands": [
+      "Lanvin"
+    ],
+    "tags": [
+      "Heritage",
+      "Couture",
+      "Design History"
+    ],
+    "summary_cn": "午夜飞行鼠出品了简中互联网唯一的Lanvin品牌深度史。从Jeanne Lanvin在1920年代巴黎建立品牌，到Alber Elbaz的黄金时代，再到如今的商业挣扎——视频跨越百年，呈现了一个'法国最古老时装屋'的完整生命史。填补了中文时尚内容的重要空白。",
+    "structure": "【品牌史梳理】Jeanne Lanvin的创立 → 母女符号 → 【黄金时代】Alber Elbaz时期的品牌复兴解析 → 【困境分析】频繁换帅与品牌迷失 → 【文化意义】作为一个百年品牌，Lanvin的困境折射出什么行业问题？",
+    "social_heat": 50,
+    "industry_impact": 58,
+    "content_quality": 96,
+    "trend_velocity": 40,
+    "exclusivity": 98,
+    "fashion_score": 66.8,
+    "is_trending": false,
+    "trend_direction": "stable",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 63.1
+      },
+      {
+        "date": "03-22",
+        "score": 63.7
+      },
+      {
+        "date": "03-23",
+        "score": 64.0
+      },
+      {
+        "date": "03-24",
+        "score": 65.6
+      },
+      {
+        "date": "03-25",
+        "score": 64.5
+      },
+      {
+        "date": "03-26",
+        "score": 63.5
+      },
+      {
+        "date": "03-27",
+        "score": 65.4
+      },
+      {
+        "date": "03-28",
+        "score": 67.0
+      }
+    ]
+  },
+  {
+    "id": "shuye_005",
+    "title_en": "[Flying Mouse Sharp Review] The Un-criticizable CHANEL FW2026 RTW and VIC Buying Guide",
+    "title_cn": "【飞行鼠锐评】不可批评的 CHANEL 2026 秋冬高级成衣和VIC购买指南",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1JvcXzPETV",
+    "image_url": "https://picsum.photos/seed/shuye5/400/300",
+    "published_date": "2026-03-10",
+    "category": "时装周",
+    "brands": [
+      "Chanel"
+    ],
+    "tags": [
+      "Fashion Week",
+      "Couture",
+      "Luxury"
+    ],
+    "summary_cn": "午夜飞行鼠以罕见的犀利姿态批评Chanel 2026秋冬系列——指出其在'不可批评'的品牌光环下被过度保护的困境。视频前半段是秀场评论，后半段以VIC（顶级客户）视角给出购买建议，巧妙地将业内人士批评与消费者实用指南融合。被粉丝称为'最勇敢的Chanel评论'。",
+    "structure": "【秀场直击】Chanel FW26成衣系列的10个关键Look → 【批评框架】为什么Chanel变得'不可批评'？品牌神话的双刃剑 → 【购买指南】VIC视角：哪些值得投资，哪些是智商税 → 【行业反思】当批评缺席，品牌如何进步？",
+    "social_heat": 65,
+    "industry_impact": 72,
+    "content_quality": 88,
+    "trend_velocity": 58,
+    "exclusivity": 82,
+    "fashion_score": 72.8,
+    "is_trending": false,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 63.8
+      },
+      {
+        "date": "03-22",
+        "score": 65.7
+      },
+      {
+        "date": "03-23",
+        "score": 68.5
+      },
+      {
+        "date": "03-24",
+        "score": 69.0
+      },
+      {
+        "date": "03-25",
+        "score": 69.6
+      },
+      {
+        "date": "03-26",
+        "score": 68.6
+      },
+      {
+        "date": "03-27",
+        "score": 72.5
+      },
+      {
+        "date": "03-28",
+        "score": 72.3
+      }
+    ]
+  },
+  {
+    "id": "shuye_006",
+    "title_en": "[Flying Mouse Interpretation] Piccioli and BALENCIAGA: Heritage, Calibration, and the Path of a Master",
+    "title_cn": "【飞行鼠解读】Piccioli与BALENCIAGA：承韵、校准和大师之路",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1DeNGzjENb",
+    "image_url": "https://picsum.photos/seed/shuye6/400/300",
+    "published_date": "2026-03-08",
+    "category": "品牌动态",
+    "brands": [
+      "Balenciaga",
+      "Valentino"
+    ],
+    "tags": [
+      "Couture",
+      "Executive Moves",
+      "Luxury"
+    ],
+    "summary_cn": "午夜飞行鼠深度解读Pierpaolo Piccioli入职Balenciaga的首秀。从Valentino时期的色彩诗学到Balenciaga的建筑主义，视频分析了Piccioli如何在尊重品牌档案的同时注入个人美学——'承韵'（传承Cristóbal的雕塑感）与'校准'（将街头基因调回高级定制频道）之间的精妙平衡。",
+    "structure": "【背景铺垫】Piccioli离开Valentino → 入职Balenciaga的行业震动 → 【首秀拆解】三个系列主题的美学分析 → 【'承韵·校准'框架】Piccioli的两步方法论 → 【预测】Balenciaga在Piccioli时代将走向何方",
+    "social_heat": 52,
+    "industry_impact": 68,
+    "content_quality": 90,
+    "trend_velocity": 48,
+    "exclusivity": 78,
+    "fashion_score": 67.0,
+    "is_trending": false,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 60.0
+      },
+      {
+        "date": "03-22",
+        "score": 60.8
+      },
+      {
+        "date": "03-23",
+        "score": 62.5
+      },
+      {
+        "date": "03-24",
+        "score": 63.2
+      },
+      {
+        "date": "03-25",
+        "score": 62.6
+      },
+      {
+        "date": "03-26",
+        "score": 65.1
+      },
+      {
+        "date": "03-27",
+        "score": 67.0
+      },
+      {
+        "date": "03-28",
+        "score": 67.4
+      }
+    ]
+  },
+  {
+    "id": "shuye_007",
+    "title_en": "[Flying Mouse Sharp Review] Irresponsible Anderson and His Dior FW2026 RTW",
+    "title_cn": "【飞行鼠锐评】毫无责任感的Anderson和他的 Dior 2026 秋冬高级成衣",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1f1PezWES1",
+    "image_url": "https://picsum.photos/seed/shuye7/400/300",
+    "published_date": "2026-03-04",
+    "category": "时装周",
+    "brands": [
+      "Dior",
+      "LVMH"
+    ],
+    "tags": [
+      "Fashion Week",
+      "Couture",
+      "Luxury"
+    ],
+    "summary_cn": "午夜飞行鼠火力全开批评Jonathan Anderson为Dior设计的2026秋冬系列。从'植物园'主题的执行粗陋到剪裁的基本功缺失，视频逐件拆解了这场被品牌包装为'诗意'的大秀。Anderson被指控'在Loewe的成功光环下对Dior缺乏责任感'——视频播放量7.3万证明了这一批评引发了广泛共鸣。",
+    "structure": "【开篇暴击】Anderson的Dior到底哪里出了问题 → 【逐件拆解】从面料、剪裁、廓形到主题执行力的全维度批评 → 【对比论证】Anderson在Loewe的成功 vs 在Dior的失职 → 【深层追问】明星设计师同时执掌两个品牌是否可能？LVMH的系统性责任",
+    "social_heat": 75,
+    "industry_impact": 78,
+    "content_quality": 90,
+    "trend_velocity": 72,
+    "exclusivity": 80,
+    "fashion_score": 79.0,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 68.9
+      },
+      {
+        "date": "03-22",
+        "score": 72.0
+      },
+      {
+        "date": "03-23",
+        "score": 70.8
+      },
+      {
+        "date": "03-24",
+        "score": 72.9
+      },
+      {
+        "date": "03-25",
+        "score": 76.4
+      },
+      {
+        "date": "03-26",
+        "score": 76.0
+      },
+      {
+        "date": "03-27",
+        "score": 77.6
+      },
+      {
+        "date": "03-28",
+        "score": 77.1
+      }
+    ]
+  },
+  {
+    "id": "shuye_008",
+    "title_en": "[Flying Mouse Sharp Review] Demna's Fake-Weird GUCCI FW2026 Debut",
+    "title_cn": "【飞行鼠锐评】Demna假鬼假怪的 GUCCI 2026 秋冬成衣首秀",
+    "source": "午夜飞行鼠 (B站)",
+    "author": "午夜飞行鼠",
+    "url": "https://www.bilibili.com/video/BV1UEAYzFEPE",
+    "image_url": "https://picsum.photos/seed/shuye8/400/300",
+    "published_date": "2026-02-28",
+    "category": "时装周",
+    "brands": [
+      "Gucci",
+      "Kering"
+    ],
+    "tags": [
+      "Fashion Week",
+      "Avant-Garde",
+      "Luxury"
+    ],
+    "summary_cn": "午夜飞行鼠以'假鬼假怪'（故作怪异）四字精准概括Demna的Gucci首秀。视频指出Demna试图将Balenciaga的反叛公式复制到Gucci，但缺乏真诚——'当你为叛逆而叛逆时，叛逆就成了制服'。从秀场casting到单品拆解，构建了一个严密的批评框架，播放量2.7万，引发了关于'创意总监轮岗制'弊端的广泛讨论。",
+    "structure": "【定调】'假鬼假怪'——为什么Demna的Gucci看起来不对劲 → 【设计分析】将Gucci秀场与Balenciaga时期逐项对比 → 【概念批判】'为叛逆而叛逆'的悖论 → 【行业反思】创意总监轮岗制正在杀死品牌的灵魂",
+    "social_heat": 72,
+    "industry_impact": 80,
+    "content_quality": 89,
+    "trend_velocity": 68,
+    "exclusivity": 76,
+    "fashion_score": 77.5,
+    "is_trending": true,
+    "trend_direction": "up",
+    "score_history": [
+      {
+        "date": "03-21",
+        "score": 66.9
+      },
+      {
+        "date": "03-22",
+        "score": 67.9
+      },
+      {
+        "date": "03-23",
+        "score": 68.9
+      },
+      {
+        "date": "03-24",
+        "score": 72.9
+      },
+      {
+        "date": "03-25",
+        "score": 75.0
+      },
+      {
+        "date": "03-26",
+        "score": 73.2
+      },
+      {
+        "date": "03-27",
+        "score": 76.6
+      },
+      {
+        "date": "03-28",
+        "score": 77.4
+      }
+    ]
   }
 ]
